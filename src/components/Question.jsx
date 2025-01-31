@@ -372,7 +372,7 @@ export default function Question() {
     <button type="button" className="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
   </div>
   <div className="toast-body">
-    Z chémie je upravených prvých 480 otázok. (horný a dolný index). Ak nájdete niekde chybu tak dajte vedieť :)
+    Z chémie je upravených prvých 530 otázok. (horný a dolný index). Ak nájdete niekde chybu tak dajte vedieť :)
   </div>
 </div>
     </div>
