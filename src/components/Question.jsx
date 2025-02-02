@@ -84,8 +84,10 @@ export default function Question() {
       setTimeout(() => {
         let info = document.getElementById("infoBox");
         info.style.display = "none";
-      },15000);
-      
+      },7000);
+      setTimeout(() => {
+        multiConfetti();
+      },1000)
   }, []);
 
   const changeMode = () => {
@@ -241,6 +243,17 @@ export default function Question() {
     setResults({}); // Reset výsledkov
     setCurrentQuestionIndex(0);
   }
+  function multiConfetti() {
+    const positions = [0.1, 0.3, 0.5, 0.7, 0.9]; // Rôzne pozície na šírke stránky
+
+    positions.forEach(pos => {
+      confetti({
+        particleCount: 100,
+        spread: 180,
+        origin: { x: pos, y: 0.6 }
+      });
+    });
+  }
   
   return (
     <div className="d-flex flex-column mainContainer">
@@ -366,15 +379,7 @@ export default function Question() {
       >
         Ďalšia otázka
       </button>
-      <div id="infoBox" className="toast show" role="alert" aria-live="assertive" aria-atomic="true">
-  <div className="toast-header">
-    <strong className="me-auto">INFO</strong>
-    <button type="button" className="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
-  </div>
-  <div className="toast-body">
-    Z chémie je upravených prvých 730 otázok. (horný a dolný index). Ak nájdete niekde chybu tak dajte vedieť :)
-  </div>
-</div>
+      <div className="info" id="infoBox"><h1>VŠETKY OTÁZKY Z CHÉMIE SÚ UPRAVENÉ :D</h1></div>
     </div>
   );
 }
