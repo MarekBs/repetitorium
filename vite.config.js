@@ -14,7 +14,7 @@ export default defineConfig({
         runtimeCaching: [
           {
             // Cachovanie všetkých súborov v priečinku public (aj podpriečinky)
-            urlPattern: /\/.*\.(?:js|css|html|json|txt|jpg|jpeg|png|svg|gif|webp|mp4|woff2?)$/,  // Môžeš pridať ďalšie prípony podľa potreby
+            urlPattern: /\/.*\/.*\.(?:js|css|html|json|txt|jpg|jpeg|png|svg|gif|webp|mp4|woff2?)$/,  // Cachovanie všetkých súborov, aj v podpriečinkoch
             handler: 'CacheFirst', // Najskôr kontroluje cache, ak nie je, pošle požiadavku na server
             options: {
               cacheName: 'public-assets-cache',
