@@ -9,25 +9,29 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: "autoUpdate",
-      strategies: "generateSW", // Automaticky generuje service worker
+      strategies: "generateSW", // Automatically generates service worker
       workbox: {
-        globPatterns: ["otazkyPng/**/*.{png,jpg,svg,gif,webp}"], // Precachovanie obrázkov v public/otazkyPng/
-        globDirectory: "public", // Vyhľadávanie v priečinku public/
+        globPatterns: [
+          "otazkyPng/**/*.{png,jpg,svg,gif,webp}", // Images
+          "index.html", // Ensure index.html is included
+          "**/*.{js,css}", // Cache JS and CSS files
+        ],
+        globDirectory: "dist", // Look in the dist directory (final production output)
         runtimeCaching: [
           {
-            urlPattern: /\/otazkyPng\/.*\.(?:png|jpg|svg|gif|webp)$/, // Dynamické cachovanie obrázkov
+            urlPattern: /\/otazkyPng\/.*\.(?:png|jpg|svg|gif|webp)$/, // Dynamic caching of images
             handler: "CacheFirst",
             options: {
               cacheName: "otazky-cache",
               expiration: {
                 maxEntries: 300,
-                maxAgeSeconds: 60 * 60 * 24 * 30, // 30 dní
+                maxAgeSeconds: 60 * 60 * 24 * 30, // 30 days
               },
             },
           },
         ],
       },
-      includeAssets: ["favicon.ico", "robots.txt"], // Extra statické súbory
+      includeAssets: ["favicon.ico", "robots.txt", "index.html"], // Add index.html here
       manifest: {
         name: "MedTest PWA",
         short_name: "MedTest",
@@ -48,7 +52,7 @@ export default defineConfig({
           },
         ],
       },
-    }),
+    }),    
   ],
   base: basePath,
 });
