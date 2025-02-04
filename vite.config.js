@@ -9,21 +9,42 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: "autoUpdate",
-      strategies: "generateSW", // Zmena na generateSW, ktorý automaticky vytvorí service worker
+      strategies: "generateSW", // Automaticky generuje service worker
       workbox: {
-        globPatterns: ["**/*.{js,css,html,png,jpg,svg,gif,webp,mp4,woff2}"],
-        globDirectory: "public",
+        globPatterns: ["otazkyPng/**/*.{png,jpg,svg,gif,webp}"], // Precachovanie obrázkov v public/otazkyPng/
+        globDirectory: "public", // Vyhľadávanie v priečinku public/
         runtimeCaching: [
           {
-            urlPattern: /\/.*\/.*\.(?:js|css|html|json|txt|jpg|jpeg|png|svg|gif|webp|mp4|woff2?)$/,
+            urlPattern: /\/otazkyPng\/.*\.(?:png|jpg|svg|gif|webp)$/, // Dynamické cachovanie obrázkov
             handler: "CacheFirst",
             options: {
-              cacheName: "public-assets-cache",
+              cacheName: "otazky-cache",
               expiration: {
                 maxEntries: 300,
-                maxAgeSeconds: 60 * 60 * 24 * 30,
+                maxAgeSeconds: 60 * 60 * 24 * 30, // 30 dní
               },
             },
+          },
+        ],
+      },
+      includeAssets: ["favicon.ico", "robots.txt"], // Extra statické súbory
+      manifest: {
+        name: "MedTest PWA",
+        short_name: "MedTest",
+        start_url: ".",
+        display: "standalone",
+        background_color: "#ffffff",
+        theme_color: "#000000",
+        icons: [
+          {
+            src: "/icon-192x192.png",
+            sizes: "192x192",
+            type: "image/png",
+          },
+          {
+            src: "/icon-512x512.png",
+            sizes: "512x512",
+            type: "image/png",
           },
         ],
       },
@@ -31,5 +52,6 @@ export default defineConfig({
   ],
   base: basePath,
 });
+
 
 
