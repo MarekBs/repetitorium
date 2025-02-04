@@ -15,6 +15,7 @@ export default defineConfig({
           "otazkyPng/**/*.{png,jpg,svg,gif,webp}", // Images
           "index.html", // Ensure index.html is included
           "**/*.{js,css}", // Cache JS and CSS files
+          "**/*.txt", // Add .txt files to be cached
         ],
         globDirectory: "dist", // Look in the dist directory (final production output)
         runtimeCaching: [
@@ -52,10 +53,9 @@ export default defineConfig({
           },
         ],
       },
-    }),    
+    }),
   ],
   base: basePath,
 });
-
 
 
