@@ -16,6 +16,7 @@ export default defineConfig({
           "index.html", // Ensure index.html is included
           "**/*.{js,css}", // Cache JS and CSS files
           "**/*.txt", // Add .txt files to be cached
+          "logoMED.svg", // Add logoMED.svg to be cached
         ],
         globDirectory: "dist", // Look in the dist directory (final production output)
         runtimeCaching: [
