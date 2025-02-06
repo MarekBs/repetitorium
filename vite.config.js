@@ -26,8 +26,7 @@ export default defineConfig({
             options: {
               cacheName: "otazky-cache",
               expiration: {
-                maxEntries: 300,
-                maxAgeSeconds: 60 * 60 * 24 * 30, // 30 days
+                maxEntries: 500,
               },
             },
           },
