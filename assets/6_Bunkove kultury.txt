@@ -119,10 +119,10 @@ c) je fáza množenia buniek
 d) je fáza, kde bunky v kultúre prežívajú ale už sa nedelia
 
 21. Tkanivová kultúra:
-a. sú proliferujúce bunky alebo tkanivá v kultivačnom médiu mimo organizmu
-b. je populácia buniek, ktorá proliferuje in vivo
-c. zastavuje rast buniek
-d. je organizovaná ako tkanivo
+a) sú proliferujúce bunky alebo tkanivá v kultivačnom médiu mimo organizmu
+b) je populácia buniek, ktorá proliferuje in vivo
+c) zastavuje rast buniek
+d) je organizovaná ako tkanivo
 
 22. Ktoré molekuly sa podieľajú na sprostredkovaní adherencie buniek na substrát?
 a) integríny
