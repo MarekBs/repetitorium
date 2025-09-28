@@ -1,0 +1,419 @@
+1. Restrikčný enzým štiepi DNA:
+a) špecificky
+b) nešpecificky
+c) na ľubovoľnom mieste
+d) prirodzene v baktériách
+
+2. Pohyb DNA v géle pri elektroforéze závisí od:
+a) pH
+b) veľkosti molekuly
+c) gravitácie
+d) koncentrácie gélu
+
+3) Typy sekvenovania sú:
+a) automatické
+b) ručné
+c) novej generácie
+d) starej generácie
+
+4. Po štiepení pomocou restrikčných enzýmov vznikajú konce:
+a) lepivé v RNA
+b) tupé v DNA
+c) tupé v RNA
+d) lepivé v DNA
+
+5. Na PCR reakciu potrebujeme:
+a) Taq polymerázu
+b) rRNA
+c) veľa molekúl DNA
+d) dNTP
+
+6. Mikropipety:
+a) používajú sa na manipuláciu s mikromnožstvami
+b) nie sú presné
+c) používajú sa so špičkami
+d) môžu byť nastaviteľné
+
+7. Aká je hlavná funkcia sekvenovania DNA?
+a) amplifikácia fragmentov DNA
+b) určenie veľkosti fragmentov DNA
+c) určenie poradia nukleotidov v molekule DNA
+d) meranie úrovne expresie génov
+
+8. Restrikčné endonukleázy umožňujú pri testovaní otcovstva:
+a) určiť pohlavie dieťaťa
+b) identifikovať sekvencie DNA identické so sekvenciami v DNA biologického otca
+c) určiť krvnú skupinu dieťaťa
+d) zmerať výšku dieťaťa
+
+9. Aký typ vzorky sa často používa v kriminalistike na určenie otcovstva?
+a) krvné sérum
+b) ster z bukálnej sliznice
+c) svalové tkanivo
+d) mozgovomiechový mok
+
+10. Aký archívny materiál sa využíva v molekulárnej diagnostike?
+a) kryokonzervované bunky
+b) fixovaný vo formalíne a zaliaty v parafíne
+c) surové tkanivo
+d) lyofilizovaná DNA
+
+11. Čo je cieľom homogenizácie tkaniva pri izolácii DNA?
+a) zvýšiť viskozitu roztoku
+b) rozrušiť bunky a uvoľniť DNA
+c) aktivovať nukleázy
+d) pripraviť proteíny
+
+12. Fyzikálne metódy homogenizácie sú:
+a) ultrasonikácia
+b) opakované zmrazovanie a rozmrazovanie
+c) použitie detergentov
+d) trávenie proteázami
+
+13. Ktorá metóda homogenizácie je chemická?
+a) ultrazvuk
+b) hypotonizácia
+c) detergenty
+d) tekutý dusík
+
+14. Aká je hlavná úloha centrifugácie po homogenizácii?
+a) odstránenie RNA
+b) odstránenie inhibítorov PCR
+c) oddelenie pevných častíc
+d) rozpustenie DNA
+
+15. Aké enzýmy sa pridávajú pri izolácii DNA na odstránenie RNA?
+a) DNáza
+b) RNáza
+c) proteáza
+d) lyáza
+
+16. Ktoré organické rozpúšťadlá sa používajú pri izolácii DNA?
+a) fenol
+b) chloroform
+c) močovina
+d) acetón
+
+17. Pomocou čoho sa z roztoku vyzráža DNA?
+a) etanolu alebo izopropanolu
+b) acetónu
+c) kyseliny sírovej
+d) proteáz
+
+18. Ako vyzerá kvalitná DNA po separácii gélovou elektroforézou a následnej vizualizácii, napr. pod UV svetlom?
+a) difúzne pruhy
+b) jeden hrubší pruh
+c) veľa krátkych fragmentov
+d) fluorescenčný gradient
+
+19. Prečo majú nukleové kyseliny záporný náboj?
+a) vďaka fosfátovým zvyškom
+b) vďaka ribóze
+c) vďaka vodíkovým väzbám
+d) vďaka dusíkatým bázam
+
+20. Aký gél sa používa pri elektroforéze DNA?
+a) polyakrylamidový
+b) agarózový
+c) celulózový
+d) polyuretánový
+
+21. Čo je úlohou DNA markeru (ladder)?
+a) zvýšiť intenzitu fluorescencie
+b) umožňuje určiť veľkosť fragmentov
+c) zabraňovať degradácii DNA
+d) zlepšiť migráciu
+
+22. Ako sa označuje najčastejšia forma bodového polymorfizmu?
+a) VNTR
+b) SNP
+c) STR
+d) CNV
+
+23. Na akom princípe funguje Sangerovo sekvenovanie?
+a) chemická modifikácia báz
+b) použitie dideoxynukleotidov
+c) použitie proteáz
+d) použitie RNázy
+
+24. Čo je princípom elektroforézy?
+a) migrácia molekúl v elektrickom poli podľa ich veľkosti a náboja
+b) delenie molekúl podľa hustoty v gradiente sacharózy
+c) transport DNA cez membránu fosforyláciou
+d) rozpad DNA pôsobením enzýmov
+
+25. Aký gél sa najčastejšie používa na separáciu DNA?
+a) polyakrylamid
+b) agaróza
+c) škrobový gél
+d) silikagél
+
+26. Čo je SNP (single nucleotide polymorphism)?
+a) bodová mutácia zmenená v každej bunke tela
+b) polymorfizmus v mitochondriálnej DNA
+c) zmena jedného nukleotidu v DNA
+d) tandemové opakovanie krátkeho motívu
+
+27. Ktorý enzým sa používa v PCR na syntézu DNA pri vysokých teplotách?
+a) DNA polymeráza III
+b) reverzná transkriptáza
+c) Taq polymeráza
+d) RNáza H
+
+28. Čo znamená hodnota Ct v kvantitatívnej PCR?
+a) koncentráciu templátu v mg/ml
+b) počet cyklov, po ktorých sa deteguje fluorescencia
+c) dĺžku amplifikovaného fragmentu
+d) teplotu denaturácie
+
+29. Aký je hlavný rozdiel medzi Sangerovou metódou a NGS?
+a) Sangerova metóda používa RNA templát
+b) NGS umožňuje paralelné sekvenovanie veľkého množstva fragmentov
+c) Sangerova metóda využíva fluorescenčne značené nukleotidy, NGS nie
+d) NGS má nižšiu presnosť ako Sangerova metóda
+
+30. Na čo slúžia biočipy?
+a) na amplifikáciu DNA
+b) na hybridizáciu analyzovanej DNA alebo RNA so sondami
+c) na sekvenovanie pomocou dideoxynukleotidov
+d) na vizualizáciu proteínov etídium bromidom
+
+31. Čo umožňujú DNA mikročipy?
+a) analýzu expresie génov
+b) sekvenovanie RNA
+c) produkciu proteínov
+d) syntézu primerov
+
+32. Aký je hlavný princíp real–time PCR (kvantitatívnej PCR)?
+a) sledovanie fluorescencie pri každom cykle PCR, ktorá stúpa úmerne s množstvom produktu
+b) použitie rádioaktívne značených nukleotidov na vizualizáciu PCR fragmentov
+c) amplifikácia RNA bez potreby reverznej transkripcie
+d) sekvenovanie PCR produktov počas ich syntézy
+
+33. Čo skúma genomika?
+a) funkciu proteínov
+b) kompletnú sadu DNA organizmu
+c) metabolické dráhy
+d) expresiu RNA
+
+34. Ktorá technika sa často používa na sekvenovanie celého genómu?
+a) Western blot
+b) hmotnostná spektrometria
+c) next–generation sequencing
+d) PCR
+
+35. Ktorý pojem označuje všetky gény jedného organizmu?
+a) proteóm
+b) genóm
+c) metabolóm
+d) transkriptóm
+
+36. Ktorá technológia umožňuje detekciu genetických variantov?
+a) GWAS (celogenómové asociačné štúdie)
+b) RNA – sekvenovanie
+c) ELISA
+d) prietoková cytometria
+
+37. Transkriptomika skúma:
+a) DNA sekvenciu
+b) RNA molekuly exprimované v bunkách
+c) metabolity v krvi
+d) vírusy
+
+38. Ktorá technika je základom transkriptomických štúdií?
+a) RNA – sekvenovanie
+b) CRISPR – Cas9
+c) ELISA
+d) prietoková cytometria
+
+39. Ktorý typ RNA sa najčastejšie analyzuje pri transkriptomike?
+a) rRNA
+b) mRNA
+c) tRNA
+d) miRNA
+
+40. Ktorý pojem označuje všetky RNA molekuly bunky?
+a) proteóm
+b) genóm
+c) transkriptóm
+d) metabolóm
+
+41. Metabolomika skúma:
+a) DNA variácie
+b) expresiu proteínov
+c) malé molekuly/metabolity v bunkách a tkanivách
+d) vírusov
+
+42. Ktoré analytické metódy sa bežne používajú v metabolomike?
+a) hmotnostná spektrometria a NMR
+b) Sangerovo sekvenovanie
+c) Northern blot
+d) imunohistochémia
+
+43. Ktorý pojem označuje súhrn všetkých metabolitov bunky alebo organizmu?
+a) genóm
+b) proteóm
+c) metabolóm
+d) transkriptóm
+
+44. Ktorá výskumná oblasť spája metabolomiku s genomikou a transkriptomikou?
+a) proteomika
+b) multi – omics
+c) viromika
+d) epigenomika
+
+45. Viromika skúma:
+a) celý genóm človeka
+b) vírusové populácie a ich genetickú diverzitu
+c) expresiu RNA v baktériách
+d) metabolity v krvi
+
+46. Ktorá technika je kľúčová pre viromiku?
+a) vírusová metagenomika
+b) ELISA
+c) Western blot
+d) prietoková cytometria
+
+47. Ktorý pojem označuje všetky vírusy v určitom prostredí alebo hostiteľovi?
+a) viróm
+b) viromik
+c) genóm
+d) proteóm
+
+48. Ktorá oblasť viromiky skúma interakcie vírusov s hostiteľom?
+a) host – virus interaktóm
+b) proteomika
+c) metabolomika
+d) genomika
+
+49. Čo je cieľom funkčnej genomiky?
+a) štúdium interakcií medzi génmi
+b) predikcia 3D štruktúry proteínov
+c) analýza metabolických dráh
+d) identifikácia vírusových populácií
+
+50. Ktorá metóda sa používa na porovnanie genómov rôznych organizmov?
+a) porovnávacia genomika
+b) RNA – sekvenovanie
+c) Western blot
+d) prietoková cytometria
+
+51. Pojem proteóm označuje súbor všetkých:
+a) proteínov bunky
+b) RNA
+c) génov
+d) metabolitov
+
+52. Čo umožňuje proteomika navyše oproti genomike?
+a) určiť, ktoré proteíny sú skutočne exprimované
+b) určiť sekvenciu DNA
+c) zistiť všetky metabolity
+d) identifikovať RNA transkripty
+
+53. Čo je charakteristické pre transkriptóm?
+a) je dynamický a mení sa podľa podmienok
+b) je identický vo všetkých bunkách
+c) zahŕňa všetky DNA sekvencie
+d) obsahuje iba rRNA
+
+54. Aký je hlavný rozdiel medzi proteómom a transkriptómom?
+a) proteóm je stabilný, transkriptóm je dynamický
+b) transkriptóm odráža RNA, proteóm odráža proteíny
+c) troteóm sa netýka expresie génov
+d) transkriptóm zahŕňa metabolity
+
+55. Aká technológia sa využíva na mapovanie expresie tisícov génov naraz?
+a) DNA microarray
+b) ELISA
+c) Western blot
+d) PCR
+
+56. Ktorá omika sa najviac spája s personalizovanou medicínou?
+a) mikrobiomika
+b) genomika
+c) metabolomika
+d) viromika
+
+57. Aký typ dát vzniká pri metabolomike?
+a) nukleotidové sekvencie
+b) spektrálne profily
+c) proteínové mapy
+d) RNA čítania
+
+58. Čo je cieľom viromiky?
+a) študovať len vírusy s DNA genómom
+b) charakterizovať všetky vírusy v prostredí
+c) analyzovať vírusové proteíny
+d) detegovať metabolity hostiteľa
+
+59. Ktorá oblasť skúma špecificky epigenetické zmeny v genóme?
+a) epigenomika
+b) proteomika
+c) viromika
+d) metabolomika
+
+60. Multi–omics prístup je dôležitý preto, že:
+a) integruje viacero vrstiev biologických informácií
+b) nahrádza všetky experimentálne metódy
+c) zameriava sa len na RNA
+d) zahŕňa výlučne proteíny
+
+61. Aká je hlavná výhoda NMR (nukleárnej magnetickej rezonancie) v metabolomike?
+a) vysoká senzitivita
+b) neinvazívna analýza
+c) sekvenuje DNA
+d) kvantifikuje RNA
+
+62. Ktoré oblasti skúma systémová biológia?
+a) len metabolomiku
+b) komplexné signálne dráhy medzi génmi, proteínmi a metabolitmi
+c) len DNA replikáciu
+d) len viromiku
+
+63. Čo skúma epigenomika?
+a) sekvenciu DNA
+b) mutácie v génoch
+c) chemické modifikácie DNA a histónov ovplyvňujúce génovú expresiu
+d) len mitochondriálnu DNA
+
+64. Ktorá disciplína analyzuje siete vzájomných interakcií medzi proteínmi?
+a) lipidomika
+b) glykomika
+c) interaktomika
+d) farmakogenomika
+
+65. Aký je hlavný predmet štúdia lipidomiky?
+a) glykozylácia proteínov
+b) zloženie a funkcia lipidov v bunkách
+c) expresia mikroRNA
+d) tandemové repetície v DNA
+
+66. Čo je cieľom glykomiky?
+a) skúmanie štruktúry a funkcie sacharidov a glykánov
+b) analýza mutácií v rRNA
+c) meranie hladiny metabolitov
+d) štúdium patogénnych mikroorganizmov
+
+67. Ktorá oblasť sa zameriava na zloženie a funkciu črevného mikrobiomu?
+a) epigenomika
+b) mikrobiomika
+c) exozomika
+d) farmakogenomika
+
+68. Čo skúma farmakogenomika?
+a) genetické faktory ovplyvňujúce odpoveď na liečbu
+b) expresiu génov pri infekciách
+c) metabolické produkty buniek
+d) interakcie medzi proteínmi
+
+69. Čo je predmetom exozomiky (extracelulárnej vezikulomiky)?
+a) analýza histónových modifikácií
+b) obsah vezikúl nesúcich nukleové kyseliny, proteíny a lipidy
+c) sledovanie glykozylácie proteínov
+d) analýza extracelulárnych vezikúl ako biomarkerov
+
+70. Aký typ molekúl je hlavným predmetom skúmania v glykomike?
+a) lipidy
+b) sacharidy a glykanové štruktúry
+c) RNA transkripty
+d) fosfoproteíny

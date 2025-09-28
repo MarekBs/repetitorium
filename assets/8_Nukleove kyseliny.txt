@@ -1,0 +1,329 @@
+1. Čo platí o mitochondriálnej DNA?
+a) dedí sa paternálne
+b) je veľká kruhová molekula
+c) obsahuje 37 génov
+d) neobsahuje intróny
+
+2. O A forme DNA platí: 
+a) je ľavotočivá 
+b) je pravotočivá 
+c) vyskytuje sa pri nadbytku vody 
+d) vyskytuje sa pri nedostatku soli
+
+3. Nukleozid obsahuje: 
+a) cukor 
+b) fosfát 
+c) bázu
+d) glykozidickú väzba 
+
+4. DNA sa nachádza: 
+a) takmer vo všetkých bunkách 
+b) v jadre 
+c) v mitochondriách 
+d) v endoplazmatickom retikule 
+
+5. Pyrimidínové bázy sú: 
+a) cytozín 
+b) uracil 
+c) tymín 
+d) guanín 
+
+6. Adenín sa podľa pravidiel komplementarity páruje s: 
+a) adenínom 
+b) guanínom 
+c) tymínom 
+d) uracilom 
+
+7. Chargaffovo pravidlo znamená, že: 
+a) množstvo adenínu = množstvu tymínu 
+b) množstvo guanínu = množstvu cytozínu 
+c) množstvo purínov sa rovná množstvu pyrimidínov 
+d) množstvo purínov sa rovná množstvu purínov
+
+8. Pravotočivé konformácie DNA sú: 
+a) len Z 
+b) len A 
+c) len B 
+d) A aj B 
+
+9. V polynukleotidovom reťazci sú nukleotidy navzájom spojené väzbou: 
+a) N – glykozidickou 
+b) 3´ a 5´ – glykozidickou 
+c) 3´ a 5´ – fosfátovou 
+d) 3´ a 5´ – fosfodiesterovou 
+
+10. Aký typ DNA je významný pri regulácii expresie génov?
+a) B – DNA
+b) Z – DNA
+c) A – DNA
+d) C – DNA
+
+11. Ktoré úseky DNA tvoria jadrový genóm?
+a) kódujúce gény (proteíny, rRNA, tRNA)
+b) nekódujúce úseky (pseudogény, promótory, repetitívne sekvencie)
+c) mitochondriálna DNA
+d) histónové proteíny
+
+12. Ktoré úseky genómu patria medzi vysoko repetitívne sekvencie?
+a) LINE
+b) SINE – Alu
+c) satelitná DNA
+d) histónové gény
+
+13. Čo platí pre mitochondriálnu DNA (mtDNA)?
+a) má intróny
+b) má mierne odlišný genetický kód od jadrovej DNA
+c) kóduje všetky mitochondriálne proteíny
+d) dedí sa výhradne maternálnou líniou
+
+14. Koľko génov obsahuje ľudská mtDNA?
+a) 13 pre kódujúce proteíny
+b) 22 pre tRNA
+c) 2 pre rRNA
+d) celkovo 46
+
+15. Čo zabezpečuje Chargaffovo pravidlo?
+a) rovnaké množstvo purínov a purínov 
+b) stabilitu DNA štruktúry
+c) presnosť replikácie
+d) tvorbu superšpirál
+
+16. Aký typ repetitívnych sekvencií predstavujú minisatelity a mikrosatelity?
+a) LINE
+b) SINE
+c) satelitná DNA
+d) pseudogény
+
+17. Ktorá molekula je u väčšiny organizmov hlavným nositeľom genetickej informácie?
+a) DNA
+b) RNA
+c) proteíny
+d) lipidy
+
+18. Z čoho sa skladá nukleotid?
+a) dusíkatá báza
+b) pentóza
+c) fosfátová skupina
+d) aminokyselina
+
+19. Aký cukor sa nachádza v DNA a aký v RNA?
+a) deoxyribóza v DNA
+b) ribóza v RNA
+c) glukóza v DNA
+d) fruktóza v RNA
+
+20. Ktoré bázy patria medzi puríny?
+a) adenín
+b) guanín
+c) cytozín
+d) tymín
+
+21. Ktoré bázy sa nachádzajú v RNA?
+a) adenín
+b) guanín
+c) uracil
+d) tymín
+
+22. Ako sú nukleotidy spojené v polynukleotidovom reťazci?
+a) peptidovou väzbou
+b) 3’ – 5’ fosfodiesterovou väzbou
+c) vodíkovou väzbou
+d) disulfidovým mostíkom
+
+23. Čím sa líši nukleozid od nukleotidu?
+a) nukleozid neobsahuje fosfát
+b) nukleozid obsahuje vždy tymín
+c) nukleotid nemá ribózu
+d) nukleotid obsahuje fosfát
+
+24. Koľko bázových párov má jedna otočka B – DNA?
+a) 10
+b) 10,5
+c) 11
+d) 12,5
+
+25. Ktorý pár báz je spojený tromi vodíkovými väzbami?
+a) A – T
+b) G – C
+c) A – U
+d) T – U
+
+26. Aké vlastnosti má Z – DNA?
+a) je pravotočivá
+b) má 12 bp na otočku
+c) schopnosť regulácie génovej expresie
+d) vzniká pri dehydratácii
+
+27. Aká je charakteristická vlastnosť A – DNA?
+a) je ľavotočivá
+b) vzniká pri dehydratácii
+c) má 11 bp na otočku
+d) nachádza sa v mitochondriách
+
+28. Ktoré sekvencie patria medzi nekódujúce oblasti DNA?
+a) promótory
+b) intróny
+c) rRNA gény
+d) exóny
+
+29. Aký je podiel LINE prvkov v ľudskom genóme?
+a) 5 %
+b) 13 %
+c) 21 %
+d) 40 %
+
+30. Čo je D – loop v mitochondriálnej DNA?
+a) oblasť kódujúca rRNA
+b) oblasť kódujúca tRNA
+c) regulačná oblasť pre replikáciu a transkripciu
+d) kodón pre tryptofán
+
+31. Čo je typická vlastnosť plazmidov?
+a) sú to lineárne molekuly DNA
+b) replikujú sa nezávisle od hlavného chromozómu
+c) prenášajú mitochondriálne gény
+d) nemajú vlastný replikačný začiatok
+
+32. Aké gény môžu obsahovať plazmidy?
+a) gémy rezistencie na antibiotiká
+b) gény pre špecifické enzýmy
+c) gén pre hemoglobín
+d) gén pre históny
+
+33. Aký cukor je súčasťou ribonukleotidu?
+a) deoxyribóza
+b) ribóza
+c) glukóza
+d) fruktóza
+
+34. Čo umožňuje vznik sekundárnej štruktúry RNA?
+a) fosfodiesterové väzby
+b) vodíkové väzby medzi komplementárnymi bázami
+c) disulfidové mostíky
+d) interakcie s proteínmi
+
+35. Čo stabilizuje terciárnu štruktúru RNA?
+a) prispievajú k tomu aj Hoogsteenove párovania
+b) interakcie s iónmi kovov
+c) najmä peptidové väzby
+d) väzba histónov
+
+36. Ktoré rRNA sú prítomné v eukaryotických ribozómoch?
+a) 18S
+b) 28S
+c) 45S
+d) 5S
+
+37. Aký tvar má priestorová štruktúra tRNA?
+a) helikálna špirála
+b) písmeno L v 3D
+c) tvar štvorlístka v 2D
+d) tvar Y
+
+38. Ktorá lncRNA sa podieľa na inaktivácii chromozómu X?
+a) miRNA
+b) XIST
+c) snoRNA
+d) siRNA
+
+39. Aké sú funkcie miRNA?
+a) prenos aminokyselín
+b) blokovanie translácie mRNA
+c) oprava DNA
+d) aktivácia transkripcie 
+
+40. Čo je typické pre siRNA?
+a) je dvojvláknová
+b) spôsobuje posttranskripčné umlčanie génov
+c) aktivuje transpozóny
+d) podieľa sa na tvorbe ribozómov
+
+41. Čo je hlavnou funkciou piRNA?
+a) regulácia viac než tretiny génov
+b) ochrana genómu pohlavných buniek pred transpozónmi
+c) sprostredkovanie translácie
+d) tvorba poly–A chvosta
+
+42. Aký je približný počet nukleotidov v tRNA?
+a) 20 – 40
+b) 50 – 60
+c) 74 – 95
+d) 120 – 150
+
+43. Aká sekvencia sa nachádza na 3’ konci tRNA a slúži na naviazanie aminokyseliny?
+a) AUG
+b) CCA
+c) UGA
+d) GCU
+
+44. Ktoré malé nekódujúce RNA sa podieľajú na spracovaní a modifikácii RNA?
+a) snRNA
+b) snoRNA
+c) miRNA
+d) rRNA
+
+45. Aká je hlavná funkcia niektorých circRNA v regulácii génovej expresie?
+a) slúžia ako templát pre syntézu histónov
+b) pôsobia ako „špongie“ viažuce miRNA
+c) rozkladajú ribozómy
+d) aktivujú transláciu v mitochondriách
+
+46. Čo je základnou vlastnosťou RNA?
+a) je dvojvláknová
+b) je jednovláknová
+c) je stabilnejšia než DNA
+d) neobsahuje uracil
+
+47. Aký je typický tvar transferovej RNA (tRNA) v priestore?
+a) dvojzávitnicová špirála
+b) písmeno L
+c) trojzávitnicová špirála
+d) guľovitý globulín
+
+48. Ktoré typy RNA sa podieľajú na spracovaní a modifikácii RNA?
+a) snRNA a snoRNA
+b) mRNA a rRNA
+c) miRNA a siRNA
+d) circRNA a lncRNA
+
+49. Ktorý typ RNA funguje ako „špongia“ pre miRNA a tým reguluje expresiu génov?
+a) tRNA
+b) circRNA
+c) rRNA
+d) siRNA
+
+50. V ktorej možnosti sú regulačným RNA správne priradené ich funkcie?
+a) miRNA – blokuje transláciu, siRNA – degradácia mRNA, piRNA – ochrana pred transpozónmi
+b) miRNA – syntéza proteínov, siRNA – splicing, piRNA – modifikácia rRNA
+c) miRNA – katalýza peptidovej väzby, siRNA – transport aminokyselín, piRNA – tvorba ribozómov
+d) miRNA – elongácia translácie, siRNA – aktivácia transkripcie, piRNA – degradácia proteínov
+
+51. Ktorý typ RNA je najpočetnejší v bunke?
+a) mRNA
+b) rRNA
+c) tRNA
+d) miRNA
+
+52. Aká štruktúra sa vytvára pri intramolekulárnom párovaní báz v jednom vlákne RNA?
+a) terciárna štruktúra
+b) sekundárna štruktúra
+c) primárna štruktúra
+d) kvaternérna štruktúra
+
+53. Ktorý proces je priamo závislý od snRNA?
+a) splicing hnRNA
+b) translácia na ribozómoch
+c) degradácia mRNA
+d) tvorba poly–A chvosta
+
+54. Ktorá z uvedených RNA má najkratšiu dĺžku?
+a) mRNA
+b) tRNA
+c) miRNA
+d) snoRNA
+
+55. Ktorá kombinácia typov nekódujúcej RNA a ich typických rozmerov je správna?
+a) snoRNA – 60 až 300 nt
+b) snRNA – približne 150 nt
+c) miRNA – 150 nt
+d) siRNA – 20 až 25 nt

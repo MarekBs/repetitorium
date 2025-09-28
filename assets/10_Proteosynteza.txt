@@ -1,0 +1,449 @@
+1. Štruktúrny eukaryotický gén obsahuje:
+a) kódujúce oblasti
+b) intróny
+c) STOP kodón
+d) ŠTART kvadruplet
+
+2. RNA polymeráza I:
+a) transkribuje gény pre tRNA
+b) vyskytuje sa v jadierku
+c) vyskytuje sa iba u baktérií
+d) transkribuje gény pre 5SrRNA
+
+3. Transkripčný faktor TFIID sa viaže na:
+a) TATA box
+b) CAAT box
+c) GC box
+d) NusA proteín
+
+4. Prokaryotická mRNA je:
+a) megacistronická
+b) monocistronická
+c) acistronická
+d) polycistronická
+
+5. Posttranskripčné modifikácie RNA sú:
+a) Shine–Dalgarnova úprava
+b) vystrihnutie intrónov
+c) čiapočka na 5´ konci
+d) čiapočka na 3´ konci
+
+6. Ktoré z nasledujúcich tvrdení sú pri syntéze (transkripcii) RNA pravdivé?
+a) RNA polymeráza pridáva nukleotidy do 5' → 3' rastúceho vlákna DNA
+b) promótory sú rozpoznané sekvencie, ktoré signalizujú začiatok transkripcie
+c) templátové vlákno DNA sa číta v smere 3' → 5'
+d) obe vlákna DNA slúžia ako templáty súčasne
+
+7. RNA polymeráza II syntetizuje:
+a) mRNA
+b) miRNA
+c) hnRNA
+d) tRNA
+
+8. Aminokyseliny môžu byť kódované:
+a) vždy len jedným kodónom
+b) vždy len jedným tripletom
+c) viacerými tripletmi
+d) viacerými kodónmi
+
+9. Modifikácia hnRNA zahŕňa:
+a) úpravu 5´ konca (čiapočka)
+b) úpravu 3´ konca (čiapočka)
+c) polyadenyláciu 3´ konca
+d) polyadenyláciu 5´ konca
+
+10. Vlastnosti genetického kódu sú:
+a) univerzálny
+b) tripletový
+c) degenerovaný
+d) semikonzervatívny
+
+11. Štartovacím kodónom je:
+a) GUA
+b) UAG
+c) UAC
+d) AUG
+
+12. Syntéza polypeptidového reťazca u prokaryotických organizmov začína aminokyselinou:
+a) metionín
+b) N – formylmetionín
+c) arginín
+d) prolín
+
+13. Ktoré z nasledujúcich zložiek sa počas syntézy RNA (transkripcie) podieľajú na iniciácii transkripcie?
+a) promótorová oblasť
+b) terminátorová sekvencia
+c) ribonukleotidtrifosfáty (rNTP)
+d) transkripčné faktory
+
+14. Čo sa rozumie pod pojmom „genetický kód“?
+a) poradie nukleotidov určujúce štruktúru bielkoviny
+b) reťazec aminokyselín
+c) typ RNA v bunke
+d) sekvencia repetitívnej DNA
+
+15. Aký enzým predlžuje konce DNA pri replikácii telomér?
+a) DNA pol ε
+b) telomeráza
+c) DNA ligáza
+d) PCNA
+
+16. Čo sa deje s nukleozómami počas replikácie DNA?
+a) nukleozómy sa počas replikácie nemenia
+b) počas replikácie sa rozpadnú a znova poskladajú zo starých aj nových histónov
+c) históny sa úplne odstránia a nahradia iba novými
+d) DNA sa replikuje bez účasti histónov
+
+17. Ktorý box sa nachádza v prokaryotickom promótore v polohe – 10?
+a) GACA
+b) TATAAT (Pribnow box)
+c) CAAT
+d) GC
+
+18. Ktorý box sa nachádza v eukaryotickom promótore a viaže TFIID?
+a) TATA (Hognessov)
+b) CAAT
+c) GC
+d) Shine – Dalgarno
+
+19. V eukaryotickej kódujúcej oblasti sa striedajú:
+a) promótory a enhancery
+b) exóny a intróny
+c) ORF a 5′UTR
+d) GC a CAAT boxy
+
+20. Aká sekvencia signalizuje polyadenyláciu eukaryotickej mRNA?
+a) AATAAA
+b) AUG
+c) TTAGGG
+d) Shine – Dalgarno
+
+21. Koľko typov RNA polymeráz majú eukaryoty?
+a) 1
+b) 2
+c) 3
+d) 5
+
+22. Ktorá RNA polymeráza syntetizuje mRNA u eukaryotov?
+a) RNA pol I
+b) RNA pol II
+c) RNA pol III
+d) RNA pol IV
+
+23. Ktorá sekvencia umožňuje väzbu mRNA na 16S rRNA u prokaryotov?
+a) Shine–Dalgarnova
+b) TATA box
+c) PolyA signál
+d) GC box
+
+24. Ktoré faktory regulujú intenzitu transkripcie u eukaryotov?
+a) enhancery
+b) silencery
+c) σ – faktory
+d) nukleozómy
+
+25. Mechanizmus regulácie proteosyntézy pomocou RNA sa nazýva:
+a) interferencia
+b) interupcia
+c) interakcia
+d) intermediarita
+
+26. Ramená tRNA sú:
+a) akceptorové
+b) pseudouridínové
+c) náhodné
+d) kodónové
+
+27. Proteosyntetický aparát je zložený z:
+a) mRNA
+b) konformačného ribozómu
+c) aminokyseliny
+d) tRNA
+
+28. Translácia prebieha:
+a) v jadre
+b) v jadierku
+c) v cytoplazme
+d) na ribozómoch
+
+29. Na ribozóme sú väzbové miesta:
+a) väzbové miesto pre mRNA
+b) P miesto
+c) A miesto
+d) výstupné miesto
+
+30. Podjednotky eukaryotických ribozómov sú:
+a) 50S a 30S
+b) 40S a 60S
+c) 60S a 30S
+d) 30S a 70S
+
+31. Ktorá sekvencia sa nachádza na 3′ konci tRNA?
+a) AUG
+b) UAA
+c) CCA
+d) TTAGGG
+
+32. Aká je funkcia adenínu na 3′ konci tRNA?
+a) je tam z dôvodu stabilizácie slučky
+b) slúži ako väzobné miesto pre aminokyselinu
+c) slúži ako väzobné miesto pre ribozóm
+d) slúži ako väzobné miesto pre mRNA
+
+33. Ktoré bázy patria medzi minoritné bázy tRNA?
+a) inozín
+b) dihydrouracil
+c) tymín
+d) metionín
+
+34. Ktorý enzým syntetizuje prekurzorovú tRNA?
+a) RNA pol I
+b) RNA pol II
+c) RNA pol III
+d) DNA pol δ
+
+35. Ktorý enzým odstraňuje intróny z pre–tRNA?
+a) RNáza H
+b) špecifické endonukleázy
+c) exonukleáza
+d) Pol δ
+
+36. Koľko typov rRNA majú prokaryoty?
+a) 2
+b) 3
+c) 4
+d) 5
+
+37. Ktoré podjednotky ribozómu majú eukaryoty?
+a) 30S a 50S
+b) 40S a 60S
+c) 20S a 40S
+d) 18S a 28S
+
+38. Koľko typov rRNA majú eukaryoty?
+a) 3
+b) 4
+c) 5
+d) 6
+
+39. Čo obsahuje 40S podjednotka ribozómu?
+a) 18S rRNA
+b) 28S rRNA
+c) 5S rRNA
+d) 5,8S rRNA
+
+40. Čo obsahuje 60S podjednotka ribozómu?
+a) 18S rRNA
+b) 28S rRNA
+c) 5,8S rRNA
+d) 5S rRNA
+
+41. Kde prebieha syntéza rRNA?
+a) v jadre
+b) v jadierku
+c) v cytoplazme
+d) v endoplazmatickom retikule
+
+42. Ktorá RNA polymeráza prepisuje 45S pre – rRNA?
+a) RNA pol I
+b) RNA pol II
+c) RNA pol III
+d) DNA pol γ
+
+43. Čo je hlavnou funkciou miRNA?
+a) katalýza peptidových väzieb
+b) regulácia génovej expresie
+c) splicing hnRNA
+d) transport aminokyselín
+
+44. Akú štruktúru má siRNA?
+a) jednovláknovú
+b) dvojvláknovú
+c) kruhovú
+d) trojlístkovú
+
+45. Aká je hlavná úloha snoRNA?
+a) prenos aminokyselín
+b) modifikácia rRNA
+c) regulácia mRNA
+d) translácia
+
+46. Ktoré procesy sprostredkúva snoRNA?
+a) metylácia
+b) pseudouridylácia
+c) fosforylácia
+d) polyadenylácia
+
+47. Čo je RNA interferencia (RNAi)?
+a) mechanizmus splicingu
+b) mechanizmus degradácie alebo inhibície mRNA prostredníctvom regulačných RNA
+c) mechanizmus syntézy proteínov
+d) mechanizmus syntézy tRNA
+
+48. Ktorý enzým katalyzuje vznik peptidovej väzby počas elongácie?
+a) peptidyltransferáza
+b) DNA pol δ
+c) RNA pol II
+d) ligáza
+
+49. Čo sú polyribozómy (polyzómy)?
+a) reťazce ribozómových proteínov
+b) viac ribozómov súčasne na jednej mRNA
+c) ribozómy pripojené na ER
+d) skupina ribozómov bez RNA
+
+50. Čo je gén?
+a) úsek DNA alebo RNA nesúci informáciu pre syntézu proteínu alebo funkčnej RNA
+b) úsek DNA, ktorý vždy kóduje iba proteín
+c) najmenšia jednotka dedičnosti tvorí jeden nukleotid
+d) kompletná sekvencia DNA, ktorá sa replikuje
+
+51. Aké typy génov poznáme podľa funkcie?
+a) štruktúrne gény
+b) regulačné gény
+c) lipidy kódujúce gény
+d) gény kódujúce len polysacharidy
+
+52. Ktoré prvky obsahuje prokaryotický promótor?
+a) GACA box v polohe – 35
+b) TATA (Pribnowov) box v polohe – 10
+c) CAAT box
+d) GC box
+
+53. Ktoré sekvencie sú typické pre eukaryotický promótor?
+a) GACA box
+b) CAAT box
+c) TATA box (Hognessov)
+d) Shine–Dalgarnova sekvencia
+
+54. Čo sa nachádza v kódujúcej oblasti eukaryotických génov?
+a) len regulačné proteíny
+b) intróny
+c) iba stop kodóny
+d) exóny
+
+55. Čo je regulačný gén?
+a) gén, ktorý kóduje induktory alebo represory ovplyvňujúce expresiu iných génov
+b) gén, ktorý sa vždy prepíše do tRNA
+c) gén bez funkcie
+d) gén, ktorý kóduje poly(A) polymerázu
+
+56. Koľko kodónov existuje a koľko z nich kóduje aminokyseliny?
+a) 64 kodónov, z toho 61 kóduje aminokyseliny
+b) 64 kodónov, z toho 3 sú stop kodóny
+c) 20 kodónov, z toho všetky kódujú aminokyseliny
+d) 64 kodónov, z toho iba 20 má význam
+
+57. Ktoré tvrdenia platia pre štart kodón?
+a) jeho sekvencia je UAA
+b) kóduje metionín
+c) nachádza sa iba u prokaryotov
+d) jeho sekvencia je AUG
+
+58. Čo sú prióny?
+a) patologické proteíny schopné meniť konformáciu normálnych proteínov
+b) častice obsahujúce len RNA
+c) infekčné častice bez nukleových kyselín
+d) retrovírusy
+
+59. Čo je transkripcia?
+a) syntéza RNA podľa templátu DNA
+b) syntéza DNA podľa RNA
+c) syntéza proteínu na ribozóme
+d) oprava poškodených úsekov DNA
+
+60. Aký je rozdiel medzi mRNA u prokaryotov a eukaryotov?
+a) prokaryotická mRNA je často polycistronická
+b) eukaryotická mRNA je normocistronická 
+c) prokaryotická mRNA vždy kóduje iba jeden proteín
+d) eukaryotická mRNA sa nikdy neupravuje
+
+61. Čo sprostredkuje iniciáciu transkripcie u prokaryotov?
+a) sigma faktor
+b) NusA proteín
+c) rho faktor
+d) DNA ligáza
+
+62. Čo je charakteristické pre elongáciu transkripcie u prokaryotov?
+a) RNA polymeráza postupuje rýchlosťou asi 60 nt/s
+b) sigma faktor zostáva stále naviazaný
+c) NusA proteín sa viaže na RNA polymerázu
+d) polymeráza sa pohybuje iba po vedúcom vlákne DNA
+
+63. Čo je primárnym produktom transkripcie štruktúrnych génov u eukaryotov?
+a) pre–mRNA
+b) hotová mRNA
+c) tRNA
+d) hnRNA
+
+64. Čo je promótor?
+a) regulačná oblasť génu umožňujúca naviazanie RNA polymerázy
+b) úsek DNA, ktorý vždy kóduje proteín
+c) časť ribozómu
+d) regulačná sekvencia obsahujúca boxy (napr. TATA, CAAT)
+
+65. Ktoré kodóny patria medzi stop kodóny?
+a) UAA
+b) UAG
+c) UGG
+d) UGA
+
+66. Ktoré tvrdenia sú správne o exónoch a intrónoch?
+a) exóny sú kódujúce úseky génu
+b) intróny sú nekódujúce úseky génu
+c) intróny kódujú proteíny
+d) exóny sa vystrihujú zo zrelého transkriptu 
+
+67. Aký je rozdiel medzi štruktúrnym a regulačným génom?
+a) štruktúrny gén kóduje proteín
+b) regulačný gén kóduje faktor ovplyvňujúci expresiu iných génov
+c) regulačný gén vždy kóduje tRNA
+d) štruktúrny gén neobsahuje promótor
+
+68. Čo je Shine – Dalgarno sekvencia?
+a) úsek mRNA u prokaryotov, ktorý sa viaže na 16S rRNA
+b) úsek eukaryotického promótora
+c) štart kodón AUG
+d) časť poly(A) chvosta
+
+69. Ktoré tvrdenia platia o štart kodóne?
+a) jeho sekvencia je AUG
+b) kóduje metionín
+c) nachádza sa v intróne
+d) je zároveň stop signál
+
+70. Aké bázy sa čítajú v triplete kodónu?
+a) 2 puríny a 1 pyrimidín
+b) trojica za sebou idúcich nukleotidov
+c) 4 nukleotidy v rade
+d) vždy len adenín a uracil
+
+71. Čo platí o intrónoch?
+a) sú to nekódujúce úseky génu
+b) odstraňujú sa splicingom
+c) sú to kodóny pre stop signály
+d) sú sekvencie, ktoré kódujú tRNA
+
+72. Ktoré aminokyseliny sú kódované iba jedným kodónom?
+a) metionín
+b) leucín
+c) tryptofán
+d) serín
+
+73. Čo sa nachádza v 3’ UTR oblasti génu?
+a) signály pre polyadenyláciu
+b) regulačné sekvencie ovplyvňujúce stabilitu mRNA
+c) štart kodón
+d) Shine–Dalgarnova sekvencia
+
+74. Čo je GC box?
+a) sekvencia eukaryotického promótora
+b) časť poly(A) chvosta
+c) viaže sa naň transkripčný faktor SP1
+d) miesto, kde začína splicing
+
+75. Ktoré tvrdenia sú správne o stop kodónoch?
+a) sú tri: UAA, UAG, UGA
+b) kódujú metionín
+c) nešpecifikujú žiadnu aminokyselinu
+d) určujú začiatok translácie

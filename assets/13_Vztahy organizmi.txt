@@ -1,0 +1,360 @@
+1. Baktérie sú:
+a) nebunkové patogény ľudí
+b) bunkové patogény ľudí
+c) eukaryotické mikroorganizmy
+d) prokaryotické mikroorganizmy
+
+2. Veľkosť baktérií je:
+a) rádovo porovnateľná s veľkosťou ľudskej eukaryotickej bunky
+b) nie je rádovo porovnateľná s veľkosťou ľudskej eukaryotickej bunky
+c) meraná v μm
+d) meraná v mm
+
+3. Z hľadiska vzťahu baktérií ku kyslíku platí, že:
+a) aeróbne baktérie na svoju existenciu nevyžadujú kyslík
+b) anaeróbne baktérie na svoju existenciu vyžadujú kyslík
+c) na anaeróbne baktérie pôsobí kyslík toxicky
+d) aeróbne baktérie na svoju existenciu vyžadujú kyslík
+
+4. Ktoré baktérie trvalo žijú v hrubom čreve?
+a) kvasné baktérie
+b) Escherichia coli
+c) hnilobné baktérie
+d) nepatogénne baktérie
+
+5. Baktérie možno nájsť:
+a) na povrchu organizmov
+b) v krvi zdravého človeka
+c) v bakteriofágoch
+d) v hrubom čreve človeka
+
+6. Baktérie vyvolávajú:
+a) besnotu
+b) tuberkulózu
+c) detské kiahne
+d) tetanus
+
+7. Mikroskopické huby:
+a) sú prokaryotické organizmy
+b) sú heterotrofné organizmy
+c) sú schopné fotosyntézy
+d) sú eukaryotické organizmy
+
+8. Prvé antibiotikum bolo:
+a) izolované z vírusu
+b) penicilín
+c) produkované druhom Penicillium notatum
+d) vankomycín
+
+9. Spóra bakteriálnej bunky sa od materskej bunky odlišuje:
+a) rozdielnym obsahom vody
+b) vnímavosťou k činiteľom vonkajšieho prostredia
+c) aktivitou látkovej výmeny
+d) taxonomickým zaradením
+
+10. Najznámejšími bakteriálnymi pôvodcami pohlavných ochorení sú:
+a) Salmonella
+b) Mycobacterium tuberculosis
+c) Treponema pallidum
+d) Neisseria gonorrhoeae
+
+11. Pôvodcami respiračných bakteriálnych infekcií sú zástupcovia rodov:
+a) Salmonella
+b) Mycobacterium tuberculosis
+c) Treponema
+d) Escherichia
+
+12. Patogénne baktérie môžu spôsobovať:
+a) Salmonelózu
+b) Choleru
+c) ovčie kiahne
+d) osýpky
+
+13. Pôvodcami ťažkých bakteriálnych hnačkových ochorení sú zástupcovia rodov:
+a) Salmonella
+b) Mycobacterium
+c) Shigella
+d) Escherichia
+
+14. Plazmid:
+a) je bakteriálna bunka schopná sama vyrobiť
+b) vie bakteriálna bunka získať od inej bunky
+c) stráca donorová bakteriálna bunka počas konjugácie
+d) je počas konjugácie replikovaný, donorová bakteriálna bunka ho nestráca
+
+15. Plazmidom môže byť podmienená: 
+a) Rezistencia na antibiotiká, chemoterapeutiká a ťažké kovy
+b) Replikácia bakteriálneho genómu
+c) Produkcia antibiotík a toxínov
+d) Degradácia a oxidácia inak biologicky inertných alebo toxických organických látok
+
+16. Genotypové metódy na sledovanie rezistencie baktérií na antibiotiká:
+a) predpovedajú iba rezistenciu, nie sú kvantifikovateľné
+b) dokážu zachytiť nové, novo sa vyskytujúce, dosiaľ neznáme genetické determinanty
+c) predpovedajú rezistencie a nové varianty známych génov rezistencie
+d) nezachytávajú gény rezistencie bez fenotypového prejavu
+
+17. Farbenie podľa Grama umožňuje:
+a) farbenie spór baktérií
+b) farbenie deliacich sa buniek
+c) identifikáciu fakultatívne anaeróbnych baktérií
+d) identifikovať bunky infikované vírusom
+
+18. Plazmidom môže byť podmienená: 
+a) Tvorba reštrikčných a modifikačných enzýmov
+b) Tvorba jadrovej membrány baktérií
+c) Schopnosť symbiózy
+d) Syntéza membránových organel baktérií
+
+19. Prenos plazmidu z bunky do bunky:
+a) delíme na horizontálny a vertikálny
+b) horizontálny sa deje aj medzi rôznymi druhmi a rodmi baktérií
+c) vertikálny sa deje aj medzi rôznymi druhmi a rodmi baktérií
+d) sa deje aj počas amitózy
+
+20. Horizontálny prenos plazmidu z bunky do bunky:
+a) sa deje počas amitózy z materskej na dcérske bunky
+b) prebieha len medzi rovnakými rodmi baktérií
+c) je zodpovedný za medzidruhový a medzirodový transfer rezistencie na antibiotiká
+d) prebieha prostredníctvom konjugácie
+
+21. Ciele účinku antimikrobiálnych látok sú:
+a) bunková stena
+b) lyzozómy
+c) endoplazmatické retikulum
+d) replikácia a transkripcia
+
+
+22. Narušenie mikrobiómu sa spája s:
+a) chronickými zápalmi hrubého čreva
+b) autizmom
+c) obezitou
+d) autoimunitnými ochoreniami
+
+23. Entamoeba histolytica – forma minuta:
+a) tvorí štvorjadrové cysty
+b) nevytvára cysty
+c) je vysoko patogénna
+d) vyskytuje sa ako trofozoit
+
+24. Entamoeba histolytica:
+a) človek sa najčastejšie infikuje alimentárnou cestou zrelými štvorjadrovými cystami
+b) je to jediná patogénna améba žijúca v tráviacom systéme človeka
+c) parazituje v tenkom čreve
+d) parazituje v hrubom čreve
+
+25. Eumikróbia je:
+a) optimálny pomer zastúpenia mikroorganizmov v biocenóze
+b) premnoženie patogénnych mikroorganizmov v organizme človeka
+c) stav, pri ktorom prišlo k narušeniu rovnováhy medzi mikroorganizmami prirodzenej mikroflóry
+d) chýbanie niektorých mikroorganizmov, ktoré tvoria súčasť bežnej mikroflóry u človeka
+
+26. Giardia intestinalis:
+a) parazituje v dvanástniku a v hornej časti tenkého čreva
+b) je bičíkovec
+c) parazituje v hrubom čreve človeka
+d) má guľovitý tvar
+
+27. Giardióza sa najčastejšie prejavuje:
+a) anémiou, nedostatkom Fe
+b) malabsorbčným syndrómom
+c) prítomnosťou hlienu a tukov v stolici
+d) prítomnosťou krvi v stolici
+
+28. Medzi dutinové parazitické protozoa patrí:
+a) Toxoplasma gondii
+b) Entamoeba histolytica
+c) Trichomonas vaginalis
+d) Plasmodium malaria
+
+29. Patogénnosť:
+a) je schopnosť mikroorganizmu vyvolať ochorenie u hostiteľa
+b) je schopnosť mikroorganizmu vyvolať ochorenie u každého hostiteľa
+c) oportúnne patogénny vyvolávajú ochorenie iba za určitých špecifických podmienok, kde ich telo nevie tolerovať alebo pri imunodeficiencii
+d) je vlastnosťou všetkých mikroorganizmov
+
+30. Pôvodcom trojdňovej malárie je:
+a) Plasmodium falciparum
+b) Plasmodium vivax
+c) Plasmodium malariae
+d) Plasmodium ovale
+
+31. Trofozoity Toxoplazma gondii sa vyskytujú v dvoch formách:
+a) pseudocysty
+b) tachyzoity
+c) tkanivové cysty
+d) bradyzoity
+
+32. Z bunkovej membrány parazitických prvokov môžu vyrastať:
+a) bičíky
+b) cílie
+c) panôžky
+d) undulujúce membrány
+
+33. Baktérie sú:
+a) nebunkové patogény ľudí
+b) bunkové patogény ľudí 
+c) eukaryotické mikroorganizmy
+d) prokaryotické mikroorganizmy 
+
+34. Veľkosť baktérií je:
+a) rádovo porovnateľná s veľkosťou ľudskej eukaryotickej bunky
+b) nie je rádovo porovnateľná s veľkosťou ľudskej eukaryotickej bunky 
+c) vo väčšine 0,2 až 2 μm
+d) vo väčšine 0,2 až 2 mm
+
+35. Z hľadiska vzťahu baktérií ku kyslíku platí, že:
+a) aeróbne baktérie na svoju existenciu nevyžadujú kyslík
+b) anaeróbne baktérie na svoju existenciu vyžadujú kyslík
+c) na anaeróbne baktérie pôsobí kyslík toxicky 
+d) aeróbne baktérie na svoju existenciu vyžadujú kyslík 
+
+36. Ktoré baktérie trvalo žijú v hrubom čreve?
+a) kvasné baktérie
+b) Escherichia coli
+c) hnilobné baktérie
+d) nepatogénne baktérie
+
+37. Baktérie možno nájsť:
+a) na povrchu organizmov 
+b) v krvi zdravého človeka
+c) v bakteriofágoch
+d) v hrubom čreve človeka 
+
+38. Baktérie vyvolávajú:
+a) besnotu
+b) tuberkulózu 
+c) detské kiahne
+d) tetanus 
+
+39. Mikroskopické huby:
+a) sú prokaryotické organizmy
+b) sú heterotrofné organizmy 
+c) sú schopné fotosyntézy
+d) sú eukaryotické organizmy
+
+40. Prvé antibiotikum bolo:
+a) izolované z vírusu
+b) penicilín 
+c) produkované druhom Penicillium notatum
+d) vankomycín
+
+41. Spóra bakteriálnej bunky sa od materskej bunky odlišuje:
+a) rozdielnym obsahom vody 
+b) vnímavosťou k činiteľom vonkajšieho prostredia 
+c) aktivitou látkovej výmeny 
+d) taxonomickým zaradením
+
+42. Najznámejšími bakteriálnymi pôvodcami pohlavných ochorení sú:
+a) Salmonella
+b) Mycobacterium tuberculosis
+c) Treponema pallidum
+d) Neisseria gonorrhoeae
+
+43. Pôvodcami respiračných bakteriálnych infekcií sú zástupcovia rodov:
+a) Salmonella
+b) Mycobacterium tuberculosis
+c) Treponema
+d) Escherichia
+
+44. Patogénne baktérie môžu spôsobovať:
+a) salmonelózu 
+b) choleru 
+c) ovčie kiahne
+d) osýpky
+
+45. Pôvodcami ťažkých bakteriálnych hnačkových ochorení sú zástupcovia rodov:
+a) Salmonella
+b) Mycobacterium
+c) Shigella
+d) Escherichia
+
+46. Genotypové metódy na sledovanie rezistencie baktérií na antibiotiká:
+a) sú kvantifikovatelné
+b) predpovedajú iba rezistenciu, nie sú kvantifikovateľné 
+c) dokážu zachytiť nové, novo sa vyskytujúce, dosiaľ neznáme genetické determinanty rezistencie a nové varianty známych génov rezistencie 
+d) nezachytávajú gény rezistencie bez fenotypového prejavu
+
+47. Farbenie podľa Grama umožňuje:
+a) farbenie spór baktérií
+b) farbenie deliacich sa buniek
+c) identifikáciu fakultatívne anaeróbnych baktérií
+d) identifikovať bunky infikované vírusom
+
+48. Narušenie mikrobiómu sa spája s:
+a) chronickými zápalmi hrubého čreva
+b) autizmom
+c) obezitou
+d) autoimunitnými ochoreniami
+
+49. Kde sa baktérie za normálnych okolností u zdravého človeka nenachádzajú?
+a) v koži
+b) v čreve
+c) v krvi
+d) v ústnej dutine
+
+50. Ktorý mikroorganizmus je pôvodcom tuberkulózy?
+a) Mycobacterium tuberculosis
+b) Neisseria gonorrhoeae
+c) Clostridium tetani
+d) Salmonella typhi
+
+51. Ktorá baktéria je pôvodcom syfilisu?
+a) Shigella dysenteriae
+b) Treponema pallidum
+c) Escherichia coli
+d) Vibrio cholerae
+
+52. Ako účinkuje botulotoxín na organizmus?
+a) stimuluje uvoľňovanie acetylcholínu v synapsách
+b) blokuje nervovosvalový prenos a spôsobuje paralýzu
+c) podporuje delenie nervových buniek
+d) rozkladá fosfolipidy bunkovej membrány
+
+53. Ktoré druhy plazmódií sú schopné vytvárať hypnozoity a spôsobovať relapsy malárie?
+a) P. falciparum a P. malariae
+b) P. vivax a P. ovale
+c) P. falciparum a P. vivax
+d) P. malariae a P. ovale
+
+54. Ktoré zo štádií Toxoplasma gondii sú správne priradené k ich úlohe v infekcii?
+a) sporozoity – prenos komárom
+b) bradyzoity – chronická latentná fáza v tkanivových cystách
+c) hypnozoity – prežívanie vo svalových bunkách
+d) tachyzoity – akútna fáza infekcie
+
+55. Ktoré vývojové štádiá patria k jednotlivým rodovým druhom parazitov?
+a) hypnozoity – Plasmodium vivax a Plasmodium ovale
+b) sporozoity – infekčná forma Plasmodium prenášaná komárom
+c) tachyzoity – rýchlo sa deliace formy Toxoplasma gondii
+d) bradyzoity – latentné formy Plasmodium falciparum
+
+56. Priraď vírus k spôsobu využitia alebo vlastnosti:
+a) retrovírusy – trvalá integrácia cudzej DNA do genómu hostiteľa
+b) adenovírusy – dočasná expresia génov s výraznou integráciou
+c) adeno – asociované vírusy – vysoká bezpečnosť a nízka imunogenicita
+d) vírus besnoty – bežne používaný v génovom inžinierstve
+
+57. Priraď ochorenie k pôvodcovi:
+a) tuberkulóza – Mycobacterium tuberculosis
+b) tetanus – Treponema pallidum
+c) syfilis – Treponema pallidum
+d) kvapavka – Clostridium tetani
+
+58. Priraď ochorenie k pôvodcovi:
+a) salmonelóza – Salmonella enterica
+b) ťažké hnačkové ochorenia – Neisseria gonorrhoeae
+c) enteropatogénne infekcie – Escherichia coli
+d) botulizmus – Shigella dysenteriae
+
+59. Priraď ochorenie k pôvodcovi:
+a) toxoplazmóza – Toxoplasma gondii
+b) malária – Clostridium botulinum
+c) malária s relapsmi – Plasmodium vivax
+d) krvné cysty – tachyzoity Toxoplasma gondii
+
+60. Priraď ochorenie k pôvodcovi:
+a) HIV – získaný syndróm imunitnej nedostatočnosti
+b) vírus besnoty – respiračné infekcie 
+c) adenovírusy – hepatitída B
+d) retrovírus HTLV – 1 – leukémia T – lymfocytov

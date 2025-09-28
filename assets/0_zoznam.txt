@@ -1,0 +1,17 @@
+Nazov aplikacie: Repetitorium
+
+1 Mikroskopická technika	55
+2 Prokar. a Eukar. bunky	55
+3 Biomembrány			55
+4 Organely			60
+5 Reprodukcia buniek		85
+6 Bunkové kultury		55
+7 Bunková smrť			55
+8 Nukleové kyseliny		55
+9 Replikácia DNA		55	
+10 Proteosyntéza		75
+11 Genetika			70
+12 Cudzoroda DNA		60
+13 Vzťahy organizmami		60
+14 Vírusy			60
+15 Všetko			855

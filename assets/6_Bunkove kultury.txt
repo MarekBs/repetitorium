@@ -1,0 +1,329 @@
+1. Adherenciu buniek na substrát sprostredkúvajú najmä:
+a) integríny
+b) kadheríny
+c) CAMs
+d) povrch potiahnutý kolagénom/fibronektínom zlepšuje adherenciu
+
+2. Bunková kultúra:
+a) je populácia buniek, ktorá proliferuje in vitro
+b) je populácia buniek, ktorá proliferuje in vivo
+c) je organizovaná ako tkanivo
+d) nie je organizovaná ako tkanivo
+
+3. Bunková kultúra:
+a) predstavuje populáciu buniek, ktoré proliferujú in vitro a nie sú organizované ako tkanivo
+b) môže byť adherentná alebo suspenzná
+c) sa využíva pri in vitro fertilizácii
+d) jej priebeh možno znázorniť Gaussovou krivkou
+
+4. Bunková línia:
+a) je organizovaná ako tkanivo
+b) je zjednodušená a zmenšená verzia orgánu in vitro
+c) je populácia buniek, ktorá vznikla opakovanými pasážami buniek z primokultúry
+d) má využitie v biomedicínskom výskume
+
+5. Bunkové kultúry sa využívajú:
+a) vo farmakotoxikológii
+b) pri in vitro fertilizácii
+c) v humánnej genetike
+d) v tkanivovom inžinierstve
+
+6. Bunkovú kultúru môžeme založiť z:
+a) baktérií
+b) prokaryotov
+c) ľudských tkanív
+d) eukaryotov
+
+7. Explantová kultúra:
+a) je technika kultivácie využívajúca rôzne enzýmy
+b) je technika organotypickej kultivácie buniek z kúska tkaniva
+c) je prenesenie malého množstva kultivovaných buniek do novej kultivačnej nádoby
+d) zastavuje rast buniek
+
+8. Imortalizované kultúry sa:
+a) dajú získať aj transformáciou buniek rôznymi baktériami
+b) používajú v cytogenetickej diagnostike
+c) nepoužívajú pri in vitro fertilizácii
+d) používajú v toxikológii
+
+9. Imortalizované kultúry:
+a) sa dajú získať aj transformáciou buniek rôznymi vírusmi
+b) sa používajú v toxikológii
+c) sa používajú pri analýze genotoxicity vybraných látok
+d) sa používajú pri kultivácii oplodnených vajíčok
+
+10. Krátkodobé kultúry:
+a) sa kultivujú 24 hodín alebo maximálne niekoľko dní
+b) sa nepoužívajú v cytogenetike
+c) sa kultivujú viac než 10 dní
+d) môžu byť s vysokou spontánnou mitotickou aktivitou (napr. bunky kostnej drene)
+
+11. Ktoré z nasledujúcich patria medzi významné využitia kultivácie buniek u človeka?
+a) príprava karyologických preparátov pre cytogenetickú analýzu
+b) testovanie citlivosti nádorových buniek na cytostatiká
+c) in vitro fertilizácia („oplodnenie v skúmavke“)
+d) príprava DNA vakcín v baktériách
+
+12. Ktoré z nasledujúcich tvrdení najlepšie vystihuje primárnu bunkovú kultúru?
+a) vzniká priamo z tkaniva mechanickou alebo enzymatickou disociáciou buniek
+b) ide o bunkovú líniu s neobmedzenou deliacou schopnosťou
+c) je vždy neadherentná
+d) vzniká výlučne zo suspenzných buniek
+
+13. Ktorý faktor má najväčší vplyv na úspešnú adherenciu buniek pri ich prvotnej kultivácii?
+a) prítomnosť antibiotík v médiu
+b) zloženie kultivačného média a typ povrchu nádoby
+c) dĺžka centrifugácie po odobratí vzorky
+d) tvar kultivačnej banky
+
+14. Na zabezpečenie sterilných podmienok počas manipulácie s bunkovou kultúrou sa používa:
+a) laminárny box s UV lampou a laminárnym prúdením vzduchu
+b) vodný kúpeľ
+c) mikroskop s vyhrievaným stolíkom
+d) ultrazvuková sterilizácia média
+
+15. Na zabránenie kontaminácie bunkovej kultúry sa používa:
+a) fetálne kravské sérum
+b) streptomycín, penicilín
+c) amfotericín
+d) trypsín
+
+16. Optimálne podmienky pre kultiváciu živočíšnych buniek zahŕňajú:
+a) ~37 °C
+b) pH ~7,1 – 7,4
+c) 0 % CO₂ v inkubátore
+d) osmolalitu v tolerancii cca ±10 %
+
+17. Organoidy:
+a) zastavujú rast buniek
+b) sa využívajú na vytváranie bunkových modelov ochorení
+c) majú využitie v personalizovanej medicíne
+d) sú zjednodušené a zmenšené verzie orgánov kultivovaných 3D in vitro
+
+18. Pasážovanie buniek:
+a) zabraňuje senescencii kultivovaných buniek
+b) je prenesenie malého množstva kultivovaných buniek do novej kultivačnej nádoby
+c) zastavuje rast buniek
+d) je spôsobené častým vymieňaním kultivačného média
+
+19. Permanentná bunková línia:
+a) je populácia buniek, ktorá sa môže neobmedzene deliť
+b) je populácia buniek, ktorá vznikla napr. z biopsie malígneho nádorového tkaniva
+c) je zjednodušená a zmenšená verzia orgánu in vitro 
+d) nazýva sa aj imortalizovaná bunková línia
+
+20. Plató fáza priebehu kultivácie buniek:
+a) sa nazýva aj stacionárna fáza
+b) je fáza, kedy sa bunky adaptujú na podmienky in vitro
+c) je fáza množenia buniek
+d) je fáza, kde bunky v kultúre prežívajú ale už sa nedelia
+
+21. Tkanivová kultúra:
+a. sú proliferujúce bunky alebo tkanivá v kultivačnom médiu mimo organizmu
+b. je populácia buniek, ktorá proliferuje in vivo
+c. zastavuje rast buniek
+d. je organizovaná ako tkanivo
+
+22. Ktoré molekuly sa podieľajú na sprostredkovaní adherencie buniek na substrát?
+a) integríny
+b) kadheríny
+c) cytokíny
+d) bunkové adhézne molekuly (CAMs)
+
+23. Ktoré tvrdenia o Hayflickovom limite sú správne?
+a) týka sa primárnych buniek a bunkových línií
+b) predstavuje obmedzený počet delení v dôsledku skracovania telomér
+c) popisuje neobmedzenú schopnosť delenia imortalizovaných línií
+d) zodpovedá približne 40 – 60 bunkovým deliacim cyklo
+
+24. Čo platí o kontaktnej inhibícii bunkového rastu?
+a) ide o mechanizmus, pri ktorom sa delenie zastaví po dosiahnutí monovrstvy a vzájomného kontaktu buniek
+b) je typická pre normálne adherentné bunky v kultúre
+c) nádorové bunky tento mechanizmus často strácajú
+d) v suspenzných kultúrach je hlavnou príčinou zastavenia delenia kontakt bunka – bunka
+
+25. Čo je potrebné zabezpečiť pri udržiavaní suspenzných kultúr?
+a) kontinuálne premiešavanie
+b) rovnomerný prístup živín a kyslíka
+c) potiahnutie dna kultivačnej nádoby kolagénom
+d) zamedzenie agregácie buniek
+
+26. Ktoré metabolické charakteristiky sú typické pre bunky v kultúre?
+a) prednostné využívanie aeróbnej glykolýzy (Warburgov efekt)
+b) vysoká spotreba glukózy
+c) neaktívny Krebsov cyklus
+d) využívanie glutamínu alebo jeho derivátov ako zdroja dusíka a uhlíka
+
+27. Log fáza priebehu kultivácie buniek:
+a) je fáza, kde bunky v kultúre prežívajú ale už sa nedelia
+b) je fáza množenia buniek
+c) je fáza, kedy sa bunky adaptujú na podmienky in vitro
+d) sa nazýva aj stacionárna fáza
+
+28. Vitálne farbenie:
+a) sa používa pri farbení natívnych preparátov
+b) sa používa po farbení fixovaných preparátov
+c) umožňuje hodnotiť viabilitu buniek
+d) umožňuje archiváciu preparátov
+
+29. Alamar blue test je založený na:
+a) redukcii resazurínu na fluorescenčný rezorufín v metabolicky aktívnych bunkách
+b) degradácii LDH pri poškodení membrány
+c) absorpcii Trypánovej modrej do živých buniek
+d) nešpecifickej redukcii kryštálov formazánu
+
+30. Ako funguje test MTT?
+a) kvalitatívny test merajúci integritu membrány na odlíšenie živých a mŕtvych buniek
+b) citlivý test s lineárnym vzťahom medzi aktivitou buniek a absorbanciou
+c) MTT je redukovaný mitochondriálnou reduktázou a vznikajú kryštály formazánu
+d) kvalitatívny test založený na nešpecifickej enzymatickej redukcii resazurínu
+
+31. Aký je hlavný rozdiel medzi LDH testom a farbením trypánovou modrou?
+a) LDH test je založený na úniku intracelulárneho enzýmu pri poškodení membrány
+b) trypánová modrá hodnotí metabolickú aktivitu mitochondrií
+c) LDH test je fluorescenčný alebo kolorimetrický, trypánová modrá len kolorimetrická
+d) trypánová modrá poskytuje kvantitatívne výsledky nezávislé od subjektivity
+
+32. LDH test:
+a) umožňuje stanovenie miery bunkovej smrti
+b) sa používa na meranie markerov úniku z cytoplazmy
+c) umožňuje určiť kinetiku proliferácie buniek
+d) je kolorimetrický alebo fluorometrický test
+
+33. Prečo sa odporúča používať kombináciu viacerých testov cytotoxicity?
+a) rôzne testy hodnotia odlišné aspekty bunkovej životaschopnosti (membrána, metabolizmus, únik markerov)
+b) každý test je absolútne presný a stačí ho použiť samostatne
+c) kombinácia zvyšuje spoľahlivosť a objektivitu výsledkov
+d) väčšina testov je lacná, preto sa používajú naraz
+
+34. Ktoré metódy patria medzi metabolické testy životaschopnosti buniek?
+a) MTT test
+b) LDH test
+c) Alamar blue test
+d) Trypan blue exclusion test
+
+35. Aké výhody má Alamar Blue test oproti MTT testu?
+a) je neinvazívny
+b) umožňuje opakované merania v reálnom čase
+c) je založený na fluorescenčnom signáli
+d) vyžaduje usmrtenie buniek
+
+36. Čo zisťuje LDH test?
+a) aktivitu mitochondriálnych enzýmov
+b) množstvo DNA v bunke
+c) prítomnosť laktátdehydrogenázy uvoľnenej z poškodených buniek
+d) apoptotické fragmenty membrány
+
+37. Ktoré moderné technológie sa používajú pri hodnotení životaschopnosti buniek?
+a) prietoková cytometria
+b) konfokálna mikroskopia živých buniek
+c) impedančné systémy
+d) Western blot
+
+38. Čo je výhodou impedančných systémov?
+a) umožňujú neinvazívne a kontinuálne sledovanie rastu buniek
+b) vyžadujú farbenie vitálnymi farbivami
+c) sú založené na zmene elektrického odporu
+d) poskytujú len jednorazové údaje
+
+39. Aké informácie poskytuje konfokálna mikroskopia živých buniek?
+a) dynamické zmeny bunkovej morfológie
+b) zmeny membránového potenciálu
+c) detekciu apoptotických procesov
+d) len konečný obraz fixovaných buniek
+
+40. Prečo sa kombinuje viacero testov hodnotenia životaschopnosti?
+a) každý test zachytáva iný aspekt bunkovej viability
+b) získava sa komplexnejší obraz o stave buniek
+c) znižuje sa riziko falošne negatívnych/pozitívnych výsledkov
+d) pretože jednotlivé testy nie je možné použiť samostatne
+
+41. Ktoré faktory sa často pridávajú do kultivačných médií na podporu rastu a viability buniek?
+a) hormóny
+b) rastové faktory
+c) antibiotiká
+d) vitamíny a stopové prvky
+
+42. Aký je hlavný ukazovateľ vitálnych funkcií v metabolických testoch?
+a) integrita membrány
+b) aktivita mitochondriálnych enzýmov
+c) hladina intracelulárneho Ca²⁺
+d) počet jadier buniek
+
+43. Aké sú limity použitia „trypan blue exclusion testu“?
+a) nedokáže rozlíšiť apoptotické bunky od živých
+b) hodnotenie je subjektívne 
+c) vyžaduje drahé prístroje
+d) má nižšiu citlivosť v porovnaní s fluorescenčnými metódami
+
+44. Čo umožňuje prietoková cytometria pri hodnotení buniek?
+a) rýchlu kvantitatívnu analýzu
+b) viacparametrické merania na jednej bunke
+c) analýzu životaschopnosti a apoptózy
+d) sledovanie rastu celých tkanivových štruktúr
+
+45. Ktoré metódy umožňujú kontinuálne monitorovanie bunkovej proliferácie bez farbenia?
+a) impedančné systémy
+b) Trypan blue exclusion test
+c) konfokálna mikroskopia
+d) LDH test
+
+46. Čo charakterizuje trojrozmerné kultivačné systémy v porovnaní s klasickými 2D kultúrami?
+a) lepšie napodobňujú in vivo prostredie
+b) nedokážu podporovať diferenciáciu
+c) sú vždy krátkodobé
+d) neumožňujú interakcie s ECM
+
+47. Ktorý jav obmedzuje počet delení primárnych buniek a buniek línií?
+a) apoptóza
+b) Hayflickov limit
+c) autofágia
+d) Warburgov efekt
+
+48. Čo je typické pre suspenzné kultúry buniek?
+a) potrebujú adherenciu na povrch kultivačnej nádoby
+b) rastú voľne v médiu
+c) nevyžadujú prísun živín a kyslíka
+d) sú využiteľné len v genetike
+
+49. Aký je hlavný dôvod pasážovania adherentných buniek?
+a) zvýšenie pH média
+b) dosiahnutie konfluencie 80–90 %
+c) odstránenie starých buniek apoptózou
+d) inhibícia kontaktu buniek s ECM
+
+50. Ktorý metabolit sa najčastejšie pridáva do kultivačných médií ako zdroj dusíka a uhlíka?
+a) glukóza
+b) alanín
+c) glutamín
+d) laktát
+
+51. Čo vyjadruje lag fáza rastovej krivky bunkovej kultúry?
+a) maximálnu mitotickú aktivitu
+b) adaptáciu buniek a nízku mitotickú aktivitu
+c) začiatok degradácie a senescencie
+d) zastavenie delenia kontaktnou inhibíciou
+
+52. Ktorá vlastnosť je charakteristická pre Warburgov efekt?
+a) prevaha aeróbnej glykolýzy aj pri prítomnosti kyslíka
+b) blokovanie Krebsovho cyklu
+c) využívanie mastných kyselín ako hlavného zdroja energie
+d) aktivácia len v suspenzných kultúrach
+
+53. Ktorý test meria aktivitu mitochondriálnych enzýmov redukciou tetrazoliových solí?
+a) LDH test
+b) MTT test
+c) Trypan blue
+d) PCR test
+
+54. Aké riziko sprevádza prácu s permanentnými bunkovými líniami?
+a) krátka životnosť kultúry
+b) spontánna diferenciácia na špecializované bunky
+c) akumulácia genetických zmien a odchýlok od pôvodného fenotypu
+d) neschopnosť rastu vo väčších objemoch
+
+55. Ktorý prístup je založený na sledovaní zmien elektrického odporu bunkovej vrstvy počas rastu a proliferácie?
+a) Western blot
+b) MTT test
+c) FISH
+d) impedančné systémy

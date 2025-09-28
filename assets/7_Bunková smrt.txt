@@ -1,0 +1,329 @@
+1. Aké sú základné mechanizmy navodenia apoptózy?
+a) cez mitochondriálnu „dráhu“
+b) stresová cesta cez Golgiho aparát
+c) cez „receptor smrti“
+d) cez lyzozómovú „dráhu“
+
+2. Akú funkciu má apoptóza v organizme?
+a) podporuje rast svalov
+b) chráni bunky pred UV žiarením
+c) odstraňuje poškodené alebo nepotrebné bunky
+d) produkuje energiu pre bunku
+
+3. Apoptóza je:
+a) programovaná bunková smrť
+b) tichá bunková smrť
+c) iný názov pre nekrózu
+d) fyziologická smrť bunky
+
+4. Apoptóza hrá kľúčovú úlohu pri:
+a) prevencii tvorby nádorov
+b) produkcii ATP pre bunkový metabolizmus
+c) syntéze proteínov
+d) akumulácii bunkového odpadu
+
+5. Apoptóza je primárne charakterizovaná:
+a) zmrštením bunky a fragmentáciou DNA
+b) nekontrolovaným opuchom bunky
+c) zápalom a imunitnou odpoveďou
+d) fagocytózou poškodených organel
+
+6. Apoptóza má kľúčový význam pri vývoji:
+a) srdca
+b) prstov
+c) čreva
+d) mozgu
+
+7. Apoptóza sa líši od nekrózy tým, že:
+a) apoptóza nie je sprevádzaná zápalom
+b) nekróza zahŕňa fagocytózu
+c) apoptóza nie je regulovaná
+d) nekróza je často spôsobená traumou
+
+8. Autofágia je typicky aktivovaná v reakcii na:
+a) nedostatok živín
+b) prebytok energie
+c) prítomnosť apoptotických buniek
+d) zvýšenú hladinu kyslíka
+
+9. Autofágia môže viesť k bunkovej smrti, ak:
+a) sa stane nadmerne aktívnou
+b) hladiny ATP sú vysoké
+c) aktivita kaspáz je nízka
+d) lyzozómy sú neaktívne
+
+10. Autofágia slúži na:
+a) recykláciu bunkových komponentov
+b) spustenie delenia buniek
+c) náhodnú degradáciu proteínov
+d) tvorbu energetických zásob mimo bunky
+
+11. Hlavné funkcie apoptózy:
+a) programovaná bunková smrť pri selekcii buniek
+b) riadená bunková smrť pri ochrane mnohobunkového organizmu pred rizikovými bunkami
+c) programovaná bunková smrť pri ukončení „životnosti“ bunky
+d) programovaná bunková smrť počas embryogenézy
+
+12. Kaspázy:
+a) môžu byť nevýkonné
+b) patria medzi proteázy
+c) sa v cytoplazme vyskytujú ako inaktívne pro – kaspázy
+d) môžu byť výkonné
+
+13. Kľúčové proteíny podieľajúce sa na iniciácii apoptózy sú:
+a) kaspázy
+b) ATG proteíny
+c) p53
+d) chaperóny
+
+14. Ktorá štruktúra je zodpovedná za degradáciu bunkového obsahu počas autofágie?
+a) autofagozóm
+b) ribozóm
+c) peroxizóm
+d) jadrový pór
+
+15. Ktorá z nasledujúcich dráh je spojená s apoptózou?
+a) glukoneogenéza
+b) dráha MAPK
+c) dráha receptorov smrti
+d) glykolýza
+
+16. Ktoré morfologické znaky sú typické pre nekrózu?
+a) zmršťovanie bunky a fragmentácia jadra
+b) opuch bunky a prasknutie membrány
+c) vznik dvojmembránových vakuol
+d) rozpad organel a uvoľnenie obsahu bunky
+
+17. Ktoré tvrdenia charakterizujú exogénnu aktiváciu apoptózy?
+a) spúšťa ju naviazanie signálnej molekuly na receptor smrti (napr. Fas, TNF)
+b) je vyvolaná hlavne mutáciami DNA a skracovaním telomér 
+c) dochádza k aktivácii iniciátorovej kaspázy 8
+d) spúšťa ju uvoľnenie cytochrómu c z mitochondrií 
+
+18. Ktoré tvrdenia o autofágii platia?
+a) je to proces recyklácie bunkových organel a makromolekúl
+b) prebieha vytvorením autofagozómov a ich splynutím s lyzozómami
+c) je sprevádzaná vždy výraznou zápalovou reakciou
+d) je typickým znakom patologickej bunkovej smrti
+
+19. Ktoré tvrdenia o nekróze sú správne?
+a) ide o programovanú bunkovú smrť riadenú kaspázami 
+b) je spojená so zápalovou reakciou v okolí
+c) vzniká pri poškodení bunky hypoxiou alebo toxínmi
+d) je charakterizovaná tvorbou apoptotických teliesok 
+
+20. Medzi hlavné kaspázy patria:
+a) kaspáza 3
+b) kaspáza 8
+c) kaspáza 9
+d) kaspáza 6
+
+21. Medzi hlavné proteíny apoptózy patria:
+a) kaspázy
+b) albumín
+c) Apaf–1
+d) Bax
+
+22. Morfologické prejavy typické pre apoptózu:
+a) denzná agregácia chromatínu na jadrovú membránu
+b) scvrkávanie sa bunky
+c) vznik apoptózových teliesok
+d) tvorba nových mitochondrií
+
+23. Na rozdiel od apoptózy, nekróza:
+a) často vyvoláva zápal
+b) je regulovaná bunková smrť
+c) vedie k tvorbe apoptotických teliesok
+d) je výsledkom neplánovaného poškodenia buniek
+
+24. Na rozdiel od apoptózy, nekróza je:
+a) rýchly a nekontrolovaný proces
+b) spojená s fagocytózou buniek
+c) závislá na energii
+d) typicky spojená s aktiváciou imunitnej odpovede
+
+25. Nekróza je:
+a) náhodná forma bunkovej smrti
+b) proces vyvolaný vonkajším zranením
+c) podobná apoptóze
+d) kontrolovaný mechanizmus bunkovej smrti
+
+26. Nekrózu môže spustiť:
+a) extrémne zmeny teploty
+b) nedostatok živín
+c) genetické mutácie
+d) toxické látky
+
+27. Plazmatická membrána bunky počas apoptózy:
+a) zostáva neporušená až do neskorších fáz
+b) okamžite sa roztrhne
+c) absorbuje viac lipidov
+d) spája sa so susednými bunkovými membránami
+
+28. Poškodené organely sú v dráhe autofágie dopravené do:
+a) jadra
+b) lyzozómov
+c) Golgiho aparátu
+d) mitochondrií
+
+29. Pri ktorých procesoch má apoptóza zásadný význam počas embryogenézy?
+a) remodelácia srdcových priehradiek
+b) aktivácia lyzozómov pri vývoji čreva 
+c) formovanie prstov končatín
+d) prenos génovej informácie medzi neurocytmi 
+
+30. Pri procese nekrózy bunky:
+a) strácajú integritu membrány
+b) podstupujú kontrolovaný rozpad
+c) fragmentujú sa na apoptotické telieska
+d) vylievajú svoj obsah, čo spôsobuje poškodenie tkaniva
+
+31. Primárny rozdiel medzi apoptózou a autofágiou je:
+a) apoptóza vedie k bunkovej smrti, zatiaľ čo autofágia môže podporovať prežitie bunky
+b) autofágia vždy vyvoláva zápal
+c) apoptóza sa deje iba počas embryonálneho vývoja
+d) autofágia nezahŕňa lyzozómy
+
+32. Typické znaky nekrózy zahŕňajú:
+a) opuch bunky
+b) zmrštenie bunky
+c) roztrhnutie membrány
+d) uvoľnenie bunkového obsahu do okolitých tkanív
+
+33. Ktoré tvrdenie o pyroptóze je správne?
+a) je sprostredkovaná inflammasómom
+b) aktivuje kaspázy 1, 4, 5 a 11
+c) prebieha bez zápalovej odpovede
+d) má význam pri obrane proti intracelulárnym patogénom
+
+34. Aké sú charakteristické znaky nekroptózy?
+a) aktivácia kináz RIPK1 a RIPK3
+b) fosforylácia proteínu MLKL
+c) úplná absencia zápalovej odpovede
+d) alternatívna cesta bunkovej smrti pri zablokovanej apoptóze
+
+35. Ktoré morfologické zmeny sú typické pre ferroptózu?
+a) zmenšenie mitochondrií
+b) zvýšená denzita mitochondriálnej matrice
+c) fragmentácia DNA ako pri apoptóze
+d) absencia klasických znakov apoptózy
+
+36. Čo charakterizuje anoikis?
+a) je vyvolaný stratou kontaktu bunky s extracelulárnou matrix
+b) prebieha cez aktiváciu apoptotických dráh
+c) predstavuje variant nekrózy
+d) jeho potlačenie napomáha metastázovaniu
+
+37. Čo sa deje počas netózy (NETosis)?
+a) aktivujú sa neutrofily
+b) dochádza k uvoľneniu jadrovej DNA a proteínov
+c) vznikajú extracelulárne pasce (NETs)
+d) proces prebieha bez dezintegrácie bunkovej membrány 
+
+38. Čo je typické pre exogénnu dráhu apoptózy?
+a) aktivácia receptorov smrti (Fas, TNF receptory)
+b) oligomerizácia receptorov a nábor adaptorových proteínov (FADD)
+c) aktivácia iniciačnej kaspázy 8
+d) uvoľnenie cytochrómu c z mitochondrií
+
+39. Aké poškodenia môžu aktivovať endogénnu dráhu apoptózy?
+a) mutácie DNA
+b) oxidačný stres
+c) hypoxia
+d) kontakt s TNF receptorom
+
+40. Akú úlohu zohráva proteín p53 v endogénnej dráhe apoptózy?
+a) funguje ako „strážca genómu“
+b) aktivuje transkripciu proapoptotckých členov rodiny Bcl–2
+c) stabilizuje mitochondriálnu membránu
+d) zabraňuje permeabilizácii mitochondrií
+
+41. Čo je apoptozóm a akú má funkciu?
+a) komplex cytochrómu c, Apaf–1 a ATP
+b) aktivuje iniciačnú kaspázu 9
+c) je výsledkom aktivácie receptorov smrti
+d) riadi expresiu génov Bcl–2
+
+42. Ktoré kaspázy patria medzi efektorové kaspázy?
+a) kaspáza 3
+b) kaspáza 6
+c) kaspáza 7
+d) kaspáza 9
+
+43. Čo je typické pre apoptózu vyvolanú stresom v endoplazmatickom retikule?
+a) akumulácia nesprávne poskladaných proteínov
+b) aktivácia prokaspázy 12 (u hlodavcov)
+c) u človeka sa uplatňuje najmä kaspáza 4 a 5
+d) aktivácia TNF receptorov
+
+44. Aké sú výsledné morfologické znaky apoptózy?
+a) fragmentácia DNA
+b) kondenzácia chromatínu
+c) tvorba apoptotických teliesok
+d) rozsiahly zápal tkaniva
+
+45. Čo majú spoločné všetky apoptotické dráhy?
+a) aktivujú spoločnú efektorovú kaspázovú kaskádu
+b) končia tvorbou apoptotických teliesok
+c) vyvolávajú zápalovú reakciu
+d) vedú k fragmentácii DNA a kondenzácii chromatínu
+
+46. Ktorý znak odlišuje apoptózu od nekrózy?
+a) fragmentácia DNA a tvorba apoptotických teliesok
+b) opuch bunky a prasknutie membrány
+c) vždy vyvoláva zápalovú reakciu
+d) nie je geneticky programovaná
+
+47. Ktorý proteín zohráva kľúčovú úlohu v endogénnej dráhe apoptózy?
+a) p53
+b) FADD
+c) MLKL
+d) GPX4
+
+48. Čo je typickým znakom autofágie?
+a) aktivácia kaspázy 8
+b) vznik autofagozómu
+c) uvoľnenie IL– 1β a IL– 18
+d) permeabilizácia membrány cez MLKL
+
+49. Ktorá regulovaná forma bunkovej smrti je spojená s inflamazómom a uvoľnením IL–1β?
+a) netóza
+b) anoikis
+c) ferroptóza
+d) pyroptóza
+
+50. Aký je hlavný význam anoikis?
+a) obrana proti intracelulárnym patogénom
+b) prevencia kolonizácie buniek mimo pôvodného tkaniva
+c) degradácia poškodených proteínov
+d) udržiavanie homeostázy počas vývoja
+
+51. Ktorý mechanizmus bunkovej smrti je typicky sprevádzaný akumuláciou lipidových peroxidov a zlyhaním enzýmu GPX4?
+a) ferroptóza
+b) nekroptóza
+c) netóza
+d) autofágia
+
+52. Aký je hlavný rozdiel medzi exogénnou a endogénnou apoptotickou dráhou?
+a) exogénna je spustená receptormi smrti, endogénna poškodením DNA alebo stresom
+b) exogénna je vyvolaná oxidačným stresom, endogénna ligandmi receptorov
+c) exogénna prebieha v lyzozómoch, endogénna v jadre
+d) exogénna vedie k nekróze, endogénna k apoptóze
+
+53. Ktorý enzýmový komplex sa vytvára v endogénnej apoptotickej dráhe po uvoľnení cytochrómu c z mitochondrií?
+a) apoptozóm
+b) inflammasóm
+c) proteazóm
+d) ribozóm
+
+54. Čo je typickým znakom nekrózy, ktorý ju odlišuje od apoptózy?
+a) tvorba apoptotických teliesok
+b) fragmentácia DNA
+c) prasknutie bunkovej membrány a vyvolanie zápalu
+d) aktivácia kaspázy 9
+
+55. Ktorý typ bunkovej smrti je typicky spojený s tvorbou extracelulárnych pascí (NETs)?
+a) netóza
+b) pyroptóza
+c) anoikis
+d) ferroptóza

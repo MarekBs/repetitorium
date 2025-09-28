@@ -1,0 +1,329 @@
+1. Ak majú periférne proteíny: 
+a) záporný náboj, pripájajú sa na membránu priamo 
+b) záporný náboj, pripájajú sa na membránu prostredníctvom Ca2+ iónov 
+c) kladný náboj, pripájajú sa na membránu priamo 
+d) kladný náboj, pripájajú sa na membránu prostredníctvom Ca2+ iónov 
+
+2. Aká je hlavná úloha receptorov v bunkách? 
+a) prenášať signály z vonkajšieho prostredia do bunky 
+b) regulovať hladinu ATP v bunke 
+c) ovládať pohyb buniek 
+d) umožniť syntézu proteínov 
+
+3. Aké látky/molekuly sú transportované vezikulárnym transportom? 
+a) veľké častice – napr. fragmenty organel 
+b) makromolekuly 
+c) tekutiny 
+d) všetko vyššie spomenuté 
+
+4. Aké sú vlastnosti bunkovej membrány? 
+a) ochrana 
+b) polopriepustnosť 
+c) semipermeabilita 
+d) oddeľuje bunku od okolia 
+
+5. Ako sa nazýva jav praskania červených krviniek? 
+a) hemoptýza, prebieha v hypertonickom prostredí 
+b) hemolýza, prebieha v izoosmotickom prostredí 
+c) hemolýza, prebieha v hypotonickom prostredí 
+d) plazmolýza, prebieha v hypertonickom prostredí 
+
+6. Ako sa nazýva prostredie, keď je osmotická hodnota prostredia menšia ako osmotická hodnotou bunky?
+a) hypetronické
+b) hypotonické 
+c) izoosmotické 
+d) izotonické 
+
+7. Ako sa nazýva prostredie, keď je osmotická hodnota prostredia väčsia ako osmotická hodnotou bunky?
+a) hypertonické 
+b) hyperosmotické 
+c) izotonické 
+d) hypotonické 
+
+8. Ako sa nazýva prostredie, keď sa osmotická hodnota prostredia zhoduje s osmotickou hodnotou bunky?
+a) izotonické 
+b) izoosmotické 
+c) hypetronické 
+d) hypotonické 
+
+9. Ako sa nazýva schopnosť bunky pohlcovať mikroorganizmy?
+a) difúzia
+b) fagocytóza 
+c) osmóza 
+d) pinocytóza 
+
+10. Ako sa nazýva všeobecný mechanizmus výdaja látok z buniek? 
+a) pinocytóza 
+b) difúzia
+c) osmóza
+d) exocytóza 
+
+11. Aktívny transport je: 
+a) difúzia a osmóza 
+b) prenos látok proti ich koncentračnému gradientu 
+c) prenos látky, na ktorý je potrebná energia 
+d) plazmolýza a cytolýza 
+
+12. Biologická membrána je:
+a) zložená z fosfolipidov a bielkovín 
+b) základom membránových organel, napr. mitochondrií a chloroplastov 
+c) súčasťou bunkovej steny 
+d) základom membránových organel, napr. ribozómov 
+
+13. Biologická membrána: 
+a) sa nachádza len v eukaryotických bunkách 
+b) je zložená z bimolekulového filmu fosfolipidov a z bielkovín 
+c) v živočíšnych bunkách neobsahuje cholesterol
+d) plní rôzne funkcie, napr. príjem látok, vzájomné interakcie, rozpoznávanie signálov, atď. 
+
+14. Biologické membrány obsahujú: 
+a) fosfolipidy 
+b) cholesterol 
+c) periférne a integrálne proteíny 
+d) polárne lipidy 
+
+15. Medzi bunkové spojenia patrí: 
+a) macula occludens
+b) dezmozóm 
+c) G proteíny 
+d) zonula adhaerrens
+
+16. Bunkové spojenia sú: 
+a) cornea occludens
+b) dezmatozóm 
+c) G proteíny 
+d) zonula adhaerrens a dezmozóm 
+
+17. Ako sa nazývajú proteíny, ktoré sú vnorené do fosfolipidovej dvojvrstvy alebo ju úplne prestupujú?
+a) periférne proteíny
+b) integrálne proteíny
+c) glykoproteíny
+d) lipidové rafty
+
+18. Čo je to osmotická lýza bunky?
+a) jav keď bunka príjmom vody zväčšuje svoj objem až praská 
+b) jav, ktorý nastane po umiestnení živočíšnej bunky v hypotonickom prostredí 
+c) jav keď bunka príjmom vody zmenšuje objem
+d) jav keď bunka príjmom vody nezmení svoj objem
+
+19. Facilitovaná difúzia:
+a) je transport látok sprostredkovaný lipidovými kvapôčkami
+b) je najčastejšia forma transportu látok do jadierka 
+c) prebieha bez spotreby energie v smere koncentračného gradientu 
+d) spotrebováva energiu vo forme ATP 
+
+20. Facilitovaná difúzia:
+a) je transport látok sprostredkovaný bielkovinami plazmatickej membrány 
+b) prebieha bez spotreby energie 
+c) prebieha v smere koncentračného gradientu 
+d) prebieha tak, že látka sa naviaže na transportný proteín na povrchu bunky, ten zmení svoju konformáciu a látka sa uvoľní do cytoplazmy 
+
+21. K typom látkovej komunikácie patria:
+a) endokrinná 
+b) parakrinná 
+c) motokrinná 
+d) autokrinná 
+
+22. Ktoré deje patria medzi endocytózu:
+a) difúzia 
+b) pinocytóza, 
+c) fagocytóza 
+d) osmóza 
+
+23. Ktoré látky môžu vstupovať do buniek voľnou difúziou:
+a) plyny 
+b) močovina
+c) etanol 
+d) kyslík 
+
+24. Ktorý typ receptora je zodpovedný za sprostredkovanie účinkov inzulínu? 
+a) tyrozínkinázový receptor 
+b) jadrový receptor 
+c) iónový kanál 
+d) receptor spriahnutý s G proteínmi 
+
+25. Ktorý z nasledujúcich mechanizmov je najviac typický pre receptory spojené s tyrozínkinázou? 
+a) zmena priepustnosti iónov cez membránu 
+b) dimerizácia receptoru 
+c) aktivácia cyklického AMP (cAMP) 
+d) aktivácia kinázy cAMP 
+
+26. Membránové receptory rozdeľujeme na: 
+a) receptory, ktoré sú súčasťou iónových kanálov 
+b) mechanoreceptory 
+c) receptory spriahnuté s G proteínmi 
+d) receptory s enzýmovou aktivitou 
+
+27. Na čo využíva bunka osmotickú energiu?
+a) na prenos látok cez bunkové membrány 
+b) na prenos látok pri proteosyntéze
+c) na prenos látok pri fotosyntéze
+d) na prenos osmoticky aktívnych látok 
+
+28. O polarite povrchu biologickej membrány sú pravdivé tvrdenia: 
+a) biologická membrána je nepolárna 
+b) biologická membrána je polárna 
+c) na povrchu membrány je záporný náboj 
+d) na povrchu membrány je kladný náboj 
+
+29. Osmóza je proces, pri ktorom voda prechádza cez cytoplazmatickú membránu z prostredia: 
+a) s nižšou koncentráciou do prostredia s vyššou koncentráciu 
+b) s vyššou koncentráciou do prostredia s nižšou koncentráciou 
+c) z hypotonického do hypertonického prostredia 
+d) hypertonického do hypotonického prostredia 
+
+30. Presun molekúl proti koncentračnému gradientu: 
+a) vyžaduje energiu, napr. vo forme ATP 
+b) je aktívny transport 
+c) prebieha kým sa nevyrovná koncentrácia na obidvoch stranách membrány 
+d) je pasívny transport 
+
+31. Receptory spriahnuté s G proteínmi: 
+a) sa nenachádzajú v cytoplazmatickej membráne eukaryotických buniek
+b) sú zložené z polynukleotidových reťazcov, ktoré prechádzajú membránou 
+c) nemajú extracelulárnu doménu 
+d) predstavujú najpočetnejšiu skupinu membránových receptorov
+
+32. Úloha cholesterolu v biologickej membráne je: 
+a) je to významný receptor 
+b) zvyšuje jej pružnosť 
+c) spevňuje ju 
+d) dáva jej kladný náboj 
+
+33. Z čoho sa skladajú biomembrány?
+a) dvoch vrstiev molekúl fosfolipidov a molekúl bielkovín 
+b) dvoch vrstiev molekúl fosfolipidov a RNA 
+c) fosfolipidovej dvojvrstvy 
+d) z jednej vrstvy fosfolipidov 
+
+34. Základné zložky cytoplazmatickej membrány sú: 
+a) fosfolipidy, cholesterol, proteíny, glykolipidy 
+b) vápnik, cholesterol, cerebrozidy, gangliozidy 
+c) hormóny, proteíny, ATP, fosfolipidy 
+d) peptidoglykány, chitín, celulóza, glykoproteíny 
+
+35. Ktorá časť membránového receptora sprostredkuje odpoveď bunky?
+a) extracelulárna doména
+b) intracelulárna doména
+c) transmembránová časť
+d) lipidová dvojvrstva
+
+36. Aká je typická funkcia receptorov tvoriacich iónové kanály?
+a) fosforylácia proteínov
+b) zmena priepustnosti iónov cez membránu
+c) aktivácia G proteínov
+d) spustenie apoptózy
+
+37. Ktoré tvrdenie o receptoroch s enzýmovou aktivitou je správne?
+a) obsahujú 7 transmembránových helixov
+b) najčastejšie katalyzujú fosforyláciu
+c) aktivujú sa väzbou GTP
+d) sú typickými receptormi pre neurotransmitery GABA a glycín
+
+38. Ktorý z uvedených receptorov je príkladom iónového kanálového receptora?
+a) inzulínový receptor
+b) nikotínový acetylcholínový receptor
+c) β–adrenergný receptor
+d) receptor pre epidermálny rastový faktor (EGFR)
+
+39. Akú hlavnú úlohu zohrávajú druhí poslovia v bunkovej signalizácii?
+a) prenášajú signál z extracelulárneho prostredia priamo na DNA
+b) zosilňujú a sprostredkujú signál medzi receptorom a intracelulárnymi efektormi
+c) slúžia ako receptory pre neurotransmitery
+d) tvoria primárnu väzbovú doménu membránových receptorov
+
+40. Aký význam majú lipidové rafty v bunkovej signalizácii a imunitných procesoch?
+a) slúžia ako sklad cholesterolu a mastných kyselín
+b) zabezpečujú degradáciu poškodených proteínov v membráne
+c) koncentrujú receptory a signálne molekuly, čím umožňujú efektívnejšiu aktiváciu signálnych dráh (napr. pri imunitnej odpovedi)
+d) znižujú fluiditu membrány a tým bránia prenosu signálov
+
+41. Kde sa nachádzajú glykolipidy v biomembráne a aká je ich hlavná funkcia?
+a) na cytoplazmatickej strane; katalýza biochemických reakcií
+b) v jadrovej membráne; regulácia transkripcie
+c) na extracelulárnej strane; rozpoznávanie buniek a antigénne determinanty
+d) v mitochondriách; prenos elektrónov
+
+42. Čo platí o type a počte membránových proteínov?
+a) sú vždy rovnaké vo všetkých bunkách
+b) menia sa len počas apoptózy
+c) sú variabilné a závisia od diferenciácie a fázy bunkového cyklu
+d) závisia len od množstva cholesterolu v membráne
+
+43. Aký je význam komunikácie cez medzibunkové spojenia (gap junctions alebo plazmodezmy)?
+a) prenos hormónov na veľké vzdialenosti
+b) aktivácia génovej expresie v jadre
+c) priamy prenos iónov a malých molekúl medzi susednými bunkami
+d) zamedzenie akejkoľvek výmeny medzi bunkami
+
+44. Aký je hlavný mechanizmus, ktorým receptory sprostredkujú bunkovú odpoveď?
+a) oxidácia mastných kyselín
+b) aktivácia alebo inaktivácia proteínov fosforyláciou
+c) tvorba DNA v jadre
+d) pasívna difúzia vody
+
+45. Ktorý enzým katalyzuje prenos fosfátovej skupiny z ATP na proteín?
+a) fosfatáza
+b) proteínkináza
+c) DNA–polymeráza
+d) telomeráza
+
+46. Ktoré bunkové spojenia zabezpečujú najsilnejšie mechanické ukotvenie medzi bunkami?
+a) gap junctions
+b) dezmozómy (macula adhaerens)
+c) zonula occludens
+d) zonula adhaerens
+
+47. Ktoré typy komunikácie patria medzi látkovú (humorálnu) signalizáciu?
+a) endokrinná
+b) parakrinná
+c) synaptická
+d) autokrinná
+
+48. Ktorý typ receptorov má 7 transmembránových helixov a využíva druhých poslov?
+a) receptory s enzýmovou aktivitou
+b) receptory tvoriace iónové kanály
+c) receptory spriahnuté s G proteínmi
+d) receptory pre antigény
+
+49. Čo je typickou funkciou receptorov s enzýmovou aktivitou?
+a) katalyzovanie fosforylačných reakcií
+b) otváranie iónových kanálov
+c) viazanie protilátok
+d) transport glukózy
+
+50. Ktorý príklad patrí medzi receptory tvoriace iónové kanály?
+a) nikotínový acetylcholínový receptor
+b) inzulínový receptor
+c) receptor pre rastový faktor EGF
+d) receptor spriahnutý s G proteínom
+
+51. Ktoré bunkové spojenie umožňuje priamy prenos malých molekúl medzi susednými bunkami?
+a) dezmozómy
+b) zonula occludens
+c) gap junctions
+d) zonula adhaerens
+
+52. Ktoré tri časti obsahuje typický membránový receptor?
+a) extracelulárna doména, transmembránová časť, intracelulárna doména
+b) ribozómová jednotka, cytoskelet, fosfolipid
+c) DNA jadra, nukleozóm, histón
+d) cytoplazma, jadro, mitochondria
+
+53. Čo sa stane po naviazaní ligandu na receptor?
+a) receptor sa degraduje okamžite
+b) dôjde k zmene konformácie proteínu a spusteniu signálnej kaskády
+c) DNA sa okamžite replikuje
+d) receptor sa transportuje do jadra
+
+54. Aká je funkcia extracelulárnej domény receptora?
+a) viaže ligand
+b) sprostredkuje fosforyláciu
+c) ukotvuje receptor v lipidovej dvojvrstve
+d) prenáša signál do jadra
+
+55. Aká je funkcia intracelulárnej domény receptora?
+a) viaže ligand
+b) ukotvuje receptor v membráne
+c) sprostredkuje bunkovú odpoveď
+d) produkuje ATP

@@ -1,0 +1,327 @@
+1. Aké žiarenie sa využíva pri fluorescenčnej mikroskopii?
+a) infračervené žiarenie
+b) žiarenie fialovej farby s vlnovou dĺžkou vo viditeľnom spektre
+c) ultrafialové žiarenie
+d) prúd elektrónov
+
+2. Aké farbivo sa najčastejšie využíva pri vizualizácii chromozómov?
+a) modrý atrament
+b) Giemsovo
+c) Lugolov roztok
+d) hematoxylín a eozín
+
+3. Aké zväčšenie získame, ak použijeme objektív s 40x zväčšením a okulár s 10x zväčšením?
+a) 400x
+b) 10x
+c) 40x
+d) 4x
+
+4. Elektrónové mikroskopy ako zdroj žiarenia používajú:
+a) biele svetlo
+b) biele svetlo alebo ultrafialové žiarenie
+c) elektrónkové žiarenie
+d) prúd elektrónov
+
+5. Elektrónové mikroskopy:
+a) ako zdroj žiarenia využívajú prúd fotónov
+b) nevyžadujú špeciálnu úpravu preparátov
+c) vyžadujú špeciálnu prípravu preparátov
+d) ako zdroj žiarenia využívajú prúd elektrónov
+
+6. Elektrónový mikroskop:
+a) je typ svetelného mikroskopu, vieme ním pozorovať bunky in vitro aj in vivo
+b) umožňuje sledovať topológiu buniek a tkanív alebo vnútorné štruktúry
+c) vieme pozorovať rovnaké preparáty pri SEM aj TEM
+d) rozlišovacia schopnosť je väčšia ako pri konfokálnom mikroskope, preparáty sa pripravujú špecifickým spôsobom
+7. Farbenie poznáme:
+a) orientačné
+b) špecifické
+c) náhodné
+d) všeobecné
+
+8. Fázový kontrast:
+a) slúži ako zdroj žiarenia pri málo kontrastných preparátoch
+b) sa využíva na zvýraznenie niektorých štruktúr bunky
+c) sa v mikroskopii vôbec nepoužíva
+d) umožňuje pozorovanie priehľadných objektov s málo výrazným kontrastným rozhraním
+
+9. Invertovaný mikroskop:
+a) používa sa napr. pri sledovaní bunkových kultúr
+b) umožňuje pozorovanie preparátov v prechádzajúcom svetle
+c) je typ elektrónového mikroskopu
+d) používa metódu osvetlenia zhora
+
+10. K mechanickej časti svetelného mikroskopu patrí:
+a) irisová clona
+b) revolverový menič objektívov
+c) kondenzor
+d) objektív
+
+11. K osvetľovacej časti mikroskopu patrí:
+a) tubus
+b) objektívy
+c) zdroj svetla
+d) kondenzor
+
+12. Konfokálny mikroskop:
+a) je forma svetelného fluorescenčného mikroskopu so zvýšenou rozlišovacou schopnosťou
+b) ako zdroj svetla využíva lasery s rôznymi excitačnými vlnovými dĺžkami
+c) pri hrubších rezoch umožňuje selektívne zaostriť a zaznamenať konkrétnu optickú rovinu
+d) je to druh elektrónového mikroskopu
+
+13. Ktorá z nasledujúcich možností je najvhodnejšia na získanie povrchového zobrazenia objektu?
+a) SEM – skenovací elektrónový mikroskop
+b) TEM – transmisný elektrónový mikroskop
+c) invertovaný mikroskop
+d) svetelný mikroskop 
+
+14. Ktorá z nasledujúcich možností sa používa na vizualizáciu živých buniek?
+a) SEM – skenovací elektrónový mikroskop
+b) TEM – transmisný elektrónový mikroskop
+c) mikroskop s fázovým kontrastom
+d) všetky tieto
+
+15. Ktoré časti mikroskopu majú zväčšujúcu schopnosť:
+a) objektív
+b) irisová clona
+c) kondenzor
+d) okulár
+
+16. Ktorý mikroskop má obrátené poradie svetelnej a optickej časti?
+a) elektrónový
+b) skenovací
+c) invertovaný
+d) rastrovací
+
+17. Medzi optické časti mikroskopu patrí:
+a) okulár
+b) revolverový menič
+c) zdroj svetla
+d) objektív
+18. Mechanická časť mikroskopu obsahuje:
+a) tubus
+b) revolverový menič
+c) mikroskrutku
+d) makroskrutku
+
+19. Mechanická časť mikroskopu obsahuje:
+a) makroskrutku
+b) posúvateľný stolček
+c) okuláre
+d) objektívy
+
+20. Na orientáciu v zornom poli sa používa: 
+a) rozdelenie na sústredné kruhy
+b) rozdelenie na kvadranty
+c) orientácia podľa ciferníka hodín
+d) irisová clona
+
+21. Natívne preparáty:
+a) sa používajú pri sledovaní fyziologických prejavov buniek
+b) používajú sa aj pri sledovaní typického tvaru buniek
+c) umožňuje detailne pozorovať vnútrobunkové štruktúry
+d) umožňujú sledovať pohyb buniek
+
+22. Obraz v mikroskope je:
+a) obrátený
+b) zväčšený
+c) zmenšený
+d) skutočný
+
+23. Optické časti elektrónového mikroskopu:
+a) sú zo skla
+b) tvoria šošovky z brúseného skla
+c) tvoria elektromagnetické šošovky
+d) sú impregnované elektrondenznými prostriedkami
+
+24. Optické časti svetelného mikroskopu:
+a) sú zo skla
+b) tvoria šošovky z brúseného skla
+c) tvoria elektromagnetické šošovky
+d) sú impregnované elektrondenznými prostriedkami
+
+25. Osvetľovacia časť svetelného mikroskopu obsahuje:
+a) okulár a objektív
+b) zdroj svetla
+c) sústavu filtrov a clôn
+d) kondenzor
+
+26. Podľa spôsobu prípravy poznáme preparáty:
+a) odtlačkové
+b) nátery
+c) zakryté krycím sklíčkom
+d) trvalé
+
+27. Podľa typu konštrukcie rozlišujeme svetelné mikroskopy:
+a) jednoduché lupy a stereolupy
+b) mikroskopy s jedným alebo viacerými objektívmi
+c) elektrónové mikroskopy
+d) invertované mikroskopy
+
+28. Podľa typu používaného žiarenia rozlišujeme mikroskopy:
+a) svetelné
+b) elektrónové
+c) elektrónkové
+d) výbojkové
+
+29. Pracovná vzdialenosť:
+a) je vzdialenosť oka od mikroskopu
+b) je vzdialenosť preparátu od frontálnej šošovky objektívu
+c) je vzdialenosť objektívu od okulára
+d) sa skracuje so stúpajúcim zväčšením objektívu
+
+30. Pre zvýraznenie štruktúr v natívnych preparátoch je možné použiť:
+a) mikroskopovanie v tmavom poli
+b) fázový kontrast
+c) vitálne farbenie
+d) elektrónovú mikroskopiu 
+
+31. Pre zvýraznenie štruktúr v natívnych preparátoch je možné použiť:
+a) mikroskopovanie v svetlom poli
+b) fázové kontrastné farbenie
+c) vitálne farbenie alebo fázový kontrast
+d) elektrónovú mikroskopiu
+
+32. Pri pozorovaní v tmavom poli:
+a) sa používa zvláštny typ kondenzora
+b) kondenzor mikroskopu prepúšťa len bočné svetlo
+c) pozorujeme len lúče odrazené od objekt
+d) fázový kontrast umožňuje pozorovanie fluoreskujúcich objektov 
+
+33. Svetelné mikroskopy ako zdroj žiarenia používajú: 
+a) biele svetlo
+b) ultrafialové žiarenie
+c) elektrónkové žiarenie
+d) prúd elektrónov
+
+34. Svetelný mikroskop obsahuje:
+a) optickú časť
+b) osvetľovaciu časť
+c) mechanickú časť
+d) biologickú časť
+
+35. Svetelnými mikroskopmi sa bežne pozorujú objekty: 
+a) menšie ako 70 μm
+b) väčšie ako 70 μm
+c) menšie ako 70 nm
+d) ktoré sa nedajú pozorovať voľným okom
+
+36. Transmisný elektrónový mikroskop: 
+a) má šošovku z brúseného skla, využíva prúd elektrónov a skenuje povrch objektu
+b) má šošovku z brúseného skla, využíva prúd elektrónov a môžeme ním pozorovať aj vnútro bunky 
+c) preparát je potrebné pripraviť s elektrón-denznou látkou, ktorá emituje nadmernú energiu z pohlteného UV 
+d) obsahuje elektromagnetickú šošovku a pozorujeme ním aj vnútorné štruktúry bunky
+
+37. Výsledné zväčšenie pri mikroskopovaní sa vypočíta ako: 
+a) súčet zväčšenia objektívu a pracovnej vzdialenosti
+b) súčin zväčšenia šošovky a zväčšenia objektívu
+c) súčin zväčšenia objektívu a zväčšenia okulára
+d) súčin pracovnej vzdialenosti objektívu a hrúbky sklíčka
+
+38. Aký je hlavný cieľ fixácie mikroskopických preparátov?
+a) zvýšenie kontrastu preparátu pri pozorovaní
+b) zachovanie štruktúry buniek a tkanív pred poškodením alebo rozkladom
+c) zabezpečenie lepšieho prenosu svetla cez preparát
+d) zníženie hrúbky preparátu na optimálnu úroveň
+
+39. Čo vyjadruje pojem rozlišovacia schopnosť mikroskopu?
+a) maximálne dosiahnuteľné zväčšenie obrazu
+b) minimálnu vzdialenosť medzi dvomi bodmi, ktoré ešte vidíme oddelene
+c) schopnosť mikroskopu zachytiť čo najviac svetla
+d) schopnosť zvýšiť kontrast bez farbenia preparátu
+
+40. Čo platí o numerickej apertúre objektívu?
+a) vyššia numerická apertura znamená menší prienik svetla do objektívu
+b) numerická apertura nezávisí od použitého média medzi preparátom a objektívom
+c) vyššia numerická apertura znamená lepší kontrast a rozlišovaciu schopnosť
+d) numerická apertura vyjadruje len teoretické maximálne zväčšenie objektívu
+
+41. Čo spôsobuje sférickú aberáciu?
+a) nepravidelný lom svetla na rozhraní rôznych médií
+b) rôzny lom svetla cez stred a okraj šošovky
+c) vznik farebných lemov na okrajoch objektov
+d) nesprávne uloženie preparátu na podložnom skle
+
+42. Ako sa prejavuje chromatická aberácia?
+a) rozmazaný obraz len v jednom smere
+b) znížený kontrast preparátu
+c) farebné lemy na okrajoch pozorovaných objektov
+d) neostrý obraz pri vysokom zväčšení aj po použití imerzného oleja
+
+43. Aký obraz vzniká pri astigmatizme šošovky?
+a) ostrý v jednom smere a rozmazaný v druhom
+b) s farebnými lemami na okrajoch
+c) rozmazaný po celej ploche rovnomerne
+d) vysoko kontrastný, ale s nízkym zväčšením
+
+44. Aký je hlavný princíp konfokálnej mikroskopie v porovnaní s klasickou fluorescenčnou mikroskopiou?
+a) používa polarizované svetlo na zvýraznenie štruktúr
+b) využíva pinholový otvor na elimináciu rozptýleného svetla a získanie optických rezov
+c) dosahuje rozlišovaciu schopnosť až 0,2 nm vďaka elektrónovému lúču
+d) nepotrebuje fluorescenčné farbivá na zobrazenie preparátu
+
+45. Prečo samotné zväčšenie bez dobrej rozlišovacej schopnosti nie je postačujúce?
+a) pretože obraz zostáva veľký, ale bez detailov
+b) pretože zväčšenie vždy znižuje kontrast
+c) pretože vysoké zväčšenie je možné len pri elektrónovej mikroskopii
+d) pretože zväčšenie sa nedá kombinovať s farbením preparátov
+
+46. Čo je hlavnou úlohou kalibrácie mikroskopu pomocou okulárového mikrometra?
+a) zvýšenie kontrastu preparátu
+b) presné určenie rozmerov mikroštruktúr
+c) predĺženie životnosti mikroskopu
+d) rozlíšenie medzi natívnym a fixovaným preparátom
+
+47. Akou látkou sa najčastejšie fixujú preparáty, aby sa zachovala štruktúra buniek a tkanív?
+a) glycerol
+b) formalín
+c) agar
+d) metylénová modrá
+
+48. Aká je funkcia imerzného média pri mikroskopovaní?
+a) zvyšuje životnosť optických častí
+b) zlepšuje rozlišovaciu schopnosť a kontrast pri vysokých zväčšeniach
+c) umožňuje pozorovať živé bunky
+d) znižuje potrebu kalibrácie mikroskopu
+
+49. Aké riziko predstavuje sférická aberácia pri mikroskopovaní?
+a) vznik farebných lemov na okrajoch obrazu
+b) rozpad štruktúry preparátu
+c) ostrý obraz len v jednom smere
+d) rozmazaný obraz, pretože lúče sa nelámu rovnomerne
+
+50. Čo charakterizuje numerickú apertúru (NA) objektívu?
+a) schopnosť zachytiť svetlo v závislosti od uhla lúčov a indexu lomu prostredia
+b) maximálny počet pozorovateľných buniek
+c) rýchlosť preostrovania pri práci s objektívom
+d) veľkosť preparátu vhodného na pozorovanie
+
+51. Aký problém spôsobuje chromatická aberácia?
+a) obraz je rozmazaný
+b) obraz má farebné lemy na okrajoch
+c) obraz je ostrý len v jednom smere
+d) obraz sa javí trojrozmerný
+
+52. Ako sa majú čistiť objektívy a okuláre mikroskopu?
+a) bežnou papierovou vreckovkou
+b) špeciálnymi utierkami alebo roztokmi určenými na optiku
+c) alkoholom technickej čistoty
+d) destilovanou vodou
+
+53. Čo je základnou funkciou objektívu mikroskopu?
+a) zväčšiť obraz objektu
+b) usmerniť lúče svetla na preparát
+c) zabezpečiť ochranu okulára pred poškodením
+d) upravovať intenzitu svetla
+
+54. Aká je funkcia stolíka mikroskopu?
+a) zabezpečuje správne uloženie preparátu
+b) zvyšuje kontrast pozorovania
+c) obsahuje mechanizmus na výmenu objektívov
+d) slúži na reguláciu napätia
+
+55. Ktorá časť mikroskopu slúži na výmenu objektívov?
+a) tubus
+b) okulár
+c) revolverový nosič
+d) kondenzor

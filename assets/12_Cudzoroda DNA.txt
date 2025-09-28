@@ -1,0 +1,359 @@
+1. Prirodzené spôsoby vstupu cudzej DNA do bunky sú:
+a) transformácia
+b) transkripcia
+c) transdukcia
+d) konjugácia
+
+2. Medzi experimentálne techniky prenosu DNA do bunky patrí:
+a) elektroforéza
+b) mikroinjekcia
+c) lipofekcia
+d) fotosyntéza
+
+3. Vírusové vektory používané v génovom inžinierstve môžu byť:
+a) retrovírusy
+b) chloroplasty
+c) adenovírusy
+d) mitochondrie
+
+4. Cudzia DNA môže v bunke existovať ako:
+a) plazmidová forma
+b) mitochondriálna forma
+c) epizomálna forma
+d) ribozomálna forma
+
+5. Integrovaná forma cudzej DNA je typická pre:
+a) retrovírusy
+b) plazmidy
+c) transpozóny
+d) liposómy
+
+6. Plazmidové vektory:
+a) sú malé kruhové molekuly DNA schopné autonómnej replikácie
+b) sa prirodzene nachádzajú v jadre eukaryotických buniek
+c) môžu niesť selekčné markery a promótory
+d) nikdy sa nepoužívajú na produkciu proteínov
+
+7. Vírusové vektory:
+a) retrovírusy sa integrujú do genómu hostiteľa
+b) adenovírusy prinášajú DNA bez integrácie
+c) adeno–asociované vírusy sú vysoko imunogénne
+d) všetky vírusové vektory sú vždy patogénne
+
+8. Nevírusové vektory:
+a) zahŕňajú lipozómy a lipidové nanočastice
+b) sú menej bezpečné ako vírusové vektory
+c) môžu byť tvorené syntetickými polymérmi
+d) sa používajú len v rastlinnej biotechnológii
+
+9. Bakteriálne vektory:
+a) využívajú oslabené patogény, ako Salmonella a Listeria
+b) neumožňujú prenos rekombinantnej DNA
+c) skúšajú sa pri vývoji vakcín
+d) dnes sú už úplne nahradené vírusovými vektormi
+
+10. Rekombinačná DNA technológia:
+a) využíva reštrikčné endonukleázy a DNA ligázu
+b) umožňuje spojiť cudzí gén s vektorom
+c) je založená na transkripcii do mRNA
+d) neumožňuje selekciu klonov
+
+11. Programovateľné nukleázy:
+a) ZFN, TALEN a CRISPR–Cas dokážu vytvoriť dvojvláknový zlom DNA
+b) výsledok editácie závisí od voľby opravnej dráhy HDR alebo NHEJ
+c) využívajú iba retrovírusy
+d) patria výlučne medzi bakteriálne enzýmy bez použitia v genetike
+
+12. Base editory a prime editory:
+a) umožňujú meniť bázy alebo krátke úseky DNA bez dvojvláknových zlomov
+b) zvyšujú riziko off–target efektov
+c) predstavujú moderné varianty presného editovania
+d) vyžadujú vždy integráciu do chromozómu hostiteľa
+
+13. Pri mutáciách spôsobujúcich stratu funkčnosti génu v génovej terapii sa najčastejšie:
+a) odstraňuje celý chromozóm
+b) dodáva funkčná kópia génu
+c) využíva RNAi
+d) edituje presná chyba v DNA
+
+14. Cielená cytotoxicita v génovej terapii môže prebiehať:
+a) expresiou „samovražedného“ génu, čo vedie k aktivovaniu proliečiva/predliečiva
+b) expresiou génu pre rezistenciu na antibiotiká
+c) aktiváciou imunitného systému pomocou CAR–T buniek
+d) expresiou génu pre GFP (zelený fluorescenčný proteín)
+
+15. Vypnutie génu (knock – down) sa dosahuje:
+a) antisense oligonukleotidmi
+b) mechanizmom RNAi
+c) CRISPR–x/CRISPR–a systémom
+d) transkripciou génu na mRNA
+
+16. CRISPR–Cas systém u baktérií:
+a) poskytuje adaptívnu imunitu voči bakteriofágom
+b) využíva krátke fragmenty vírusovej DNA uložené ako spacery
+c) degraduje RNA hostiteľskej bunky
+d) bol objavený ako systém obrany archeí proti plazmidom iba v roku 2020
+
+17. Najznámejší Cas proteín je Cas9, ktorý:
+a) umožňuje presné naštiepenie DNA
+b) degraduje proteíny
+c) funguje výhradne pri RNA vírusoch
+d) má varianty Cas12 a Cas13, zamerané na DNA a RNA
+
+18. Princíp génovej terapie spočíva najmä v tom, že:
+a) sa do cieľových buniek vnesie funkčný gén
+b) sa trvalo umlčí všetky mutované gény v tele
+c) sa opraví mutácia alebo umlčí škodlivá alela
+d) sa nahrádza celé jadro bunky
+
+19. Prvé regulačne schválené terapie zahŕňajú:
+a) Luxturna pre mutácie v RPE65
+b) Zolgensma pre spinálnu muskulárnu atrofiu
+c) penicilín ako prvé antibiotikum
+d) chemoterapiu založenú na cytostatiku cisplatina
+
+20. Kľúčové požiadavky pre úspešnú génovú terapiu sú:
+a) presná molekulárna diagnóza
+b) výber vhodných cieľových buniek
+c) dodanie génu do cytoplazmatických inklúzií
+d) úplná eliminácia RNA hostiteľa
+
+21. Ex vivo génová terapia:
+a) znamená úpravu izolovaných buniek mimo tela a ich návrat pacientovi
+b) umožňuje selekciu a kontrolu upravených buniek
+c) je praktickejšia pre tkanivá, ktoré nemožno odoberať
+d) vždy prebieha priamo v tele pacienta
+
+22. Medzi limity génovej terapie patrí:
+a) imunogénnosť vektorov
+b) riziko inzerčnej mutagenézy
+c) dlhodobý účinok pri integrujúcich systémoch
+d) schopnosť riešiť všetky polygénové ochorenia
+
+23. CRISPR/Cas je:
+a) dvojzložkový imunitný systém eukaryotických buniek
+b) prirodzene sa vyskytujúci adaptácie schopný dvojzložkový imunitný systém prokaryotických organizmov
+c) prirodzene sa vyskytujúci adaptácie schopný dvojzložkový imunitný systém vírusov
+d) dvojzložkový imunitný systém prokaryotických buniek vyskytujúci sa v mitochodnriách alebo chloroplastoch
+
+24. CRISPR/Cas:
+a) je typ plazmidu
+b) je systém, ktorým sa baktérie bránia napadnutiu cudzorodou DNA
+c) je systém, ktorým sa vírusy bránia napadnutiu cudzorodou DNA
+d) invadujúcu nukleovú kyselinu rozstrihá nešpecificky
+
+25. K možnostiam využitia CRISPR/Cas v medicínskej praxi patrí:
+a) protinádorová terapia
+b) liečba monogénovo podmienených ochorení
+c) liečba vírusových infekcií
+d) riešenie rezistencie na antibiotiká
+
+26. Anti–CRISPR (Acr) proteíny:
+a) blokujú väzbové miesta DNA
+b) blokujú štiepenie DNA
+c) enzymaticky deaktivujú CRISPR/Cas
+d) sú prenášané plazmidmi
+
+27. Crisprové antibiotiká:
+a) nemôžu byť cielené na plazmidy zodpovedné za rezistenciu baktérií
+b) majú širokospektálny účinok
+c) môžu byť zamerané priamo voči genómu baktérií
+d) inhibujú syntézu bakteriálnej bunkovej steny
+
+28. Génová terapia:
+a) je somatická alebo zárodočná
+b) z etických dôvodov je u ľudí vo veľkej miere zakázaná
+c) môže byť in vivo alebo ex vivo
+d) používa genetický materiál na liečbu alebo prevenciu ochorenia
+
+29. Somatická génová terapia:
+a) používa vírusové vektory na transdukciu génov
+b) používa vírusové vektory na transfekciu génov
+c) používa plazmidy na transfekciu génov
+d) používa plazmidy na transdukciu génov
+
+30. RNA terapia:
+a) používa molekuly založené na DNA na liečbu ochorení
+b) používa antisense oligonukleotidy
+c) môže sa použiť na zavedenie mRNA do buniek za účelom obnovy chýbajúceho enzýmu
+d) nepoužíva aptaméry
+
+31. Vektor v génovej terapii:
+a) znamená systém prenosu génu
+b) je vždy integrovaný do genómu hostiteľa
+c) môže byť odvodený z vírusu odstránením vírusových génov
+d) v závislosti od typu sa môže integrovať do genómu hostiteľa
+
+32. Plazmidom môže byť podmienená: 
+a) rezistencia na antibiotiká, chemoterapeutiká a ťažké kovy
+b) replikácia bakteriálneho genómu
+c) produkcia antibiotík a toxínov
+d) degradácia a oxidácia inak biologicky inertných alebo toxických organických látok
+
+33. Plazmidom môže byť podmienená: 
+a) tvorba reštrikčných a modifikačných enzýmov
+b) tvorba jadrovej membrány baktérií
+c) schopnosť symbiózy
+d) syntéza membránových organel baktérií
+
+34. Prenos plazmidu z bunky do bunky:
+a) delíme na horizontálny a vertikálny
+b) horizontálny sa deje aj medzi rôznymi druhmi a rodmi baktérií
+c) vertikálny sa deje aj medzi rôznymi druhmi a rodmi baktérií
+d) sa deje aj počas amitózy
+
+35. Horizontálny prenos plazmidu z bunky do bunky:
+a) sa deje počas amitózy z materskej na dcérske bunky
+b) prebieha len medzi rovnakými rodmi baktérií
+c) je zodpovedný za medzidruhový a medzirodový transfer rezistencie na antibiotiká
+d) prebieha prostredníctvom konjugácie
+
+36. Choroby vhodné na génovú terapiu sú:
+a) Downov syndróm
+b) malignita
+c) ťažká kombinovaná imunodeficiencia – SCID
+d) Duchenova svalová dystrofia
+
+37. Klonovanie sa využíva pri príprave:
+a) enzýmov
+b) hormónov
+c) vakcín
+d) krvných faktorov
+
+38. Kozmidy sú vektory získané spojením:
+a) vírusov a ľudskej DNA
+b) plazmidov a fágov
+c) fágov a proteínov
+d) YAC–kov a kvasiniek
+
+39. Kozmidy sú:
+a) antibiotiká
+b) vektory
+c) klonovacie miesta
+d) enzýmy
+
+40. Podľa funkcie delíme vektory na:
+a) klonovacie
+b) expresné
+c) lokalizované
+d) multifunkčné
+
+41. Retrovírusové vektory pri γ–retrovírusovej génovej terapii môžu infikovať:
+a) nedeliace sa rakovinové bunky
+b) len deliace sa bunky
+c) nedeliace a deliace sa bunky
+d) len nedeliace sa bunky
+
+42. Rekombinantná DNA:
+a) nedá sa vyrobiť umelo
+b) štandardná skratka je rDNA
+c) je DNA, ktorá obsahuje dve alebo viac sekvencií, ktoré sa bežne spolu nevyskytujú
+d) nemôže vzniknúť v prírode
+
+43. Technológia rekombinantnej DNA:
+a) je súbor metód na tvorbu rekombinantnej DNA
+b) nie je technológiou na tvorbu DNA
+c) môže meniť DNA v živých organizmoch
+d) zahŕňa klonovacie techniky
+
+44. Technológia rekombinantnej DNA je:
+a) užitočná na produkciu rekombinantných proteínov (napr. inzulín, rastový hormón)
+b) zakázaná
+c) zbytočná
+d) využívaná v génovej terapii
+
+45. Cudzorodá DNA môže vstúpiť do bakteriálnej bunky pomocou:
+a) transdukcie
+b) sexsekcie
+c) malformácie
+d) transformácie
+
+46. Cudzorodá DNA môže tiež vstúpiť do bakteriálnej bunky pomocou:
+a) transdukcie
+b) fortifikácie
+c) konjugácie
+d) malformácie
+
+47. Cudzorodá DNA môže vstúpiť do eukaryotickej bunky pomocou:
+a) transpozónov
+b) fortifikácie
+c) elekcie
+d) transdukcie
+
+48. Bakteriálna rezistencia na antibiotiká môže byť spôsobená:
+a) hyperpláziou
+b) prítomnosťou génu rezistencie na antibiotikum v baktérii
+c) prítomnosťou plazmidu
+d) prítomnosťou transpozónu
+
+49. Plazmid:
+a) je dvojvláknová kruhová DNA
+b) je lineárna jednovláknová RNA
+c) môže baktérii priniesť výhodu
+d) nachádza sa len v eukaryotických bunkách
+
+50. Replikácia plazmidu:
+a) závisí od bakteriálneho chromozómu
+b) je nezávislá od bakteriálneho chromozómu
+c) prebieha mechanizmom „rolling circle“
+d) prebieha mechanizmom „rolling stone“
+
+51. Plazmid – ďalšie vlastnosti:
+a) môže slúžiť ako vektor na prenos génov
+b) je lineárna jednovláknová RNA
+c) môže niesť gén rezistencie na antibiotikum
+d) nachádza sa v eukaryotickom jadre
+
+52. Transpozóny:
+a) vznikajú iba umelo v laboratóriu
+b) sú DNA prvky, ktoré sa môžu pohybovať v rámci genómu alebo medzi genómami
+c) nie sú prítomné vo všetkých genómoch
+d) môžu pôsobiť ako prirodzené mutagény
+
+53. Transpozóny:
+a) sú prítomné v každom genóme
+b) vznikajú iba umelo v laboratóriu
+c) môžu prenášať gény rezistencie na antibiotiká
+d) môžu pôsobiť ako prirodzené mutagény
+
+54. Aplikácie technológie rekombinantnej DNA:
+a) medicína
+b) biotechnológia
+c) výskum
+d) oblasť životného prostredia
+
+55. Konjugácia:
+a) je prenos genetického materiálu medzi dvoma bakteriálnymi bunkami
+b) prebieha prostredníctvom pilu
+c) je prenos genetického materiálu medzi dvoma mnohobunkovými eukaryotickými rganizmami
+d) začína sa tým, že recipientná bunka vytvorí pilus smerom k donorskej bunke
+
+56. Ktoré mechanizmy umožňujú prirodzený prenos DNA medzi baktériami?
+a) transformácia
+b) transdukcia
+c) konjugácia
+d) translokácia
+
+57. Ktoré laboratórne metódy sa využívajú na vnesenie cudzej DNA do bunky?
+a) replikácia
+b) elektroporácia
+c) lipofekcia
+d) mikroinjekcia
+
+58. Ktoré tvrdenia o formách cudzej DNA v bunke sú správne?
+a) plazmidová forma zabraňuje autonómnej replikácii 
+b) epizomálna forma sa replikuje koordinovane s genómom
+c) integrovaná forma znamená začlenenie DNA do chromozómu
+d) transientná forma sa stáva trvalou súčasťou genómu
+
+59. Ktoré typy vektorov sa využívajú v génovom inžinierstve a terapii?
+a) plazmidové
+b) vírusové (stafylokoky, streptokoky)
+c) lipidové nanočastice
+d) ribozómy
+
+60. Ktoré tvrdenia o CRISPR–Cas systéme sú správne?
+a) poskytuje baktériám adaptívnu imunitu proti adenovírusom
+b) využíva krátke úseky vírusovej DNA uložené v CRISPR lokuse
+c) proteín Cas9 umožňuje presný rez DNA
+d) pôvodne ide o mechanizmus translácie
