@@ -1,0 +1,508 @@
+1. Amitóza je:
+a) priame delenie
+b) nepriame delenie
+c) redukčné delenie
+d) diferenciácia buniek
+
+2. Mitóza je:
+a) priame delenie
+b) nepriame delenie
+c) redukčné delenie
+d) diferenciácia buniek
+
+3. Meióza je:
+a) priame delenie
+b) nepriame delenie
+c) redukčné delenie
+d) diferenciácia buniek
+
+4. Amitóza je typickým spôsobom delenia sa:
+a) prokaryotických buniek
+b) eukaryotických buniek
+c) gamét
+d) rastlín
+
+5. Meióza je typickým spôsobom vytvárania:
+a) prokaryotických buniek
+b) eukaryotických buniek
+c) gamét
+d) rastlín
+
+6. Bunkový cyklus sa skladá z:
+a) interfázy a M fázy (mitózy)
+b) profázy a metafázy
+c) anafázy a telofázy
+d) cytokinézy a karyokinézy
+
+7. Do interfázy patrí:
+a) G1 fáza
+b) G2 fáza
+c) S fáza
+d) M fáza
+
+8. G1 fáza je charakterizovaná:
+a) intenzívnou syntézou bielkovín
+b) replikáciou DNA
+c) zdvojením centrozómu
+d) diferenciáciou bunky
+
+9. G0 fáza je charakterizovaná:
+a) intenzívnou syntézou bielkovín
+b) replikáciou DNA
+c) zdvojením centrozómu
+d) diferenciáciou bunky
+
+10. G2 fáza je charakterizovaná:
+a) intenzívnou syntézou bielkovín
+b) replikáciou DNA
+c) zdvojením centrozómu
+d) diferenciáciou bunky
+
+11. S fáza je charakterizovaná:
+a) intenzívnou syntézou bielkovín
+b) replikáciou DNA
+c) zdvojením centrozómu
+d) diferenciáciou bunky
+
+12. Hlavné kontrolné uzly bunkového cyklu sú v:
+a) G1 fáze
+b) G2/M fáze
+c) S fáze
+d) metafáze
+
+13. Pri mitóze:
+a) vznikajú dve dcérske bunky, z ktorých každá má rovnaký počet chromozómov ako rodičovská bunka
+b) vznikajú štyri dcérske bunky, z ktorých každá má rovnaký počet chromozómov ako rodičovské bunky
+c) vznikajú dve dcérske bunky, každá má polovičný počet chromozómov ako rodičovské bunky
+d) vznikajú štyri dcérske bunky, z ktorých každá má polovičný počet chromozómov ako rodičovské bunky
+
+14. Pri meióze sa počet chromozómov:
+a) redukuje na polovicu
+b) ostáva nezmenený
+c) zdvojnásobí
+d) strojnásobí
+
+15. K rozdeleniu jadra dochádza:
+a) procesom cytokinézy
+b) v rámci mitózy a meiózy
+c) v procese interfázy
+d) karyokinézo
+
+16. Bunkový cyklus:
+a) je súbor procesov, ktorých výsledkom je vznik dcérskych buniek
+b) sa nemôže opakovať podľa potrieb organizmu
+c) je názov pre proces vzniku DNA
+d) je proces replikácie chromozómov
+
+17. Ako sa môžu rozmnožovať bunky?
+a) delením
+b) pučaním
+c) mitózou
+d) meiózou
+
+18. Bunkový cyklus možno rozdeliť na:
+a) profázu, prometafázu, metafázu, anafázu a telofázu
+b) interfázu a samotné delenie
+c) G1 fázu, S fázu, G2 fázu a M fázu
+d) G1 fázu, S fázu, G2 fázu a interfázu
+
+19. K typom bunkových delení (podľa priebehu bunkového cyklu) patrí:
+a) priame delenie – mitóza
+b) nepriame delenie – mitóza
+c) meióza
+d) priame delenie – amitóza
+
+20. Za akých podmienok dochádza k zastaveniu bunkového delenia?
+a) pri nedostatku živín
+b) pri nevhodnej teplote
+c) pri nahromadení škodlivých látok
+d) pri nevhodných podmienkach vonkajšieho prostredia
+
+21. Bunka má 46 chromozómov počas G1 fázy bunkového cyklu. Koľko sesterských chromatíd má počas profázy I?
+a) 10
+b) 23
+c) 46
+d) 92
+
+22. K fázam bunkového cyklu, ktoré majú priamy vzťah k rozdeleniu bunky patrí:
+a) M fáza
+b) G1 fáza a G2 fáza
+c) G1 fáza a M fáza
+d) S fáza
+
+23. Ako sa nazýva fáza bunkového cyklu, v ktorej prebieha replikácia jadrovej DNA a zdvojenie jadrových chromozómov?
+a) S fáza
+b) syntetická fáza
+c) M fáza
+d) mitóza
+
+24. Eukaryotické jadrové chromozómy sú tvorené:
+a) chromatínom
+b) DNA
+c) histónovými proteínmi
+d) nehistónovými proteínmi
+
+25. Do interfázy bunkového cyklu patria fázy:
+a) G1
+b) M
+c) S
+d) G2
+
+26. Fázy samotnej mitózy v správnom poradí sú:
+a) profáza, prometafáza, metafáza, anafáza, telofáza
+b) telofáza, profáza, prometafáza, metafáza, anafáza
+c) profáza, prometafáza, metafáza, telofáza, anafáza
+d) profáza, prometafáza, anafáza, metafáza, telofáza
+
+27. V profáze dochádza ku:
+a) kondenzácii chromatínu
+b) zániku jadrového obalu
+c) zoradeniu chromozómov do ekvatoriálnej roviny
+d) vzniku nového jadra
+
+28. Jadierka zanikajú v:
+a) profáze
+b) metafáze
+c) anafáze
+d) telofáze
+29. Včasné deliace vretienko zložené z nekinetochorových mikrotubulov sa vytvára v:
+a) profáze
+b) metafáze
+c) anafáze
+d) telofáze
+
+30. Centrozómy sa od seba oddelia v:
+a) profáze
+b) metafáze
+c) anafáze
+d) telofáze
+
+31. V prometafáze dochádza ku:
+a) ukončeniu kondenzácie chromatínu
+b) zániku jadrového obalu
+c) zoradeniu chromozómov do ekvatoriálnej roviny
+d) vzniku nového jadra
+
+32. Prometafáza mitózy je pre bunku dôležitá, lebo:
+a) sa rozpadá jadrová membrána
+b) nekinetochórové mikrotubuly deliaceho vretienka sa musia správne napojiť na kohezín chromatídy
+c) kinetochórové mikrotubuly deliaceho vretienka sa musia správne napojiť na kinetochór oboch chromatíd
+d) každý chromozóm má dva kinetochóry umiestnené na centrozóme chromatídy
+
+33. Metafázový chromozóm:
+a) je tvorený jedným chromatidom
+b) je tvorený dvomi chromatidmi
+c) má tvar písmena Y
+d) má tvar písmena X
+
+34. V metafáze mitózy dochádza k:
+a) rozpadu jadrovej membrány
+b) k usporiadaniu chromozómov do ekvatoriálnej roviny
+c) k maximálnej kondenzácii chromozómov
+d) k dekondenzácii chromozómov
+
+35. Chromozómy sú maximálne kondenzované na:
+a) konci metafázy
+b) konci anafázy
+c) konci telofázy
+d) začiatku profázy
+
+36. Anafázu promujúci komplex sa aktivuje v:
+a) profáze
+b) metafáze
+c) anafáze
+d) telofáze
+
+37. V anafáze A sa:
+a) depolymerizáciou skracujú kinetochorové mikrotubuly
+b) polymerizujú nekinetochorové mikrotubuly
+c) rozdeľuje jadro
+d) rozdeľuje cytoplazma
+
+38. V anafáze B sa:
+a) depolymerizáciou skracujú kinetochorové mikrotubuly
+b) polymerizujú nekinetochorové mikrotubuly
+c) rozdeľuje jadro
+d) rozdeľuje cytoplazma
+
+39. Pri karyokinéze sa:
+a) depolymerizáciou skracujú kinetochorové mikrotubuly
+b) polymerizujú nekinetochorové mikrotubuly
+c) rozdeľuje jadro
+d) rozdeľuje cytoplazma
+
+40. Pri cytokinéze sa:
+a) depolymerizáciou skracujú kinetochorové mikrotubuly
+b) polymerizujú nekinetochorové mikrotubuly
+c) rozdeľuje jadro
+d) rozdeľuje cytoplazma
+
+41. V telofáze dochádza ku:
+a) kondenzácii chromatínu
+b) zániku jadrového obalu
+c) zoradeniu chromozómov do ekvatoriálnej roviny
+d) vzniku nového jadra
+
+42. Počas telofázy mitotického delenia:
+a) prebieha dekondenzácia chromozómov
+b) ukončí sa karyokinéza
+c) vytvárajú sa nové jadrové obaly
+d) prebieha kondenzácia chromozómov
+
+43. Ktorá z nasledujúcich udalostí nastáva počas telofázy?
+a) aktín – myozínový kontrakčný prstenec iniciuje tvorbu štiepnej brázdy
+b) sesterské chromatidy sa oddelia a sú vytiahnuté na opačné konce bunky
+c) mikrotubuly sa viažu na kinetochórne proteíny na chromozómoch
+d) jadrová membrána sa rozpadá
+
+44. Anafáza je proces, ktorý:
+a) môžeme rozdeliť na anafázu bunky eukaryotickej a prokaryotickej
+b) prebieha po telofáze
+c) prebieha pred telofázou
+d) môžeme rozdeliť na anafázu A a anafázu B
+
+45. V priebehu anafázy mitotického delenia:
+a) sa kinetochorové mikrotubuly deliaceho vretienka depolymerizujú
+b) jednochromatidové chromozómy sú ťahané k centrozómom
+c) kinetochorové mikrotubuly sa polymerizáciou skracujú
+d) dvojchromatidové chromozómy sú ťahané k centrioméram
+
+46. Motorické proteíny sú:
+a) dyneíny
+b) kinezíny
+c) kohezíny
+d) separázy
+
+47. Rýchlemu postupu chromozómov k centrozómom pomáhajú:
+a) dyneíny
+b) kinezíny
+c) polymerizácia kinetochorových mikrotubulov
+d) depolymerizácia kinetochorových mikrotubulov
+
+48. Ak zlyhá likvidácia sekurínu na konci metafázy:
+a) separáza rozdelí kohezíny aj z vnútornej strany centromér
+b) separáza nerozdelí kohezíny aj z vnútornej strany centromér
+c) nastane disjunkcia sesterských chromatídov
+d) nastane nondisjunkcia sesterských chromatídov
+
+49. Bielkovina chrániaca kohezíny pred rozpojením:
+a) sa volá separáza
+b) sa volá shugoshin
+c) je odstránená ubikvitináciou
+d) je odstránená acetyláciou
+
+50. Čo je miestom pripevnenia vretienkových vlákien k sesterským chromatídam počas mitózy.
+a) centrozóm
+b) centriola
+c) centroméra
+d) kinetochór
+
+51. Výsledkom 1. meiotického delenia je vznik buniek s:
+a) haploidným počtom zdvojených chromozómov
+b) haploidným počtom chromozómov
+c) diploidným počtom zdvojených chromozómov
+d) diploidným počtom chromozómov
+
+52. Výsledkom 2. meiotického delenia je vznik buniek s:
+a) haploidným počtom zdvojených chromozómov
+b) haploidným počtom chromozómov
+c) diploidným počtom zdvojených chromozómov
+d) diploidným počtom chromozómov
+
+53. Výsledkom meiotického delenia je vznik:
+a) jednej bunky
+b) dvoch buniek
+c) troch buniek
+d) štyroch buniek
+
+54. Pri amitóze sa počet chromozómov:
+a) zachováva
+b) znižuje na polovicu
+c) zdvojnásobuje
+d) náhodne mení podľa typu bunky
+
+55. Koľko buniek je výsledkom prvého meiotického delenia?
+a) 1
+b) 2
+c) 3
+d) 4
+
+56. V ktorej fáze meiózy sa párujú homologické chromozómy a dochádza ku crossingoveru? A v ktorej fáze meiózy dochádza k rozdeleniu chromatíd?
+a) v profáze I a v anafáze II
+b) v anafáze I a v profáze I
+c) v profáze II a v anafáze I
+d) v anafáze II a v profáze II
+
+57. K duplikácii chromozómov v meióze:
+a) nedochádza
+b) dochádza pred prvým meiotickým delením
+c) dochádza pred druhým meiotickým delením
+d) dochádza pred prvým aj druhým meiotickým delením
+
+58. Prvé meiotické delenie sa nazýva aj:
+a) redukčné
+b) ekvačné
+c) heterotypické
+d) homeotypické
+
+59. Druhé meiotické delenie sa nazýva aj:
+a) redukčné
+b) ekvačné
+c) heterotypické
+d) homeotypické
+
+60. Prvé meiotické delenie sa skladá z fáz:
+a) profáza, metafáza, anafáza, telofáza
+b) profáza I, metafáza I, anafáza I, telofáza I
+c) profáza II, metafáza II, anafáza II, telofáza II
+d) proleptoténne, leptoténne, zygoténne, pachyténne, diploténne, diakinéza
+
+61. Druhé meiotické delenie sa skladá z fáz:
+a) profáza, metafáza, anafáza, telofáza
+b) profáza I, metafáza I, anafáza I, telofáza I
+c) profáza II, metafáza II, anafáza II, telofáza II
+d) proleptoténne, leptoténne, zygoténne, pachyténne, diploténne, diakinéza
+
+62. Štádiá profázy prvého meiotického delenia v správnom poradí sú:
+a) leptoténne, zygoténne, pachyténne, diploténne, diakinéza
+b) proleptoténne, leptoténne, pachyténne, diploténne, diakinéza
+c) proleptoténne, leptoténne, zygoténne, diploténne, diakinéza
+d) proleptoténne, leptoténne, zygoténne, pachyténne, diploténne, diakinéza
+
+63. Ku kondenzácii chromozómov začína dochádzť v meióze v štádiu:
+a) proleptoténne
+b) zygoténne
+c) pachyténne
+d) diploténne
+
+64. Ku synapsii homologických chromozómov dochádza v štádiu:
+a) proleptoténne
+b) zygoténne
+c) pachyténne
+d) diploténne
+
+65. Ku crossing– overu dochádza v štádiu:
+a) proleptoténne
+b) zygoténne
+c) pachyténne
+d) diploténne
+
+66. Ku vzniku rekombinovaných chromatidov dochádza v štádiu:
+a) proleptoténne
+b) zygoténne
+c) pachyténne
+d) diploténne
+
+67. K rozpadu jadrových obalov a vymiznutiu jadierka dochádza v meióze v štádiu:
+a) proleptoténne
+b) zygoténne
+c) pachyténne
+d) diakinéze
+
+68. Synaptonemálne komplexy v meióze vymiznú v štádiu:
+a) proleptoténne
+b) zygoténne
+c) pachyténne
+d) diploténne
+
+69. Diakinéza je charakterizovaná:
+a) kondenzáciou chromatidov
+b) terminalizáciou chiazmat
+c) rozpadom jadrových obalov
+d) vymiznutím jadierka
+
+70. Koľko chromozómových sád má za normálnych okolností telová bunka človeka?
+a) jednu
+b) dve
+c) tri
+d) štyri
+
+71. Koľko chromozómov obsahuje normálna ľudská spermia?
+a) 22
+b) 23
+c) 45
+d) 46
+
+72. Hlavný rozdiel medzi mitózou a amitózou je:
+a) pri mitóze prebieha karyokinéza a cytokinéza, pri amitóze nie
+b) mitóza zachováva genetickú stabilitu, amitóza ju môže narušiť
+c) mitóza sa vyskytuje u prokaryotov, amitóza u eukaryotov
+d) pri amitóze sa vždy vytvárajú haploidné bunky
+
+73. Počas meiózy sa počet chromozómov:
+a) zdvojnásobí a potom rozdelí na štvrtiny
+b) rozdelí na štvrtiny
+c) zdvojnásobí a potom rozdelí na polovicu
+d) rozdelí na polovicu
+
+74. Nondisjunkcia je:
+a) chyba v separácii homologických chromozómov alebo sesterských chromatíd
+b) chyba v migrácii chromozómu
+c) delécia DNA segmentu na jednej chromatide
+d) duplikácia DNA segmentu na druhej chromatide
+
+75. Anafázové zaostávanie je:
+a) chyba v separácii homologických chromozómov alebo sesterských chromatíd
+b) chyba v migrácii chromozómu
+c) delécia DNA segmentu na jednej chromatide
+d) duplikácia DNA segmentu na druhej chromatide
+
+76. Medzi poruchy meiózy patrí:
+a) senescencia
+b) apoptóza
+c) nondisjunkcia
+d) nerovnomerný crossing– over
+
+77. Telomeráza je:
+a) koncová časť chromozómu
+b) enzým, ktorý predlžuje teloméry
+c) enzým, ktorý skracuje teloméry
+d) aktívna v embryonálnych bunkách
+
+78. Každý chromozóm v interfázovom jadre má:
+a) svoj sektor
+b) ľubovoľné umiestnenie
+c) premenlivé umiestnenie
+d) svoju určitú polohu zabezpečenú jeho väzbou s jadrovou laminou
+
+79. Ktoré bunky patria medzi haploidné?
+a) zygoty
+b) gaméty
+c) pohlavné bunky
+d) vajíčka a spermie
+
+80. Ako sa nazývajú identické kópie chromatínu, ktoré drží pohromade kohézín v centromére?
+a) históny
+b) nukleozómy
+c) chromatín
+d) sesterské chromatidy
+
+81. Čo platí pre fázu G0 bunkového cyklu?
+a) predstavuje trvalé zastavenie cyklu u všetkých buniek
+b) bunka môže dočasne vystúpiť z cyklu
+c) je spojená s diferenciáciou buniek
+d) vždy prebieha bezprostredne po mitóze
+
+82. Ktoré procesy charakterizujú S– fázu bunkového cyklu?
+a) semikonzervatívna replikácia DNA
+b) syntéza tubulínu a centrozómov
+c) vznik sesterských chromatíd spojených kohezínmi
+d) rozdelenie cytoplazmy
+
+83. Čo kontroluje G2/M kontrolný bod?
+a) rovnomerné pripojenie chromozómov na mikrotubuly
+b) správnu replikáciu DNA
+c) poškodenie DNA a jej opravu
+d) prítomnosť dostatočných živín pre bunku
+
+84. Čo kontroluje G1/S kontrolný bod?
+a) veľkosť bunky
+b) správne pripojenie kinetochorov na mikrotubuly
+c) prítomnosť živín
+d) rovnomerné rozdelenie chromozómov
+
+85. Ktoré tvrdenia vystihujú metafázový kontrolný bod?
+a) kontroluje pripojenie všetkých kinetochorov na mikrotubuly
+b) rozhoduje o vstupe do mitózy
+c) zabezpečuje rovnomerné rozdelenie chromozómov
+d) hodnotí veľkosť bunky a prítomnosť živín

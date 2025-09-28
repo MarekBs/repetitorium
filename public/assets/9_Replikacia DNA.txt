@@ -1,0 +1,330 @@
+1. Akú úlohu má beta svorka pri syntéze DNA reťazca?
+a) pripája DNA polymerázu I na vlákno DNA 
+b) pripája RNA polymerázu na vlákno DNA
+c) pripája DNA polymerázu III na vlákno DNA
+d) drží pohromade materský a dcérsky reťazec DNA
+
+2. Čo platí o DNA polymeráze I?
+a) zúčastňuje sa na kompletizácii vedúceho vlákna
+b) zúčastňuje sa na kompletizácii zaostávajúceho vlákna
+c) má aj exonukleázovú aktivitu
+d) je dôležitá pri transkripcii
+
+3. Čo platí o DNA polymeráze II?
+a) je tvorená dvomi polypeptidovými reťazcami
+b) zúčastňuje sa pri reparácii DNA
+c) má aj exonukleázovú aktivitu
+d) vyskytuje sa u eukaryotov
+
+4. Ako je DNA replikovaná?
+a) konzervatívne
+b) semikonzervatívne
+c) diskontinuálne
+d) radiálne
+
+5. Aká je funkcia SSB proteínov?
+a) predlžujú DNA reťazec
+b) stabilizujú jednovláknovú DNA
+c) rozpletajú dvojvláknovú DNA
+d) tvoria Okazakiho fragmenty
+
+6. Ktoré prokaryotické DNA polymerázy vykazujú exonukleázovú aktivitu 3’ → 5’?
+a) DNA polymeráza I
+b) DNA polymeráza II
+c) DNA polymeráza III
+d) primáza
+
+7. Ktoré procesy prebiehajú na zaostávajúcom vlákne počas replikácie?
+a) kontinuálna syntéza
+b) diskontinuálna syntéza
+c) tvorba Okazakiho fragmentov
+d) tvorba β – svorky
+
+8. Ktoré DNA polymerázy sa podieľajú na oprave DNA u prokaryotov?
+a) DNA polymeráza I
+b) DNA polymeráza II
+c) DNA polymeráza III
+d) primáza
+
+9. Aká je hlavná funkcia primázy počas replikácie?
+a) syntetizuje krátke DNA primery
+b) syntetizuje krátke RNA primery
+c) odstraňuje Okazakiho fragmenty
+d) spojuje DNA úseky ligázou
+
+10. Ktorá DNA polymeráza je hlavná replikačná polymeráza u E. coli?
+a) DNA polymeráza I
+b) DNA polymeráza II
+c) DNA polymeráza III
+d) DNA ligáza
+
+11. Ktoré z nasledujúcich tvrdení o DNA replikácii je pravdivé? 
+a) DNA polymeráza pridáva nukleotidy na 5' a 3' konce rastúceho vlákna RNA 
+b) promótory sú sekvencie, ktoré signalizujú začiatok transkripcie a sú nevyhnutné pre replikáciu 
+c) templátové vlákno DNA sa číta aj v smere 3' → 5' 
+d) oba reťazce DNA slúžia súčasne ako templáty 
+
+12. Replikácia dvojreťazcovej DNA prebieha:
+a) semipermeabilným spôsobom
+b) semikonzervatívnym spôsobom
+c) konzervatívnym spôsobom
+d) Okazakiho spôsobom
+
+13. Fázy replikácie sú:
+a) iniciácia
+b) katalyzácia
+c) terminácia
+d) elongácia
+
+14. DNA polymerázy katalyzujú polymerizáciu v smere:
+a) obojsmerne (5´ → 3´ aj 3´ → 5´)
+b) len 3´ → 5´
+c) niekedy aj 5´ → 3´
+d) len 5´ → 3´
+
+15. DNA ligáza katalyzuje vytvorenie:
+a) RNA primeru
+b) fosfodiesterovej väzby medzi 5´ a 3´ koncom polynukleotidového reťazca
+c) fosfotriesterovej väzby medzi 5´ a 3´ koncom polynukleotidového reťazca
+d) vytvorenie komplementárneho reťazca
+
+16. Syntéza Okazakiho fragmentov sa uskutočňuje:
+a) v smere pohybu replikačnej vidlice
+b) proti smeru pohybu replikačnej vidlice
+c) diskontinuálne
+d) kontinuálne
+
+17. Primáza je enzým, ktorý katalyzuje:
+a) odvíjanie komplementárnych reťazcov
+b) vytvorenie väzby medzi fragmentami DNA
+c) syntézu DNA primeru
+d) syntézu RNA primeru
+
+18. Syntéza Okazakiho fragmentov vyžaduje vlastný:
+a) RNA primer s voľným 3 koncom
+b) DNA primer s voľným 5 koncom
+c) RNA primer s voľným 5 koncom
+d) DNA primer s voľným 3 koncom
+
+19. Ktorá eukaryotická DNA polymeráza syntetizuje vedúci reťazec?
+a) α
+b) δ
+c) β
+d) γ
+
+
+20. Aká je hlavná úloha DNA polymerázy α?
+a) oprava DNA
+b) syntéza mitochondriálnej DNA
+c) iniciácia replikácie DNA
+d) proofreading
+
+21. Ktorá eukaryotická DNA polymeráza sa podieľa na opravách DNA?
+a) δ
+b) ε
+c) β
+d) γ
+
+22. Ktorá eukaryotická DNA polymeráza zabezpečuje syntézu mitochondriálnej DNA?
+a) δ
+b) ε
+c) γ
+d) β
+
+23. Aký proteín plní funkciu β – svorky u eukaryotov?
+a) RFC
+b) PCNA
+c) RPA
+d) DNA ligáza
+
+24. Aký proteín u eukaryotov plní funkciu γ – komplexu?
+a) PCNA
+b) RFC
+c) DNA pol δ
+d) RNáza H
+
+25. Aký enzým odstraňuje RNA primery u eukaryotov?
+a) DNA pol I
+b) RNáza H
+c) DNA pol δ
+d) DNA pol ε
+
+26. Aký enzým spája DNA fragmenty u eukaryotov?
+a) DNA pol δ
+b) DNA ligáza
+c) RFC
+d) PCNA
+
+27. Čo spôsobuje problém nedoreplikovania 3′ koncov DNA?
+a) kruhový genóm
+b) lineárna štruktúra DNA
+c) nedostatok histónov
+d) nadbytok intrónov
+
+28. Aká je sekvencia ľudskej teloméry?
+a) TATAAT
+b) TTAGGG
+c) TTACCC
+d) GGGTTT
+
+29. Replikácia DNA prebieha v:
+a) S – fáze bunkového cyklu
+b) G1 – fáze
+c) M – fáze
+d) S – fáze a je semikonzervatívna
+
+30. Miesto začiatku replikácie u baktérie E. coli:
+a) sa nazýva ORI
+b) má veľkosť približne 245 bp
+c) sa označuje ako ORC
+d) sa nachádza na viacerých chromozómoch
+
+31. Úlohou SSB proteínov je:
+a) stabilizovať jednovláknové úseky DNA
+b) brániť spätnému spájaniu reťazcov
+c) katalyzovať syntézu RNA primerov
+d) spájať Okazakiho fragmenty
+
+32. Ktoré tvrdenia sú správne o DNA polymeráze I?
+a) odstraňuje RNA primery
+b) nahrádza RNA nukleotidy DNA nukleotidmi
+c) je hlavný replikačný enzým
+d) pracuje rýchlosťou 250 – 1000 nt/s
+
+33. Zaostávajúce vlákno:
+a) sa syntetizuje kontinuálne
+b) sa syntetizuje prostredníctvom Okazakiho fragmentov
+c) má fragmenty dlhé približne 2000 nt u E. coli
+d) nevyžaduje primery
+
+34. Presnosť replikácie DNA je zabezpečená tým, že:
+a) polymerázy majú 3’ → 5’ exonukleázovú aktivitu
+b) polymerázy vykonávajú proofreading
+c) ligáza opravuje chybné bázy
+d) SSB proteíny kontrolujú správne párovanie
+
+35. Ukončenie replikácie DNA zahŕňa:
+a) odstránenie RNA primerov DNA polymerázou I
+b) spájanie úsekov DNA ligázou
+c) degradáciu vedúceho vlákna
+d) inhibíciu helikázy
+
+36. Ktoré DNA polymerázy sa podieľajú na replikácii genómovej DNA v eukaryotických bunkách?
+a) DNA polymeráza δ
+b) DNA polymeráza α
+c) DNA polymeráza II
+d) DNA polymeráza IV
+
+37. Akú funkciu má DNA polymeráza γ?
+a) syntetizuje Okazakiho fragmenty
+b) zabezpečuje replikáciu mitochondriálnej DNA
+c) podieľa sa na oprave DNA
+d) spolupracuje s DNA polymerázou δ pri replikácii
+
+38. Aké proteíny majú v eukaryotickej replikácii podobnú funkciu ako β – svorka a γ – komplex u prokaryotov?
+a) PCNA
+b) RFC
+c) FRAXA
+d) SSB
+
+39. Čo odstraňuje RNA primery pri replikácii v eukaryotických bunkách?
+a) RNáza H
+b) DNA polymeráza δ
+c) DNA polymeráza I
+d) ligáza
+
+40. Čo spôsobuje skracovanie telomér pri replikácii?
+a) nekompletná replikácia 3´ konca zaostávajúceho vlákna
+b) strata histónov pri tvorbe nukleozómov
+c) činnosť topoizomerázy II
+d) obmedzená aktivita telomerázy
+
+41. Aké vlastnosti majú ľudské teloméry?
+a) obsahujú tandemové opakovania sekvencie TTAGGG
+b) sú bohaté na guanín
+c) kódujú proteíny replikačného aparátu
+d) sú bohaté na tymín
+
+42. Ktoré tvrdenia sú správne o rýchlosti replikácie DNA?
+a) v eukaryotických bunkách je pomalšia než u prokaryotov
+b) eukaryotické polymerázy pridávajú približne 50 nt/s
+c) u prokaryotov je to asi 10 nt/s
+d) eukaryoty majú iba jeden ORI
+
+43. Ktoré tvrdenia sú správne o Okazakiho fragmentoch?
+a) v eukaryotických bunkách majú približne 150 nukleotidov
+b) u prokaryotov sú dlhé 1000 – 2000 nukleotidov
+c) na vedúcom vlákne sa tvoria kontinuálne
+d) ich spájanie katalyzuje topoizomeráza
+
+44. Ktorý enzým zabezpečuje predĺženie telomér?
+a) telomeráza
+b) špecifická DNA polymeráza s vlastným RNA templátom
+c) DNA polymeráza I
+d) RNáza H
+
+45. Čo sa deje s nukleozómami počas replikácie DNA v eukaryotoch?
+a) rozpadávajú sa na jednotlivé históny
+b) úplne sa nahrádzajú iba novými histónmi
+c) zostávajú pevne naviazané a nemenia sa
+d) po replikácii sa znovu skladajú z nových aj starých histónov
+
+46. Aké sú hlavné rozdiely medzi replikáciou DNA u prokaryotov a eukaryotov?
+a) prokaryoty majú spravidla 1 ORI
+b) u prokaryotov je DNA lineárna
+c) eukaryoty majú tisíce ORI
+d) eukaryoty nemajú históny
+
+47. Čo je spoločné pre DNA polymerázy prokaryotov aj eukaryotov?
+a) katalyzujú syntézu iba v smere 5’ → 3’
+b) disponujú proofreading aktivitou (3’ → 5’ exonukleázová)
+c) nepotrebujú primer
+d) spájajú fragmenty fosfodiesterovou väzbou
+
+48. Ktoré tvrdenia platia pre Okazakiho fragmenty?
+a) umožňujú syntézu zaostávajúceho vlákna
+b) tvoria sa na vedúcom vlákne
+c) vznikajú iba pri replikácii mitochondriálnej DNA
+d) u eukaryotov sú kratšie (~150 nt) ako u prokaryotov (~1000 – 2000 nt)
+
+49. Ktoré enzýmy alebo mechanizmy odstraňujú RNA primery?
+a) DNA polymeráza I u prokaryotov
+b) RNáza H a DNA polymeráza δ u eukaryotov
+c) DNA polymeráza γ
+d) DNA ligáza
+
+50. Ktoré proteíny zabezpečujú vysokú procesivitu DNA polymerázy pri replikácii?
+a) dnaA proteín
+b) SSB proteíny
+c) PCNA u eukaryotov
+d) β – svorka u prokaryotov
+
+51. Ktorý dôkaz podporuje semikonzervatívny mechanizmus replikácie DNA?
+a) Griffithov experiment s pneumokokmi
+b) Meselson– Stahlov experiment
+c) Averyho pokus s DNA
+d) Chargaffove pravidlá
+
+52. Aká je úloha DNA polymerázy I v baktériách?
+a) syntetizuje vedúci reťazec
+b) odstraňuje RNA primery
+c) spája Okazakiho fragmenty
+d) má 5’ → 3’ exonukleázovú aktivitu
+
+53. Ktoré tvrdenia o eukaryotickej replikácii DNA sú správne?
+a) replikuje sa z jedného ORI na chromozóm
+b) Okazakiho fragmenty sú kratšie než u prokaryotov
+c) RNA primery odstraňuje RNáza H
+d) polymeráza III je hlavný replikačný enzým
+
+54. Čo platí o telomérach a telomeráze?
+a) teloméry sa nachádzajú len u prokaryotov
+b) telomeráza obsahuje vlastnú RNA matricu
+c) teloméry sa pri každej replikácii predlžujú spontánne
+d) telomeráza predlžuje 3’ koniec materského vlákna
+
+55. Aké sú rozdiely medzi rýchlosťou a fragmentmi pri replikácii DNA?
+a) u eukaryotov je rýchlosť ~50 nukleotidov/s
+b) u prokaryotov je rýchlosť pomalšia (~10 nt/s)
+c) Okazakiho fragmenty u prokaryotov majú 1000 – 2000 nt
+d) Okazakiho fragmenty u eukaryotov sú dlhšie než u prokaryotov

@@ -5,20 +5,31 @@ export default function Question() {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0); // Index aktuálnej otázky
   const [answers, setAnswers] = useState({}); // Načítané odpovede
   const [questions, setQuestions] = useState([]); // Načítané otázky
-  const [questions2, setQuestions2] = useState([]);
-  const [answers2, setAnswers2] = useState([]);
   const [selectedOptions, setSelectedOptions] = useState({}); // Vybrané checkboxy
   const [results, setResults] = useState({}); // Uchováva stav správnych odpovedí
-  const [range, setRange] = useState({ min: 1, max: 1000 }); // Rozsah pre generovanie
+  const [range, setRange] = useState({ min: 1, max: 55 }); // Rozsah pre generovanie
   const [mode, setMode] = useState(false);
   const [nextQuestionRandom, setNextQuestionRandom] = useState(true);
-  const [isBiology, setIsBiology] = useState(true);
-  const [countBiology, setCountBiology] = useState(0);
-  const [countChemistry, setCountChemistry] = useState(0);
-  const [isFirst, setIsFirst] = useState(true);
   const options = ["A", "B", "C", "D"];
 
-  const loadFiles = (fileQuestions, fileAnswers, bio) => {
+  subory = [
+    ["1_Mikroskopicka technika.txt", "1_Mikroskopicka technika_odp.txt", 55],
+    ["2_Prokar a Eukar bunky.txt", "2_Prokar a Eukar bunky_odp.txt", 55],
+    ["3_Biomembrany.txt", "3_Biomembrany_odp.txt", 55],
+    ["4_Organely.txt", "4_Organely_odp.txt", 60],
+    ["5_Reprodukcia buniek.txt", "5_Reprodukcia buniek_odp.txt", 85],
+    ["6_Bunkove kultury.txt", "6_Bunkove kultury_odp.txt", 55],
+    ["7_Bunkova smrt.txt", "7_Bunkova smrt_odp.txt", 55],
+    ["8_Nukleove kyseliny.txt", "8_Nukleove kyseliny_odp.txt", 55],
+    ["9_Replikacia DNA.txt", "9_Replikacia DNA_odp.txt", 55],
+    ["10_Proteosynteza.txt", "10_Proteosynteza_odp.txt", 75],
+    ["11_Genetika.txt", "11_Genetika_odp.txt", 70],
+    ["12_Cudzoroda DNA.txt", "12_Cudzoroda DNA_odp.txt", 60],
+    ["13_Vztahy organizmi.txt", "13_Vztahy organizmi_odp.txt", 60],
+    ["14_Virusy.txt", "14_Virusy_odp.txt", 60],
+  ];
+
+  const loadFiles = (fileQuestions, fileAnswers) => {
     fetch(`${import.meta.env.BASE_URL}assets/${fileAnswers}`)
       .then((res) => res.text())
       .then((data) => {
@@ -28,11 +39,8 @@ export default function Question() {
           acc[parseInt(question)] = answer; // Priradí číslo otázky a odpoveď
           return acc;
         }, {});
-        if (bio) {
-          setAnswers(parsedAnswers);
-        } else {
-          setAnswers2(parsedAnswers);
-        }
+
+        setAnswers(parsedAnswers);
       });
 
     fetch(`${import.meta.env.BASE_URL}assets/${fileQuestions}`)
@@ -69,18 +77,17 @@ export default function Question() {
             ...questionOptions,
           });
         }
-        if (bio) {
-          setQuestions(parsedQuestions);
-        } else {
-          setQuestions2(parsedQuestions);
-        }
+
+        setQuestions(parsedQuestions);
       });
   };
 
   // Načítaj odpovede a otázky pri načítaní stránky
   useEffect(() => {
-    loadFiles("B_otazky.txt", "B_odpovede.txt", true);
-    loadFiles("C_otazky.txt", "C_odpovede.txt", false);
+    loadFiles(
+      "1_Mikroskopicka technika.txt",
+      "1_Mikroskopicka technika_odp.txt"
+    );
     setMode(true);
     document.body.style.background = "#212529";
   }, []);
@@ -163,8 +170,7 @@ export default function Question() {
 
   // Porovná odpovede a nastaví správne checkboxy na zeleno
   const evaluateAnswers = () => {
-    const correctAnswer =
-      (isBiology ? answers : answers2)[currentQuestionIndex + 1] || ""; // Odpovede sú indexované od 1
+    const correctAnswer = answers[currentQuestionIndex + 1] || ""; // Odpovede sú indexované od 1
     const newResults = {};
 
     // Prejdite cez všetky možnosti
@@ -181,7 +187,6 @@ export default function Question() {
     });
 
     setResults(newResults);
-    handleCountChange();
   };
 
   const handleRangeChange = (e) => {
@@ -226,26 +231,10 @@ export default function Question() {
   };
 
   const handleFieldChange = (e) => {
-    if (e.target.id == "btnradio3") {
-      setIsBiology(true);
-    } else {
-      setIsBiology(false);
-    }
     setSelectedOptions({}); // Reset checkboxov
     setResults({}); // Reset výsledkov
     setCurrentQuestionIndex(0);
     setIsFirst(true);
-  };
-
-  const handleCountChange = () => {
-    if (isFirst) {
-      if (isBiology) {
-        setCountBiology(countBiology + 1);
-      } else {
-        setCountChemistry(countChemistry + 1);
-      }
-    }
-    setIsFirst(false);
   };
 
   return (
@@ -268,10 +257,23 @@ export default function Question() {
             aria-label="Basic radio toggle button group"
           >
             <select class="form-select" aria-label="Default select example">
-              <option selected>1. téma</option>
-              <option value="1">2. téma</option>
-              <option value="2">3. téma</option>
-              <option value="3">4. téma</option>
+              <option value="1" selected>
+                1. Mikroskopická technika
+              </option>
+              <option value="2">2. Prokar. a Eukar. bunky</option>
+              <option value="3">3. Biomembrány</option>
+              <option value="4">4. Organely</option>
+              <option value="5">5 Reprodukcia buniek</option>
+              <option value="6">6. Bunkové kultúry </option>
+              <option value="7">7. Bunková smrť</option>
+              <option value="8">8. Nukleové kyseliny</option>
+              <option value="9">9. Replikácia DNA</option>
+              <option value="10">10. Proteosyntéza</option>
+              <option value="11">11. Genetika </option>
+              <option value="12">12. Cudzoroda DNA</option>
+              <option value="13">13. Vzťahy organizmami</option>
+              <option value="14">14. Vírusy</option>
+              <option value="15">15. Všetko</option>
             </select>
           </div>
         </div>
@@ -335,15 +337,12 @@ export default function Question() {
             <h3
               dangerouslySetInnerHTML={{
                 __html: `${currentQuestionIndex + 1}. ${
-                  (isBiology ? questions : questions2)[currentQuestionIndex]
-                    ?.q || "Načítavam otázky..."
+                  questions[currentQuestionIndex]?.q || "Načítavam otázky..."
                 }`,
               }}
             ></h3>
             <div className="d-flex mt-4 flex-column">
-              {Object.entries(
-                (isBiology ? questions : questions2)[currentQuestionIndex] || {}
-              )
+              {Object.entries(questions[currentQuestionIndex] || {})
                 .filter(([key]) => key !== "q" && key !== "number")
                 .map(([key, value]) => (
                   <div

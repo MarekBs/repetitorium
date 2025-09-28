@@ -1,0 +1,357 @@
+1. Aké organely sú typické pre všetky eukaryotické bunky? 
+a) cytoskelet zložený z aktínových, tubulínových a intermediárnych filamentov 
+b) pravé jadro, ktoré nie je ohraničené membránou 
+c) endomembránový systém 
+d) glykokalyx 
+
+2. Aké organely a štruktúry obsahujú všetky prokaryotické aj eukaryotické bunky? 
+a) mitochondrie, pravé jadro, ribozómy, cytoplazmu 
+b) ribozómy, cytoplazmu, cytoplazmatickú membránu, glykokalyx 
+c) ribozómy, cytoplazmu, cytoplazmatickú membránu, DNA 
+d) pravé jadro, ribozómy, DNA, lyzozómy 
+3. Aké sú hlavné úlohy cytoskeletu v bunke? 
+a) je to vonkajšia kostra buniek 
+b) umožňuje pohyb niektorých baktérií
+c) zohráva úlohu pri bunkovom delení 
+d) umožňuje efektívny transport molekúl v bunkách 
+
+4. Bunkové jadro: 
+a) je koordinačným a riadiacim centrom bunky 
+b) prokaryotických buniek je zložené z jadrovej membrány, jadrovej matrix a chromatínu 
+c) obsahuje genetickú informáciu 
+d) je obalené dvojitou jadrovou membránou 
+
+5. Cielená likvidácia vybraných proteínov sa uskutočňuje:
+a) v peroxizómoch 
+b) v proteazómoch 
+c) disjunkciou 
+d) ubikvitináciou 
+
+6. Cytoplazma: 
+a) je vonkajším prostredím bunky 
+b) je schopná sa meniť zo sólu na gél a naopak 
+c) je polotekutá 
+d) bielkoviny a ich hydratačný plášť najviac ovplyvňujú jej viskozitu 
+
+7. Čo je to nukleoid?
+a) jadro prokaryotickej bunky 
+b) jadro eukaryotickej bunky 
+c) jadro bakteriálnej bunky 
+d) kruhová molekula DNA 
+
+8. Čo patrí medzi syntetické centrá bunky?
+a) endoplazmatické retikulum 
+b) jadro 
+c) lyzozóm 
+d) Golgiho aparát 
+9. Čo tvorí jadro prokaryotickej bunky?
+a) dve cirkulárne molekuly dvojvláknovej DNA 
+b) jedna cirkulárna molekula dvojvláknovej DNA 
+c) nukleoid 
+d) jadierko 
+
+10. Jadierko: 
+a) je súčasťou prokaryotickej bunky 
+b) je súčasťou eukaryotickej bunky 
+c) je miestom syntézy tRNA 
+d) nachádzajú sa v ňom molekuly DNA, RNA a proteínov 
+
+11. Jadro eukaryotickej bunky: 
+a) je koordinačným a riadiacim centrom bunky 
+b) obsahuje genetickú informáciu 
+c) môže obsahovať jedno alebo viac jadierok 
+d) sa skladá z jadrovej membrány, jadrovej matrix a chromatínu 
+
+12. Jadro eukaryotickej bunky: 
+a) je koordinačným a riadiacim centrom bunky 
+b) obsahuje jadrové póry 
+c) nemôže mať viac ako jedno jadierko 
+d) sa skladá z jadrovej membrány, matrix a jadrového chromozómu 
+
+13. Jadro: 
+a) v prokaryotoch obsahuje DNA zbalenú do nukleotidov pomocou histónov 
+b) u eukaryotov, prechádza cyklickými zmenami počas bunkového cyklu 
+c) dochádza v ňom k translácii a tvorbe polypeptidov 
+d) neobsahuje RNA 
+
+14. Kde sú v bunke často lokalizované mitochondrie? 
+a) hneď pod cytoplazmatickou membránou 
+b) vždy na apikálnej strane buniek 
+c) v jadre 
+d) v mieste, kde je najvyššia spotreba energie 
+
+15. Ktoré organely živočíšnych buniek sú od okolitého prostredia vyčlenené dvojitou membránou: 
+a) mitochondrie a jadierko 
+b) mitochondrie a chloroplasty 
+c) mitochondrie a jadro 
+d) mitochondrie a endoplazmatikcé retikulum 
+
+16. Ktoré tvrdenia o centrozóme sú správne? 
+a) centrozóm sa skladá z dvoch na seba kolmých centriolov, pričom každý tvorí deväť trojíc tubulínových vlákien 
+b) kinetochorové mikrofilamenty sa viažu na centroméru chromozómov a umožňujú ich pohyb v mitóze 
+c) nekinetochorové mikrotubuly sa podieľajú na posúvaní centrozómov na póly bunky 
+d) centrozóm sa počas interfázy nachádza vždy v jadre bunky 
+
+17. Ktoré tvrdenia o cytoskelete eukaryotickej bunky sú správne? 
+a) mikrotubuly sa podieľajú na transporte mechúrikov a tvorbe deliaceho vretienka 
+b) mikrofilamenty sú tvorené tubulínom a zabezpečujú pohyb chromozómov 
+c) intermediárne filamenty poskytujú bunke odolnosť voči ťahu a tlaku 
+d) kinetochor je bielkovinový komplex, ktorý sa počas delenia pripája na centroméru chromozómov 
+
+18. Ktoré tvrdenie o mitochondriách je pravdivé? 
+a) 80S ribozómy sú poskladané v cytoplazme a následne sú trasnportované do mitochondrií 
+b) mitochondrie majú vlastnú genetickú informáciu, ale tá nie je exprimovaná, je to len rudiment 
+c) mitochodnriálna DNA má rovnakú štruktúru ako DNA v eukaryotickom jadre
+d) pre správne fungovanie mitochondrií je potrebná interakcia produktov jadrových aj mitochondriálnych génov 
+
+19. Ktoré tvrdenie správne popisuje jednotlivé druhy vlákien cytoskeletu? 
+a) mikrotubuly – duté rúrky z tubulínu, súčasť deliaceho vretienka 
+b) mikrofilamenty – tenké vlákna z aktínu a myozínu, vytvárajú kontraktilný systém 
+c) intermediárne filamenty – 10 nm vlákna bez kontrakcie, zvyšujú mechanickú odolnosť bunky 
+d) mikrotrabekuly – súčasť ribozómov, zabezpečujú proteosyntézu
+
+20. Lyzozómy sú: 
+a) mechúriky obalené dvojitou membránou, obsahujúce DNA 
+b) mechúriky vznikajúce odškrtením z Golgiho aparátu, obsahujúce hydrolázy 
+c) štruktúry s oxidačnými enzýmami, ktoré detoxikujú bunku 
+d) zásobníky glykogénu v cytoplazme 
+
+21. Medzi organely eukaryotickej bunky patria: 
+a) Golgiho aparát 
+b) endoplazmatické retikulum 
+c) mitochondrie 
+d) lyzozómy 
+
+22. Mikrotubuly sa predlžujú: 
+a) depolymerizáciou 
+b) polymerizáciou 
+c) pridávaním tubulínových dimérov 
+d) odoberaním tubulínových dimérov
+
+23. Mitochondrie vznikajú: 
+a) de novo v každej dcérskej bunke vzniknutej bunkovým delením 
+b) delením existujúcich mitochondrií 
+c) pučaním z jadra 
+d) pučaním z endoplazmatického retikula 
+
+24. Mitochondrie: 
+a) sú zložené z troch biologických membrán 
+b) neobsahujú DNA 
+c) sú miestom oxidatívnej fosforylácie 
+d) sú maternálneho pôvodu 
+
+25. Mitochondrie: 
+a) sú zložené z troch biologických membrán
+b) obsahujú DNA
+c) dochádza tu k terminálnej oxidácii 
+d) sú paternálneho pôvodu
+
+26. Na obnove laminy a obalu jadra sa najviac podieľa: 
+a) lamín A 
+b) lamín B 
+c) lamín C 
+d) lamín D 
+
+27. O jadierku platí, že: 
+a) je to trvalá organela 
+b) skladá sa z RNA a bielkovín 
+c) je miestom produkcie ribozómov 
+d) je miestom produkcie proteazómov 
+
+28. Peroxizómy sa vyznačujú tým, že: 
+a) vznikajú odškrtením z Golgiho aparátu, obsahujú prevažne oxidačné enzýmy 
+b) majú životnosť desiatky rokov a sú trvalou súčasťou bunky 
+c) sú najväčšou organelou bunky, ich hlavnou funkciou je proteosyntéza 
+d) sú kódované iba mitochondriálnymi génmi 
+
+29. Podľa zloženia rozlišuje bunkové organely: 
+a) membránové 
+b) zložené z bielkovín 
+c) zložené z bielkovín a RNA 
+d) zložené z DNA a RNA
+
+30. Pre akú organelu je typické nízke pH vnútorného prostredia? 
+a) lyzozóm 
+b) jadro 
+c) mitochondrie 
+d) cytoplazma 
+
+31. Pre akú organelu je typické vysoké pH vnútorného prostredia? 
+a) lyzozóm 
+b) jadro 
+c) mitochondria 
+d) cytoplazma 
+
+32. Ribozómy:
+a) nie sú zložené z biomembrány 
+b) sa nenachádzajú v prokaryotických bunkách 
+c) sú miestom transkripcie
+d) sú miestom translácie 
+
+33. Ribozómy:
+a) nie sú zložené z biomembrány 
+b) sa nenachádzajú v prokaryotických bunkách 
+c) sú miestom transkripcie 
+d) sú zložené z dvoch bielkovinových podjednotiek a rRNA 
+
+34. Typy jadierka sú: 
+a) kompaktné 
+b) s nukleolonémou 
+c) prstencovité 
+d) s nukleolomérou 
+
+35. Z čoho sú zložené ribozómy?
+a) z lipopolysacharidov 
+b) z molekúl cholesterolu a sacharidov 
+c) z ribonukleovej kyseliny a bielkovín 
+d) z proteínov a lipidov 
+
+36. Riasinky a bičíky:
+a) sú tvorené mikrotubulami
+b) riasinky zabezpečujú pohyb spermií
+c) bičík je pohybová organela niektorých živočíšnych buniek
+d) sú tvorené len aktínovými filamentmi
+
+37. Centrozóm a cytoskelet:
+a) centrozóm sa skladá z dvoch centriol uložených kolmo na seba
+b) cytoskelet sa skladá z mikrotubulov, mikrofilamentov a intermediárnych filamentov
+c) cytoskelet je tvorený len z bielkovín aktínu
+d) centrozóm má význam len v rastlinných bunkách
+
+38. Vakuoly:
+a) v rastlinných bunkách pomáhajú udržiavať turgor
+b) v živočíšnych bunkách majú vždy rovnakú veľkosť a funkciu
+c) slúžia na skladovanie látok a rozklad metabolitov
+d) vznikajú delením jadra
+
+39. Čo je to chromatozóm?
+a) prokaryotické jadro
+b) dekondenzovaný ribozóm
+c) nukleozóm stabilizovaný histónom H1
+d) stavebná/štruktúrna jednotka chromatínového vlákna
+
+40. Čo je to matrizóm?
+a) kohorta génov kódujúcich komponenty extracelulárneho matrixu
+b) súbor mitochondrií v materskej bunke
+c) matrica na vystavanie cytoskeletu v bunke
+d) komplex centrozómu a mikrotubulov deliaceho vretienka
+
+41. Endomembránový systém bunky:
+a) je tvorený napr. membránami endoplazmatického retikula, Golgiho aparátu, lyzozómami
+b) sa nachádza v prokaryotických organizmoch
+c) je tvorený hlavne membránovými organelami, ako sú peroxizómy a cytoskelet
+d) komponenty systému si môžu vymieňať látky vezikulárnym transportom
+
+42. Euchromatín:
+a) je tvorený kondenzovanými úsekmi chromozómov
+b) ide o transkripčne neaktívny chromatín
+c) má jemnú, penovitú až fibrilárnu štruktúru
+d) je transkripčne aktívny
+
+43. Heterochromatín:
+a) je tvorený kondenzovanými úsekmi chromozómov
+b) ide o transkripčne neaktívny chromatín
+c) má jemnú, penovitú až fibrilárnu štruktúru
+d) je transkripčne aktívny
+
+44. Histónové bielkoviny:
+a) patria medzi tzv. bázické bielkoviny
+b) sa nevyskytujú v jadrách eukaryotických buniek
+c) rozdeľujeme do 6 tried
+d) sú posttranslačne modifikované
+
+45. Jadrová matrix: 
+a) neobsahuje transkriptozómy a replikozómy 
+b) predstavuje najdôležitejšiu extrachromatínovú zložku jadra
+c) obsahuje enzýmy a ďalšie proteíny potrebné pre transkripciu a replikáciu
+d) na jej tvorbe sa podieľajú laminy A a C
+
+46. Jadrový obal:
+a) oddeľuje bunku od extracelulárneho prostredia
+b) je tvorený dvoma biologickými membránami
+c) vonkajšia membrána jadrového obalu je v kontakte s endoplazmatickým retikulom a s cytoplazmou
+d) vnútorná membrána jadrového obalu je v kontakte s endoplazmatickým retikulom a s cytoplazmou
+
+47. Jedno „poschodie“ 30 nm chromatínového vlákna sa nazýva:
+a) signum
+b) solenoid
+c) chromozóm
+d) segment
+
+48. Na výstavbe histónového oktaméru sa podieľajú:
+a) H1
+b) H3
+c) H4
+d) H8
+
+49. Nehistónové bielkoviny asociované so skafoldom a jadrovou matrix sú:
+a) proteíny zabezpečujúce teritóriá chromozómov
+b) enzýmy, ktoré odstraňujú torzné napätie
+c) proteíny, ktoré vykonávajú transkripciu
+d) proteíny, ktoré vykonávajú replikáciu
+
+50. Pórový komplex sa skladá z:
+a) jednej centrálnej granuly
+b) jednej bočnej granuly
+c) diafragmy
+d) karyotheky
+
+51. Nehistónové bielkoviny chromozómu:
+a) majú prevažne regulačnú funkciu
+b) nemajú vplyv na vnútornú organizáciu interfázového jadra
+c) sú skafoldové proteíny tvoriace ultraštruktúru chromozómov
+d) zabezpečujú ochranu teritória chromozómu a dynamiku chromatínových slučiek v ňom
+
+52. V akých iných organelách eukaryotických buniek okrem jadra sa môžu vyskytovať gény? 
+a) v mitochondriách
+b) v Golgiho aparáte
+c) v chloroplastoch
+d) v lyzozómoch
+
+53. Základné komponenty cytoskeletu sú:
+a) intermediárne filamenty
+b) centroméra
+c) mikrotubuly
+d) mikrofilamenty
+
+54. Globulárny aktín je základnou stavebnou:
+a) intermediarnych filamentov
+b) mikrotubulov
+c) mikrofilamentov
+d) aktínoidov
+
+55. Jadrové póry:
+a) sa nachádzajú na vnútornej strane jadrového obalu 
+b) sú tvorené z proteínových vlákien a granúl, ktoré spolu vytvárajú pórový komplex 
+c) zabezpečujú aktívny transport látok z jadra do cytoplazmy 
+d) sa nachádzajú v jadrovej membráne prokaryotických buniek 
+
+56. Medzi jednomembránové organely patria: 
+a) ribozómy a jadierko 
+b) Golgiho aparát a peroxizómy 
+c) lyzozómy a endoplazmatické retikulum 
+d) mitochondrie a chloroplasty 
+
+57. Jadrové póry: 
+a) majú priemer cca 100 μm 
+b) sa nachádzajú v jadrovej membráne prokaryotických buniek
+c) zabezpečujú aktívny transport z jadra do cytoplazmy 
+d) sú tvorené z proteínových vlákien a granúl 
+
+58. Medzi organely eukaryotických buniek ktoré sú tvorené jednou biomembránou patria: 
+a) chloroplasty, mitochondrie 
+b) Golgiho aparát 
+c) peroxizómy, lyzozómy 
+d) jadierko, jadro 
+
+59. Membránové organely poznáme zložené z: 
+a) jednej membrány, napr. endoplazmatické retikulum 
+b) dvoch membrán (obal jadra, mitochondrie a chloroplasty) 
+c) dvoch membrán, napr. Golgiho aparát 
+d) jednej membrány (obal jadra, mitochondrie a chloroplasty)
+
+60. Z koľkých biomembrán sú tvorené mitochondrie? 
+a) z dvoch 
+b) z dvoch – vonkajšieho obalu a vnútornej zriasenej 
+c) z jednej 
+d) z dvoch – vonkajšej zriasenej a vnútornej zriasenej
