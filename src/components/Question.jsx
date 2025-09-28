@@ -21,7 +21,7 @@ export default function Question() {
     ["4_Organely.txt", "4_Organely_odp.txt", 60],
     ["5_Reprodukcia buniek.txt", "5_Reprodukcia buniek_odp.txt", 85],
     ["6_Bunkove kultury.txt", "6_Bunkove kultury_odp.txt", 55],
-    ["7_Bunková smrt.txt", "7_Bunkova smrt_odp.txt", 55],
+    ["7_Bunková smrt.txt", "7_Bunková smrt_odp.txt", 55],
     ["8_Nukleove kyseliny.txt", "8_Nukleove kyseliny_odp.txt", 55],
     ["9_Replikacia DNA.txt", "9_Replikacia DNA_odp.txt", 55],
     ["10_Proteosynteza.txt", "10_Proteosynteza_odp.txt", 75],
