@@ -100,8 +100,7 @@ b) acetónu
 c) kyseliny sírovej
 d) proteáz
 
-18. Ako vyzerá kvalitná DNA po separácii gélovou elektroforézou a následnej 
-vizualizácii, napr. pod UV svetlom?
+18. Ako vyzerá kvalitná DNA po separácii gélovou elektroforézou a následnej vizualizácii, napr. pod UV svetlom?
 a) difúzne pruhy
 b) jeden hrubší pruh
 c) veľa krátkych fragmentov
@@ -299,7 +298,7 @@ b) RNA – sekvenovanie
 c) Western blot
 d) prietoková cytometria
 
-51 Pojem proteóm označuje súbor všetkých:
+51. Pojem proteóm označuje súbor všetkých:
 a) proteínov bunky
 b) RNA
 c) génov

@@ -196,19 +196,19 @@ b) každý test je absolútne presný a stačí ho použiť samostatne
 c) kombinácia zvyšuje spoľahlivosť a objektivitu výsledkov
 d) väčšina testov je lacná, preto sa používajú naraz
 
-34) Ktoré metódy patria medzi metabolické testy životaschopnosti buniek?
+34. Ktoré metódy patria medzi metabolické testy životaschopnosti buniek?
 a) MTT test
 b) LDH test
 c) Alamar blue test
 d) Trypan blue exclusion test
 
-35) Aké výhody má Alamar Blue test oproti MTT testu?
+35. Aké výhody má Alamar Blue test oproti MTT testu?
 a) je neinvazívny
 b) umožňuje opakované merania v reálnom čase
 c) je založený na fluorescenčnom signáli
 d) vyžaduje usmrtenie buniek
 
-36) Čo zisťuje LDH test?
+36. Čo zisťuje LDH test?
 a) aktivitu mitochondriálnych enzýmov
 b) množstvo DNA v bunke
 c) prítomnosť laktátdehydrogenázy uvoľnenej z poškodených buniek

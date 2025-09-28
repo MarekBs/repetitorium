@@ -1,18 +1,20 @@
 import React, { useState, useEffect } from "react";
 import "bootstrap";
+import { use } from "react";
 
 export default function Question() {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0); // Index aktuálnej otázky
   const [answers, setAnswers] = useState({}); // Načítané odpovede
   const [questions, setQuestions] = useState([]); // Načítané otázky
   const [selectedOptions, setSelectedOptions] = useState({}); // Vybrané checkboxy
+  const [selectedField, setSelectedField] = useState(0);
   const [results, setResults] = useState({}); // Uchováva stav správnych odpovedí
   const [range, setRange] = useState({ min: 1, max: 55 }); // Rozsah pre generovanie
   const [mode, setMode] = useState(false);
   const [nextQuestionRandom, setNextQuestionRandom] = useState(true);
   const options = ["A", "B", "C", "D"];
 
-  subory = [
+  const subory = [
     ["1_Mikroskopicka technika.txt", "1_Mikroskopicka technika_odp.txt", 55],
     ["2_Prokar a Eukar bunky.txt", "2_Prokar a Eukar bunky_odp.txt", 55],
     ["3_Biomembrany.txt", "3_Biomembrany_odp.txt", 55],
@@ -157,7 +159,6 @@ export default function Question() {
 
     setSelectedOptions({}); // Reset checkboxov
     setResults({}); // Reset výsledkov
-    setIsFirst(true);
   };
 
   // Spracuje zmenu checkboxu
@@ -200,19 +201,20 @@ export default function Question() {
 
   const handleUnFocused = (e) => {
     let { name, value } = e.target;
+    let maxTop = subory[selectedField][2];
 
-    if (name === "min" && (value < 1 || value >= 1000)) value = 1;
-    if (name === "max" && (value < 1 || value > 1000)) value = 1000;
+    if (name === "min" && (value < 1 || value >= maxTop)) value = 1;
+    if (name === "max" && (value < 1 || value > maxTop)) value = maxTop;
 
     if (range.min === range.max) {
-      setRange({ min: range.min, max: 1000 });
+      setRange({ min: range.min, max: maxTop });
       if (name === "max") {
-        value = 1000;
+        value = maxTop;
       }
     } else if (range.min > range.max) {
-      setRange({ min: range.min, max: 1000 });
+      setRange({ min: range.min, max: maxTop });
       if (name === "max") {
-        value = 1000;
+        value = maxTop;
       }
     }
 
@@ -230,11 +232,15 @@ export default function Question() {
     }
   };
 
-  const handleFieldChange = (e) => {
+  const changeQuestions = (e) => {
+    let selected = e.target.value;
+    loadFiles(subory[selected][0], subory[selected][1]);
+    setRange((prev) => ({ ...prev, max: subory[selected][2] }));
+    setSelectedField(selected);
+
     setSelectedOptions({}); // Reset checkboxov
     setResults({}); // Reset výsledkov
     setCurrentQuestionIndex(0);
-    setIsFirst(true);
   };
 
   return (
@@ -256,24 +262,28 @@ export default function Question() {
             role="group"
             aria-label="Basic radio toggle button group"
           >
-            <select class="form-select" aria-label="Default select example">
-              <option value="1" selected>
+            <select
+              onChange={changeQuestions}
+              className="form-select"
+              aria-label="Default select example"
+            >
+              <option value="0" defaultValue>
                 1. Mikroskopická technika
               </option>
-              <option value="2">2. Prokar. a Eukar. bunky</option>
-              <option value="3">3. Biomembrány</option>
-              <option value="4">4. Organely</option>
-              <option value="5">5 Reprodukcia buniek</option>
-              <option value="6">6. Bunkové kultúry </option>
-              <option value="7">7. Bunková smrť</option>
-              <option value="8">8. Nukleové kyseliny</option>
-              <option value="9">9. Replikácia DNA</option>
-              <option value="10">10. Proteosyntéza</option>
-              <option value="11">11. Genetika </option>
-              <option value="12">12. Cudzoroda DNA</option>
-              <option value="13">13. Vzťahy organizmami</option>
-              <option value="14">14. Vírusy</option>
-              <option value="15">15. Všetko</option>
+              <option value="1">2. Prokar. a Eukar. bunky</option>
+              <option value="2">3. Biomembrány</option>
+              <option value="3">4. Organely</option>
+              <option value="4">5 Reprodukcia buniek</option>
+              <option value="5">6. Bunkové kultúry </option>
+              <option value="6">7. Bunková smrť</option>
+              <option value="7">8. Nukleové kyseliny</option>
+              <option value="8">9. Replikácia DNA</option>
+              <option value="9">10. Proteosyntéza</option>
+              <option value="10">11. Genetika </option>
+              <option value="11">12. Cudzoroda DNA</option>
+              <option value="12">13. Vzťahy organizmami</option>
+              <option value="13">14. Vírusy</option>
+              <option value="14">15. Všetko</option>
             </select>
           </div>
         </div>

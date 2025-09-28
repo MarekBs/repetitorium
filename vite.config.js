@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import { VitePWA } from "vite-plugin-pwa";
 
-const basePath = process.env.NODE_ENV === "production" ? "/medTest2/" : "/";
+const basePath = process.env.NODE_ENV === "production" ? "/repetitorium/" : "/";
 
 export default defineConfig({
   plugins: [
@@ -35,8 +35,8 @@ export default defineConfig({
       },
       includeAssets: ["favicon.ico", "robots.txt", "index.html"], // Add index.html here
       manifest: {
-        name: "MedTest PWA",
-        short_name: "MedTest",
+        name: "Repetitorium PWA",
+        short_name: "Repetitorium",
         start_url: ".",
         display: "standalone",
         background_color: "#ffffff",
