@@ -10,7 +10,7 @@ b) veľkosti molekuly
 c) gravitácie
 d) koncentrácie gélu
 
-3) Typy sekvenovania sú:
+3. Typy sekvenovania sú:
 a) automatické
 b) ručné
 c) novej generácie
