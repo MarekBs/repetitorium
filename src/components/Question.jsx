@@ -17,7 +17,7 @@ export default function Question() {
   const subory = [
     ["1_Mikroskopicka technika.txt", "1_Mikroskopicka technika_odp.txt", 55],
     ["2_Prokar a Eukar bunky.txt", "2_Prokar a Eukar bunky_odp.txt", 55],
-    ["3_Biomembrany.txt", "3_Biomembrany_odp.txt", 55],
+    ["3_Biomembrany.txt", "3_Biomembrány_odp.txt", 55],
     ["4_Organely.txt", "4_Organely_odp.txt", 60],
     ["5_Reprodukcia buniek.txt", "5_Reprodukcia buniek_odp.txt", 85],
     ["6_Bunkove kultury.txt", "6_Bunkove kultury_odp.txt", 55],
