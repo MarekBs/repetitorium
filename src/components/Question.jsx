@@ -14,7 +14,7 @@ export default function Question() {
   const [nextQuestionRandom, setNextQuestionRandom] = useState(true);
   const options = ["A", "B", "C", "D"];
 
-  const subory = [
+  const files = [
     ["1_Mikroskopicka technika.txt", "1_Mikroskopicka technika_odp.txt", 55],
     ["2_Prokar a Eukar bunky.txt", "2_Prokar a Eukar bunky_odp.txt", 55],
     ["3_Biomembrany.txt", "3_Biomembrány_odp.txt", 55],
@@ -201,7 +201,7 @@ export default function Question() {
 
   const handleUnFocused = (e) => {
     let { name, value } = e.target;
-    let maxTop = subory[selectedField][2];
+    let maxTop = files[selectedField][2];
 
     if (name === "min" && (value < 1 || value >= maxTop)) value = 1;
     if (name === "max" && (value < 1 || value > maxTop)) value = maxTop;
@@ -234,8 +234,8 @@ export default function Question() {
 
   const changeQuestions = (e) => {
     let selected = e.target.value;
-    loadFiles(subory[selected][0], subory[selected][1]);
-    setRange((prev) => ({ ...prev, max: subory[selected][2] }));
+    loadFiles(files[selected][0], files[selected][1]);
+    setRange((prev) => ({ ...prev, max: files[selected][2] }));
     setSelectedField(selected);
 
     setSelectedOptions({}); // Reset checkboxov
