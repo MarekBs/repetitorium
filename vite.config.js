@@ -12,8 +12,6 @@ export default defineConfig({
       strategies: "generateSW", // Automatically generates service worker
       workbox: {
         globPatterns: [
-          "otazkyPng/**/*.{png,jpg,svg,gif,webp}", // Images
-          "**/*.png",
           "index.html", // Ensure index.html is included
           "**/*.{js,css}", // Cache JS and CSS files
           "**/*.txt", // Add .txt files to be cached
