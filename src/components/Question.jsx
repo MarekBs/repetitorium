@@ -280,8 +280,8 @@ export default function Question() {
               <option value="8">9. Replikácia DNA</option>
               <option value="9">10. Proteosyntéza</option>
               <option value="10">11. Genetika </option>
-              <option value="11">12. Cudzoroda DNA</option>
-              <option value="12">13. Vzťahy organizmami</option>
+              <option value="11">12. Cudzorodá DNA</option>
+              <option value="12">13. Vzťahy medzi organizmami</option>
               <option value="13">14. Vírusy</option>
               <option value="14">15. Všetko</option>
             </select>
