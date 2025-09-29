@@ -273,7 +273,7 @@ export default function Question() {
               <option value="1">2. Prokar. a Eukar. bunky</option>
               <option value="2">3. Biomembrány</option>
               <option value="3">4. Organely</option>
-              <option value="4">5 Reprodukcia buniek</option>
+              <option value="4">5. Reprodukcia buniek</option>
               <option value="5">6. Bunkové kultúry </option>
               <option value="6">7. Bunková smrť</option>
               <option value="7">8. Nukleové kyseliny</option>
